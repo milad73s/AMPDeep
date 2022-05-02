@@ -6,18 +6,12 @@ In this work transfer learning is leveraged to overcome the challenge of small d
 Three different benchmarks for hemolysis activity prediction of therapeutic and antimicrobial peptides are gathered and the AMPDeep pipeline is implemented for each. The result demonstrate that AMPDeep outperforms the previous works on all three benchmarks, including works that use physicochemical features to represent the peptides or those who solely rely on the sequence and use deep learning to learn representation for the peptides. AMPDeep fine-tunes a large transformer based model on a small amount of peptides and successfully leverages the patterns learned from other protein and peptide databases to assist hemolysis activity prediction modeling. 
 
 # Requirements
-transformers==4.8.1
-
-rdkit==2019.09.03
-
-torch==1.9.0
-
-pandas==1.1.5
-
-numpy
-
-scikit-learn
-
+transformers==4.8.1<br/>
+rdkit==2019.09.03<br/>
+torch==1.9.0<br/>
+pandas==1.1.5<br/>
+numpy<br/>
+scikit-learn<br/>
 matplotlib
 
 # UniProt Keyword Analysis (optional)
