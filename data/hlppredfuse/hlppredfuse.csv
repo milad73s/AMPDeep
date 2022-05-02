@@ -1,0 +1,3519 @@
+text,labels,split
+E K I S D L P G M P A L D A P I Y A D L H T C L E E V E A D,0,test
+F L G W L F K W A S K,1,train
+K K K K K K A A F A L W A A F A A,1,train
+F F R R F F R R F F R R F F R R,1,train
+C K V F D V V F H P D A L H L S T R D S Q F R K,0,test
+R G G R L C Y C R R R F C I C V,1,train
+G I G K F L H T L K T F G K K W V G E I M N S,1,test
+M A Q D I I S T I G D L V K W I I D T V N K F T K K,1,test
+L C Y C R R R F C F C V,1,train
+E N Y P I A L L F G G E T T V H,0,test
+G L F G K L I K K F G R K A I S Y A V K K A R G K H,1,train
+K K L F K K I L K Y L,1,train
+V A Q P Q L V P S R,0,test
+I L P W K W P L W P W R R,1,train
+V T E V A W Q A H F V K N M F I R P T E E Q L K N,0,test
+K N W K G I A G M A K K L L G K N W,1,test
+E P R L S S T V R G L,0,test
+H S G S M G G S E S S E F M V R T D A G E D L,0,test
+G Q S Q W R D V C R N F M R R,1,test
+H F L L T L V K L A K K I L,1,train
+K N W K K I A S I G K E V L K A L,1,test
+G E P W K V C V N,0,test
+R F G R F L R K I R R F R P K V T I T I Q G S A R F G,1,test
+S A V E K D R E D F R E A V V K T L D R L L F,0,test
+V I M E S S A Y L I A,0,train
+T N E I L Q L I L R H G A R M A E P G E,0,test
+L S V M H S E K L H V D P D N F R L L A D C I T V C V A A K L G,0,train
+L L T A D M L K Q L Q K E W L T Q R P E Q G K E K V,0,test
+L N L N S I V S W A K K V L,1,test
+T A D M L C F V S A C K D F C,0,test
+I N W K K I F E K V K N L V,1,test
+V I E V E G T V V E N L P N A M F R V E L P N,0,test
+K W K K L L K K L L K L L,1,train
+I I G P V L G L V G S A L G G L L K K I,1,test
+A D V V T T T T H K T L R G P R G G M I L S N K G,0,test
+R A Q A A L A R D M G P P T F P E D V P A L Q R E L E R L R A E,0,test
+E G G K V T V K T E A G A T,0,test
+V C Y C R R R F C V C V G R,1,train
+P A I A Q R A T A T L G T V G S N T S G T T E I E A C I L L,1,test
+E S K C L V I E K N G K L R Y E I D T G E E T K L V N P E D V A R L I F,0,test
+A C Y C R R R F C V C V G R,1,train
+Y E E E S E D L D Y E D S E G Q D Y E E A V E S Q Y,0,test
+G K D Y P I V R I D P K K D T A I I P F S S G T T G L F K G V C L S,0,train
+F D G E L P L G E,0,test
+A I Q R L A E E D P T F R V K L D D E T G Q T V I S G M G E L H L D,0,test
+R F G R F L R K I R R F R P K,1,test
+K G I S E I I S,0,test
+E N D I D I V R V G D V Q R L,0,test
+A S G I S G S G P T L F A L C D K P E T A Q R V A D W,0,test
+S A P R G C W T K S Y P P K P C K,1,train
+D P F R Q G S G R P F S,0,train
+G F M K Y I G P L I P H A V K A I S K L I,1,train
+I G V A F A H A I F W S I T A S L A I R M A P A G K R A Q,0,train
+G F L G P L L K L G L K G A A K L L P Q L L P S R Q Q,1,train
+A K F W E V V C D E H G I D P T G R Y T G N S D L Q L E R V N V Y,0,test
+E D S E L S I V M R G L R D M N L S K L V D E D E P L,0,test
+L C Y A R R R F A V C V,1,test
+C V I Q V D N V D T A A V E,0,test
+G L L C Y C R K G H C K R G E R V R G T C G I R F L Y C C P R R,1,test
+D I D T G K S F T K Q I P S,0,train
+S R G V K D R R L I E A M L K V P,0,test
+R R W C F R V C Y K G F C R Y K C R,1,train
+G A G K K K A K P A A R P N V,0,test
+L A N T V R V T L G P K G H P V A L E R K W G A,0,train
+R F G R F L R K I R R F R P K V T I T I Q,1,test
+L E T Y T P D S I S A L H N I R N Y L V E,0,test
+L P E G T S A Q K A E L V A L T Q A L R L A E G K,0,test
+N D N L N G V E R P V K F T V K D D N E A A V E I,0,test
+A T L S I E E N V K V I E K T V E F A K G R I P I I A G A G A N A T,0,train
+K N W K G I A G M A K K L L G K N W K L M K K,1,train
+V Q E V L T E L I A K I G E N M S V R,0,test
+L R Q V E Y M H K T L E A V L S R A V R D R V G V S C L E,0,test
+A V G A V L D V N V L G T I R M L Q A F,0,test
+G S I L S E R T R E L L K G H T V I Y L E I S V A E G L K R T G T N T,0,test
+I G G V L T G L G L P P Q T I G E,0,train
+Y K Q L M R I L T T M E N I A D L W N S A L T E L,0,test
+G K M K E Y F K K F G A S F K R R F A N L K K R L,1,test
+L T K T S R E L D G I K V N,0,train
+E T Q L D P G K N I A K C R I C N G E H W S V,0,test
+S V V E Q L Q D E A K H L R Q E V E G L E G K L Q S Q V E N,0,test
+E G D L K L T Q E S I M D L E N D K L Q L E E K L K K K E F D I,0,test
+G K L E V L H S T K K F A K G F I T G L T G Q,1,test
+V L L F E R E L H T V H G Y P S T F A S C M H I,0,train
+A Q Q E T F A G L T G L G D L V L T A T G E L S R N R R V G L E I G A,0,test
+P A I C Q R A T A T L G T V G S N T S G T T A I E A C I L L,1,test
+G K L L G Y A I H Q Q I E N E R,0,test
+I K I T H S N K L R E T L A D V L,0,test
+C S A K L F D S,0,test
+T C F M Q T N L V A P V G A A D Q C Y,0,test
+I G D L V K W I I D T V N K F T K K,1,test
+F R F G S F L K K V W K S K L A K K L R S K G K Q L L K D Y A N K V L N G P E E E A A A P A E,1,test
+N N L L R A I E A Q Q H L L Q L T V W G I K Q L Q A R I L A V E R Y L K D Q,1,train
+G K E A Q L R Q L N E L V R N L,0,train
+R L H M G H V R N Y T I G D V I S R Y Q R M L G K N V L Q P I G W D A,0,test
+P T Q V K I W F Q N H,0,train
+T I K G N N V,0,test
+K D V I K D G L V E R F T E L R K M G I E,0,test
+L F G F L I K L I P S L F G A L S N I G R N R N Q,1,test
+V D T V L F M V P A D E A R G K G D D M I I E,0,test
+E D A G E R Q M F I,0,test
+R A A G Q L L V P P R P R,0,train
+L F K T P D E T T G G I T V K I A K A R E Q K G L Y,0,test
+G L S A L I S W I K R K R Q Q,1,train
+F L P L I L R K I V T A L,1,test
+V V K P G R I L Y E I G G,0,train
+C G D C G R P E P S S R,0,test
+T S K Y R,1,test
+F A L L G D F F R K S K E K I G K E F K R I V Q R I K D F F R N L V P R T E S,1,test
+V G L G S G S T A R E F,0,train
+F L P L I G R V L S G A L,1,test
+K K W L K K W L K,1,test
+K R E T I H H E I K Q T V S S H N L K,0,test
+L N W G A I L K H I I K,1,train
+G I L S S F K G V A K G V A K D L A G K L L E T L K C K I T G C,1,train
+V R I T H L P T N T V V A V Q D E R S Q H R N K A R A M A L L,0,test
+I R A V H V F R S M N E V V I P S V L Q D V P V R T S E P R K Q N L L D,0,test
+Q R K D R D A Q Q V R T A R G,0,test
+K D R P K K P G L C P P R P Q K P C V K E C K N D D S C P G Q Q K C C N Y G C K D E C R D P I F V G,1,test
+L L G V F Q K M R I I L L G A P G A G K,0,test
+K R F K K F F K K P K,1,train
+Q H L S I E A I A W G F R,0,test
+H F L L T L K N L A K K I L,1,test
+E E N H I M S N L R Q V G L K K P V E R S S V L D R Y P P A A,0,test
+G F F A L I A K I I S S P L F K T L,1,test
+K W K W K W K W K W,1,test
+V G K P V E M N V Q V L R D L Y N A G I,0,test
+G E K L K K I G Q K I K N F F Q K L,1,test
+H L L T N F E I A I D P A V L P E L S E D E F Y W R E L F G M Q V V,0,test
+G I L K T I K S I A S K V A N T V Q K L K R K A K N A V,1,train
+T K K E A V V K T S S S P K K K V S Q A K K,0,train
+A V G A L L M D L A,0,test
+A S G I D P D K A T L F I Q S E V P A H V Q A G W M L T T I A S V,0,test
+V D E T L R V L K A F Q T,0,test
+G F W T T A A E G L K K F A K A G L A S I L N P K,1,train
+G I F S K L A G K K I K N L L I S G L K N I G K E V G M D V V R T G I D I A G C K I K G E C,1,test
+V P V I K S T A P S V S V A E E I L E A G R N T I N R G K I E F G L D,0,test
+R R W C F R V C Y R G R F C Y R K C R,1,train
+D N L Y H Q I,0,test
+E T F E S F D P L T V K M Y V C G P T V Y D Y V H I G H G R A F V,0,test
+G G R G R G G G G R G R G G G G N R D F R,0,test
+N W T L K V D E S A K T L K E,0,test
+T R V L L T V L I A F T K K E T S,0,train
+K W K L F K K I G I G A V L K V L T T G,1,train
+G Q Y G M P G N Y Q S M S S Q S G Q H Q G N,0,train
+K D T Y I A V D H L I T A L A,0,test
+G N A S V A I E P R L P Q A D F P E H H H D F H E I V I,0,test
+S A S L D E N G K G L Y E P S H G S A P,0,test
+K K L L K K L L K W L,1,train
+N F L H N L P F Y G R A V M,0,train
+A S V H S T G S L T T H A P Q R G E A A P A,0,test
+E D Y K D V A A V A D Q I G I P Y Y S V N F E K E,0,test
+D A R N A M V A G L L A S G I S V N G L Q P S H N P Q V A A Q M F,0,test
+D D V E L M L E A N R I G G R H G L G M S D Q I E N R I I E A K S R G,0,test
+A L A G T I I A G A S L T F Q V L D K V L E E L G K V S R K,1,test
+I S M R I V E Q Q T E,0,test
+F P F S L I P H A I G G L I S A I K,1,test
+A N C A G L K V G V G G N I G Y P V,0,train
+I I M T S N S E P M S S K D I K V C I S Q I Q D L I V I R,0,test
+L A E D F S D K H H A,0,test
+D Y Y Q P E A Y V P A S,0,test
+T Q A A R N A L R S L,0,test
+V S Q E D R K S Y N W K Q R,0,train
+A L W K T L L K K V L K A A A K A A L N A V L V G A N A,1,train
+Q P Q P K Q G H Q P L Q T I Q P P Q N T V T H P P P K,0,test
+L S P A V M A S L A,1,test
+G I G K F L H S A G K F G K A F I G E I M K S,1,train
+A L W K N M L K G I G K L A G K A A L G A V K K L V G A E S,1,train
+K T D T F S K T R E E K M E D I F A Q K E M E E G E F K N W,0,test
+E S G R W D Q Y G P E L L R F V D R G E R P F V L G P T,0,test
+R E I S T I T P R F T V V E K D P K L A S F I R N E Y P,0,train
+E K D S D D V L R E L N R Q P L N L Q A K E G L A L I N G,0,test
+E A V V C G T A T V A G S R C V I A V M D F R F L G G S L,0,test
+G F C R C L C R R G V C R C L C T K,1,test
+V V N L W A L H H N E K E W Q Q P D L F M P E R F L D P,0,train
+L K W G A I L K H I I K,1,test
+E E Q M A A E C L Q I N D L I L S V Y K D F G F E E I T I K L,0,test
+E L D V V Q Q E L E A R V E T L S A T V S E A G E R R,0,test
+R C Y C R R R F C V C V G R,1,train
+A L P L I G R V L S G I L,1,train
+L N W G A A L K H A A K,1,test
+H S S G T V I L D Q L G E E H M K T G K P I F Y T S A D S V F Q I A,0,train
+N H Q N E H G W T A L M I A S V,0,train
+G L F D I I K K I A E S F,1,test
+K K V V F K V K F K K,1,test
+Q R E M S K L L A T V V T G Q R Q D R Q G G E R K R P Q,0,test
+V S A S I E L I L V E D,0,test
+P E D E D S E E D D I I I E D N,0,test
+A P P S S Y G Y L A T L A G L K,0,test
+P T L I V Y T I I V P E I R K E L Q R L V D M W D I P A,0,train
+V R H I H F V G I G G A G M G G,0,test
+L L K W L L K W L L K,1,train
+R G L R R L G R K I A H G V K K Y G P T V L R I I R I A,1,train
+F K L F K K I P K F L H L A K K F,1,train
+K K K K K K L L F A A W A A F A A,1,train
+R F S T Y A Y W W I R Q A I T R A I A E K A R T I R L P I H I T E K L,0,test
+S N P N S I I L,0,test
+A E G A I K L L R Q I G A E V V A A C F I I D L P D L G G A A K,0,test
+L N W G A W L K H W W K,1,train
+F S A Q L E K E Y K V K I N P A S M F D V,0,train
+E I V A E K K K E E V D A E M N P V T K Q F Q F G Q S T V T L E,0,test
+C E T L V T T G,0,test
+I Q Q E T G G I T E L I P L P F M S K N N E L G R Y A K,0,train
+L M E Q F L A Q D E N A L Q P F E T S F Q Q L E,0,test
+S W K S M A K K L K E Y M E K L K Q R A,1,test
+F F Q F Y V A D G K L S C Q L Y Q R S C D V F,0,test
+L K L L K K L L K K L L K L L,1,train
+W L A V R H N L N T L N D I K I W W Q I C Y L P T L,0,test
+E H P R Q I P C Y I T Y T N S K T H E I I T N N L D K S A M Y,0,test
+S G G L S G A P V F E K S T E C L R L F A Q,0,train
+F I Q Y L A P L I P H A V K A I S D L I,1,test
+G K V L D K F G K I V G K V L K Q L K K V S A V A K V,1,train
+V R D S D L S N Q V A A V T S L A W L T,0,test
+A K G G N G G F G N A Y F,0,train
+A E A L V E A V I K L,0,test
+I A P F T V G I L P M N M H K S H,0,test
+S M V K K T G D W K K H V E T N S,0,test
+G N V W Q I G E A L A E W L Q Q R D M S C Y R V E G G F P V S G C I,0,test
+D E I A T G F G R T G K L F A C E H,0,test
+T K L Y S Y Q G K Y Y L N,0,train
+D V T S L M L G P M V A A C G G Y V P M I S,0,train
+S R I G D G P F F I G N L L R,0,test
+T S V D F K D T D Y K R H Q,0,test
+F F H H I F R A I V H V G K T I H R L V T G,1,train
+E V G A I E R L L Q V F D L P V T P P D Y,0,test
+K I V A E A D A V V L A T E H S V S L H L A A W F,0,test
+I S N G D F E S Y T K M C D P G M T A F E P E A L G N L V E G L D F H,0,test
+E A L L L F P L E L L I M G E L,0,test
+Q S G E E T E R C F C G T P P H C K A A E L V,0,train
+H N T E G P Q C N K C K A G F,0,test
+N P H G P G S T L P E S P V F L E P I N S T A P R,0,test
+K L L K W L L K,1,test
+I D K A E R G T R I V L H,0,test
+K N W K G I A G M A K K L L G K N W K L M,1,test
+I L Q K A V L D C L K A A G S S L S K A A I T A I Y N K I T,1,train
+K Y L K K I E D F,0,test
+D L V A S W G P A I L G H A H P A V V S A V Q E A A A R G,0,test
+S G N E S D G D T E E L S,0,test
+V T Q D L S E N I I L T T V D D L H N W A R L S S L W P L L Y G,0,train
+F R P K V T I T I Q G S A R F,1,test
+K P T F R R L K W K Y K,1,test
+A Y H F E K Q I E D M L,0,test
+A I R M E R E A L L A E M G V A M R E D G G,0,test
+L T E Q V R R K P Y S V I L L D E,0,test
+F L P V L A G I A A K V V P A L F C K I T K K C,1,test
+L N T N E N P Y P P S P K V L Q A,0,train
+H K A R A N K S S K S M R R L S P D G A L E D N M C L K D S F Y E,0,test
+F L S L I P H A I N A V S A I A K H F,1,test
+Q C R R L C Y K Q R C V T Y C R G R,1,train
+M K S N K K K G D S K G V S I L E R S,0,test
+P P G S V V V S G S L P S A D G K Y,0,test
+C G E S C V Y I P C I S G V I G C S C T D K V C Y L N G T P,1,train
+L L Q N K L H,0,test
+K N Q E A F V N L G V V L N T A M T G Q E S E K,0,train
+A E S W E I I K L I Q D F P R I I K R T S D N F E P S,0,test
+K M P K E Y D L F A Y P E E I N V W L I F R Q,0,test
+N R I L G L G D V M S,0,test
+G T S T M S G H Y V C H I K K E G R W V I Y N D H K V C A S E,0,test
+I N W K K L G K K I L G A L,1,test
+N L Q D L T V P K N M,0,test
+V D R D D D L K I G V K S T A V L F,0,train
+T T R A M A N L L S N I L N E N K W F P Y,0,test
+I L S T T L V Y S V V Y G Y R F W T G F G L P G S A F P,0,test
+D R A R E A T A P A K M A M D F I R I R G A R T H N L K N I D L D L,0,test
+S L K D K V K S M G E K L K Q Y I Q T W K A K F,1,test
+K K E G V T P Q E V I D K Y D G I I R K S F A D F G I S F N N Y S,0,test
+I L A E L F R F G K A L I I D G K I,0,train
+R S D E S Q S Q H A,0,test
+E V A E T V L G K L P K P R Y A D Y L P F K D,0,test
+L N F K A L A A L A K K I L,1,test
+I L P K K K P W W P W R R,1,train
+I L G K I W E G I K S L F,1,test
+I F R I D E E A I K A H L P V P P Q G,0,test
+I L C A E F P D E P K W M G G A E L S D D G R Y V L L,0,test
+S S Y T A N L A A F L T V Q R M E V P,0,train
+G K K L L K K L K K L W K K W,1,test
+I E T G V V F L D H M L T S F S R H S,0,test
+A G Y L L G K I N L K A L A A L A K K I L,1,train
+E Y A R Q R E N E L F D S L K D L T,0,test
+L N W G A F L K H F F K,1,test
+T Q Q Y D S Q V R T D T I V G P G S D S G I L,0,test
+V L M I E G D G K E V P E E I F,0,test
+R D A K E L V E L F F E E I R R A L,1,test
+L C Y C R R R F C W C V,1,train
+G R R K R K W L R R I G K G V K I I G G A A L D H L,1,test
+E V V D V R K A Q A G D,0,test
+Y G V V Y K A K N K L T G,0,test
+S C L L P M D D A L V R C A L D L S A R P Y L I W N V,0,test
+K W K S F L K T F K S L K K T V L H T L L K A I S S,1,test
+F L P I L A G L A A K L V P K V F C S I T K K C,1,test
+K L S L L P K D K D D A R N A I L E I R A,0,test
+F L P L I G R A L S G I L,1,train
+T L L K K V L K A A A K A A L N A V L V G A N A,1,train
+A L W K T L L K K V L K A,1,train
+Q A D F Q K V V A G V A N A L A H R Y H,1,test
+T A V E Q K Y R F F S Y G D A M,0,test
+G L L G K I L G V E K K V L C G L S G M C,1,train
+F M G P F E M S K P W S K N G V D G V F R F L N R V W R L,0,test
+G R I L S F I K A G L A E H L,1,test
+R L N V S G G N G L K,0,test
+A E K R T E L G E K A A K L Q G G L H K L D E T S V Q V A A,0,test
+R R W P L L P W K W P L I,1,train
+P G S E G L A A T L E R I V T N F Q L,0,test
+L F C N F F L W L T S M A E Q C C G A,0,test
+H D V L Y E P P V G I T I A V P K P T,0,train
+S Y R S L P P A A P P T T S N R H R R Q I D R G V T H L N I S G L K,0,test
+F L S T I W N G I K S L L,1,train
+R G N V K E V T A R G A N P,0,test
+Y S I N N D G I T L H L,0,train
+G A I V C N S G H F D,0,test
+G L F T L I K G A A K L I G K T V A K E A G K T G L E L M A C K I T N Q C,1,train
+G I G A I L K V L A T G L P T L I S W I,1,train
+S C Q A L I L A P T R E L A Q Q I Q,0,train
+L D S L G M R P K A V N I R T M P,0,test
+K L K L K L K L K L K L K,1,test
+N G K A I L Y A D R M T D S I K K A M S E T E R R R L I Q E A,0,test
+E E E D L Y M I G T S E H A M A A,0,test
+L Y A N T N T,0,test
+G P G P N G H S H L L K T P L G G Q K R S F S H L L P,0,test
+F K R L E K L F K K I W N W K,1,train
+L D T H F K L N I E A N H A,0,test
+Q L M L D A V I D Y L P S P L D V K P I I G H R A S N P,0,test
+S I R D K I K T I A I D L A K S A G T G V L K T L I C K L D K S C,1,test
+Q I I Y V G K A K K L R N R L R S Y F,0,test
+E S E D F S V G E I K,0,test
+F I G T A L G I A S A I P A I V K L F K,1,test
+G L W S T I K Q K G K E A A I A A A K A A G Q A A L G A L,1,test
+P A I C Q R A T A T L G T V G S N T S G T T E I E A C I L L,1,test
+V T L A S H L P S D F T P A V H A S L D K F L A N V S T V L,1,test
+N I S K P I R E M L K N H F S I A R P E I V G E Q I S K D G T R K W L,0,test
+L P D T I G N L S S L S R L G L R Y N R L S A V P R,0,train
+K N W K G I A G M A K K L L G E N W K L M,1,train
+N N Y L D M L A E S L H I H I A,0,test
+T N L S G G E K T L S S L A L V F A L H K Y,0,test
+K A V Q K E T G H K G K,0,test
+K W K W K W,1,test
+M I R I A M K A L N C F K V S G L K C W S F N S P R G Q E S P C P G,1,test
+Y A E P E A F H A V Q T A F K A A G V E E F A V A E L T M L P,0,test
+F F G W L I K G A I H A G K A I H G L I H R R R H,1,train
+E N V R S H P T A L Y I V L P,0,test
+P D N A G A S L F G G L L I,0,test
+L F V S F L T L P R A D T,0,test
+F A L L G D F F R K S K E K I G K E F K R I V K R I K D F F R N L V P R T E S,1,test
+F F S L G N L W A I I S S L A T Q R Q A E G I L N L I E A K W E,0,test
+G I I N T L Q K Y Y F R V R G G R F A V L S F L P K E E Q I G K F S T R G R K F F R R K K,1,test
+T N S G L L Q G K A S L T V N,0,test
+D A H R L A I Q G L R L L P Q A A P P A D Q P N L S V R A F G L N F S,0,test
+F K I K P G K V L D K F G K I V G K V L K Q L K K V S,1,test
+G F M K Y I G P L I P H A V K A I S D L I,1,train
+Y G V E L G K E M A R,0,test
+R T E E D D A R K L A R F D V D A V Y A P D V S Q I Y P E G,0,test
+I N W K K I A S I G K E V L K A,1,test
+V I S A N I R T T I S G M D D S G G T G S R Q K F R K L R K I E R E,0,test
+F K I K A S K V L D K F G K I V G K V L K Q L K K V S A V A K V,1,train
+F L P L I G R V L S G I L,1,train
+V I P F V A S V A A E M M Q H V Y C A A S R K C,1,test
+D H F K P L W A R N V P K F G I A H A M A L G L G P W L A,0,test
+W F M E E I A Y D I,0,test
+I Q E L S C V A R D T K L G A E E I T A D I P N V G E S A,0,train
+I K E E T Y K S L M L R G Q Q M L A R C P R S A E T N I D Q,0,test
+L E T F I C S A F A A C F A E,0,test
+G T V V G Y T T L S,0,test
+I N W K K I F Q K V K N L V,1,test
+F A K W A F K W A K K,1,test
+I L P W K W P W L P W R R,1,test
+S W L R D I W D W S C E V L S D F K,1,train
+N P W T T P P E A A Y D L T V S L E D A P D T P D I V E I T F D A G,0,test
+R G F V R V A M V K G K P L,0,test
+T Q L K A T L E S K K,0,test
+R N K T A Q V H A E S L Q Q V V K S Q R E V T E V L,0,test
+I I D L I K M K A E I Y T N D L G,0,train
+S L T F Q V L D K V L E E L G K V S R K,1,test
+L Q I R A P V N P T I W P L,0,test
+F W A F L G I M L Q I P L I V L,0,test
+G L L S G I L G A G K H I V C G L T G C A K A,1,test
+Y G R V R A M S D E N G Q P I K S A G P S I P V E I L G L P D A P M A G,0,test
+Y D S A T P I S T E T G T E I M T A T V L L E V P F S A R G D R,0,test
+G L M D V F K G A A K N L L A S A L D K I R C K V T K C,1,train
+A S N K Y I E A K E A M G G L,0,test
+A L W M T L L K K V L K,1,train
+Q N S L L N Q Q T W V R T D S A P D Q Q V E T G K,0,test
+G L M S L F K G V L K T A G K H I F K N V G G S L L D Q A K C K I T G E C,1,train
+S W A S M A K K L K E Y M E K L K Q R A,1,test
+G R T V V F E V L W D K L A E R V V P E A A D I S R F P,0,test
+D L V I G A I N D A M A R A Q Q L A A E R,0,train
+L E L E P H K G I K A L K N V S I N E P F F Q G H F P K R,0,test
+K A D F E Q R S R L Q I I P A,0,test
+V C E T G L L P R T H G S A L F T R G E T Q G L V V T T L G T G D,0,test
+F L G F L K N L F,1,test
+G V L S V T V P A K K V D,0,train
+V M E M M V A L C G S,0,test
+M H L R Q Y E L L M I S P G S P P S I V A L G G G H G L Y V T L S A A,0,test
+S K K N S L Q L D K L E Q D,0,test
+G G G H A G T E A A M,0,test
+K W K K L L K K L L P L L K K L L K,1,train
+F G G C I V A L V P P A L V D D V K A T V A A K Y Q A A T G L,0,test
+Q Q R K R K G I G A V L K V L T T G L P A L I S W I,1,test
+P R E I S K V M A S M N L G V L S E,0,test
+K K A A A A F A A F A A W F A A F A A A A K K K K,1,train
+T Q T V Y E W C G V A T Q L L A A Y I L L,1,train
+Q L S I D P N L K F,0,test
+K G I T R P E M I I P E S G H S A Y D K A A Q Y F K I K,0,test
+K L L K L L L K L W K K L L K L L K,1,train
+G L K K I F K K G L G S L V K G I A A H V A S,1,test
+L K W L K K L L K K L,1,train
+R A H L D D Y V I G Q D H A K K,0,train
+A V Y L R I G A L A G V V A D A L R F S F A,0,train
+K N W K G I A G M A K K L L G K N W E L M K K,1,train
+L A N L K V S Q I K K V R L L I D E,0,test
+H G L K Q L P G L A V Q R L M Q Q G Y G F A G,0,train
+I L L H E K K L S G L Q P L L,0,test
+T V T I M C A A T L A E G T T I I E N A A R E P E I V D T A,0,test
+F L P L L L A G L P K L L C L F F K K C,1,train
+A E A Y K Q V I Q E E R K M K P A S,0,test
+I F A G N I F D L T P D L L G L M D,0,test
+K K K K K K A L F A A W A A F L A,1,train
+T L E E R L G S L T S I,0,train
+N Q G P C Y D S S A V S S D,0,train
+I F K S I P E V H I T L T Q L T E A E H M L D L V A S T G F G I M F N S,0,test
+K W K S F L K T F K S A K K T V L H T A L K L I S S,1,test
+N I W N G I L S T F S L L G F L F T F P T L L S V I R K D G F,0,test
+L K K N G V D V Y N G F G D I K S A N E V V V N G E S L K T,0,test
+I K R E G D K,0,test
+D E V M T G F R V A Y N C G Q G Y Y G V T P D L T,0,test
+T G L A D A I V D L V S T G N T L K A N N L V E V E Q I M D I S S H L,0,test
+V R R F A W W W A F L R R,1,train
+K W F K K I P K F L H L A K K F,1,test
+V G E R V L V E A T D L P A A G D R V W L K G Y,0,test
+V Y S G E N I F C,0,test
+A T A A A Y A S,0,test
+G K K L L K K W K K L W K K W,1,test
+F Q W Q R N M R K V R,1,test
+V Q R E L L D A A I A A K,0,train
+T T R N I V G G A D G S T I V N N S Q E M Y K N L R H L I,0,test
+D G E I R G Y L P G T A E M K G N,0,test
+L F G F L I P L L P H I I G A I P Q V I G A I R,1,test
+D V D Y M V V D G,0,test
+A P V Y K E I F G A V T I H E V Q K V I K M D T E T E,0,test
+G R F K R F R K K F K K L F K K L S P V I P L L H L,1,train
+L M V K Q I N R M K K E A P A P V A A,0,train
+K R F K K F F K K L K N S V K K R A K K F F K K P K V I G V T F P F,1,train
+V R E R D A L R A,0,test
+V N E M I D K L T E E I T Q L E L N N M L G Q C G L Y D Y F N I I N M,0,test
+R A Y C R R R F C V A R,1,test
+I A A P N L P S S T V S E H S S V Q N N D,0,test
+V K Q G A A D E V E L I E G A R G A E Y E G M R I H S V R L P G L,0,test
+N Y A M F V D E N E H E K,0,test
+F M E I N G V E I E D T Y A E A F P I K I A R V L I T A V T K R W A Q,0,test
+R S V A K T F V A E R K K L G F P L L D D A S R V A L L A E D M,0,test
+K N W K K I A G M A K K L L K K N W K L M,1,train
+D I R F V T P L V N Q K R R E Q F E Q A L K A,0,train
+F L P A I A G I L S Q L F,1,train
+L L A T R A A V E E G V I P G G G V A L I R V I T A I S N L K G A N E,0,test
+D L T D Q P L P D A D H T W Y T D G S S L L Q E G Q R K A G A,0,test
+S I L D K I K N V A L G V A R G A G T G I L K A L L C K L D K S C,1,test
+K W K K L L K K L L K L L K K L L,1,train
+M K L S C L L L T L A I I V V L T I V H A P N V E A K A L A D P E S D A V G F A D A V G E A D P N A I I G L,1,test
+Q R A V Y K D L V L L L Q K D S L L,0,train
+G F K D L L K K A A K A L V K T V L F,1,train
+F A P L I G R V L S G I L,1,train
+C G E S C V W I P C T I T A L A G C K C K S K V C Y N S I P,1,test
+A Y V A A G S T L T E S V P P G,0,test
+T N R E D L I K K I D,0,test
+H G P E I L R K A I K A G V P K N T,0,test
+C A E S C V Y I P C T V T A L L G C S C S N R V C Y N G I P,1,train
+G L L D F V T G V G K D I F A Q L I K Q I,1,test
+K W A K K W K W F A K A A W K W Y K K,1,train
+G G H L T H G S P V N V S G K W F K V V H Y G V E,0,test
+F E F S K E L L K R,0,test
+T P F S R L V T P K I T E I L G F N L P V D M I A T S,0,test
+P E E N N D D D E L P L V V H N R Y W R E F F G Y T P,0,test
+E D P A I S E R F G A N L E Q A R Q,0,test
+S S L L E K G L D G A K K A V G G L G K L G K D A V E D L,1,test
+L K L L L L K L L K L K L W K,1,test
+F P T Q L A R H I K F G Q K S H V E C,0,test
+E T E N V N W P E F L K S V N D F G L P P E D L V I G L K P,0,test
+D K S Y L E P Y L K E V I R E R K E R E E W A,0,test
+V C G E T C E G G T C N T P G C S C S W P V C T R N G L P,1,train
+N T V G L E R S G F,0,test
+M R G Y S E C G D G S P A V Y T C V D D L C R G Y D L T R L S Y G R S,0,test
+I Q A N E I L,0,test
+T C S K K K A D R K S F,0,train
+M K L G L L V V L A V A V L V P S L S E G Q N V P S C Q L K D P N Q T P V E A G N M R N K R E A D D S S E E S D L A E I,1,test
+G L P V C G E T C V G G T C N T P G C K C S W P V C T R N,1,train
+D M I K N E V L T L M R T M Q E K A E L M Y K,0,test
+S G D D A V K M Q K L I D A L E D L D D,0,test
+S E L N I L A E G P V I A I H Q P E S E L A K M D E,0,test
+F K K L T A D S Q A V,0,test
+P I I K R F L G K L T I P V Q R,0,test
+T V E T R S S G A D S A G Y R W R S G A,0,test
+R W C V Y A Y V R V A G V L V R Y R R C W,1,train
+L C Y C R R R F C V C V G R,1,train
+G F G S L F K F L A K K V A K T V A K Q A A K Q G A K Y V A N K H M E,1,train
+P P V I T V M G H V D H G K T S,0,test
+R L C Y T R G R F T V C V R,1,test
+I L V V A R F G N T R L L D N I W L M K T E,0,test
+G D I F R Q T I D Q K G P Y W E E L K S Y I S K G,0,test
+R R R S Q G G E R G S L P I V Q L D G P V L K I N P L A N W S F T E V H,0,test
+G L V A A V S V G I V K G E A L C D L E Y V E D S A A E,0,train
+I D V L D E T A H K K A I R S V A W R P H T S L L A,0,train
+T Q G L V T R A Y T D E L W N M A L S K I I A V L,0,test
+V I L L V V V T C G A F M,0,train
+A R A V A G S D L S R R I E L D G P,0,train
+T M N L P V A T A L F T P S W H,0,test
+S N Y W E A L G K V E C P,0,train
+S E K N I A E F H K D M D A L G I M R P D S,0,test
+K W K L F K K I P L K K F,1,test
+F R P G M I S I N L D L,0,test
+D A G I S N E R I L I K L A S T W Q G I C A A E Q L E K E G I N C,0,test
+K F K L K Q,1,train
+P V E P D K I E E A N K G E N T S L L H P V S L H G M D D P,0,test
+I G D H N V I R E G V T,0,test
+L T C P F A G N C K V N K A,0,test
+N N L M K I A I A,0,test
+G I F G K I L G V G K K V L C G L S G V C,1,train
+F G S L R K V G Q Q S S D E E D D G S,0,test
+G G T A G G W S N L D A D P T E T W M A T N G S A S S A Q L S,0,test
+R D G R M H F T V I R E G R A P L A V V L N L P G L,0,train
+T L M F Q K E V A D R I I A Q P N N K N Y G T L S I L T Q L F,0,test
+W A I T F L I I A I V A A V L G F G G I A G T A T G,0,train
+L K L L K W L L K L L,1,train
+E V K S G Y G,0,test
+S V E D A L A I L K Y A P Q A A S E P V A K V V A S A A,0,train
+T Y A G S K A F L S G W S Q A L G E E V K R S N V D V S,0,test
+L L A G L A A N F L P K I F C K I T R K C,1,test
+S V P M T L S E D E I A R L K G I N,0,test
+I L G K L L K T A A G L L S N L,1,train
+K W K K L L K K L L K L L K K L L K K L K,1,train
+E K D F Q Q I L I I R R M V E D L A F,0,train
+L P P P L L S R E D W R V A Q R F H N S E S V F D P V G E W R K K T,0,test
+I N W K K L L D A A K Q I L,1,test
+I Y P G C Q L K T L W,0,test
+V T A Q T E F D L L K A A,0,test
+I L P W K L P W W P W R R,1,train
+F H P S L W V L I P Q Y I Q L I R K I L K S G,1,test
+L N W G A L L K H L L K,1,train
+E A D S A D G S F M D E L L T L M A A H R V W S R I P K I D K,0,test
+I F G A I L P L A L G A L K N L I K,1,test
+D G V R Y S P L R I V Q E L N A A A G A H G,0,train
+I W N G P M G V F E L A P F A E G T R A I A Q A M A N C P G M T I V G,0,test
+G F R E K H F Q R F V K Y A V P E S T L R T V L Q T V V H K V G K T Q F G C P A Y Q G Y C D D H C Q D I E K K E G F C H G F K C K C G I P M G F,1,test
+R G G R L C Y A R R R F A V C V G R,1,test
+K W K S F L K T F K S L K K T V L H T A L K A I S S,1,test
+S Q D S D L L E L Y C G N,0,train
+F F H H I F R P I V H V P K T I H R L V T G,1,test
+D K Y P R T L A A D Q E K L L Q A G C N L L F A P T,0,test
+H Q K A L V R E R K R T,0,test
+T K T T R N S P D S I S I P,0,train
+G V S E P Y R M F T S R A E Y R,0,test
+A L W D T L L K K V L K A A A K A A L N A V L V G A N A,1,train
+A D L H T C L D E V E A D V L L D L T T P E I G K K H V,0,test
+A A I G Y Y V Y T R W D G K F G R I R L G D T G S G G F,0,test
+R F N I L Q G T S F E,0,train
+F R L H R E P D L P G T L L Q E D I L V,0,test
+M K L S C L L L T L A I I F V L T I V H A P N V K A K A L A D P E S D A V G F A D A V G E A D P F D I T,1,test
+D V F A V A T G E E D G C G V V F K I R E G K L L G S Q R I Y M N N,0,test
+G L K K I F K A G L G S L V K G I A A H V A S,1,test
+G D N G N F L A Y A,0,test
+F W G A L I K G A A K L I P S V V G L F K K K Q,1,test
+R G G R L C Y C R R R F C V C I,1,train
+E R R A K K S E L V A A T Y A K R F A A K E A C S K A L G T G,0,train
+H A E H K V K I G V E Q K Y G Q F P Q G T E V T Y T C S G N Y F L M,1,test
+S L T S K K D A T R L A L S D E K T V A L S M P M S E E H,0,test
+A G K P M K Y Q Q L E N L E S G W K W K Y L V K K H R E G E L I T,0,test
+Y R N K L L E S A V E L N D E A M N L Y,0,test
+P V H Y R P M F G A L G S A R H H C R L T F L S Q A A,0,test
+C G L G F K A F W E E E T G F H Y D L F D K I D P K L S,0,train
+R F D L V L V A A R R A R Q M Q S G G K D A L V P E,0,train
+V R G F N S M A Q M Y T R L A A M P K K G M Y Q,0,test
+P T L H Q K N L R E Y C K A N N I M I T A H S V L G A V G A,0,test
+I F G A I W N G I K S L F,1,test
+G L A D Y W R T A F R A N F A N L G P G I R C K S A R C,1,test
+E E F F N T F N A L H D K,0,test
+T D T N V I G E C F D E W S R C H R Q T R W W T K I L F Q S C E N R C K C K V Q L M G N C I K V P F K C F L W K Q K R F M C E C Y G P I S G T K P W Y C G W E L,1,test
+P G A A A L V R H V H K A V A G V T D D L E,0,test
+L G S I I G G I G S S L L G G I A S G G I S S L L N K M F S,0,test
+P R A L L F I S Y A A N Q A V L A A,0,train
+K R R G D I F R F T I A D I P G I I E G A S M G I G L G L,0,test
+G C A S F T A Q V I I L N H P G Q I S A G Y S P V L D C H T A H I A,0,test
+G L G S V F G R L A R I L G R V I P K V,1,train
+E P Q R S R L Q E L A I V M N E K V G L L T E K N E K,0,test
+V T L A S H L P S D F T P A V H A S L D K F L A N V S T V L T S K Y R,1,test
+I W N K I A K S I G K V L E K A L,1,test
+V L R P L T Y S C Q C S R K R L E R Y W T Q Q E Q Q T A L T D A N I S T,0,test
+K E E G K K G G T L E E Q I V Q T N P V L E A F G N,0,test
+A L R E S L V P L N K K Y P I A E L M E S C A,0,test
+V G G M K P T T I S L L Q K C K Q E K K R F A T I T A Y D Y S F A K L F,0,test
+K W S T Q H P G G Q R V I G,0,test
+E L L K A E N S E L R D R,0,test
+V L D Q T P F Y A E S G G Q V G D H G I L Y S A A G E K V A D,0,test
+G M S A Q K P G L H P R N R H Q H R Y D L,0,test
+V D F Y L T K G I V E R V A,0,test
+A I K Q L A A A N I F P,0,test
+G I I K V I K S L I E Q F T G K,1,test
+V N R K K I L G K S I K V V K,1,train
+A M R E I L A G A P R L F D D L D E D S,0,test
+R Y G E N P H Q S G A F Y R D V H P Q P G T L A T F K Q L,0,train
+A L W K T M L K K L G T M A L H A G K A A L G A A A D T I S Q G T Q,1,train
+E L Q G R F P L R V E L T A L G S K E F L R I L T,0,test
+R I Y Q E A L P L L A E A G I V P S V D P D K S R K,0,test
+R F I L P T A I G H G Q I C D Q V P A E L I R E T L H R L Q,0,test
+S W I H A A A Q I Y N P R M D T L S H V L Q L N P Q L V,0,test
+L R R L W L R A N R L L R R L W L R A N R L,1,test
+Y K N H L N L H F V S N V D G T H I V E T L K K V D P E,0,test
+I S A A K Q K I S E A F V K I P V K,0,test
+V L T D V H D I D Q V A P V A A V V D,0,test
+V Y F S S E S H S R S D E A E N L K M M Y E D M K S R V E H V V,0,test
+F S E A I K K I I D F L G E G L F D I I K K I A E S F,1,test
+I L P W K W P W L P L R R,1,test
+A L W M T L L K K V L K A A A K A A L D A V L V G A N A,1,train
+E S Y M R L N E K A L D D F C Q S L V D Y L,0,test
+L P L I L R K I V T A L,1,test
+D K R L Q F N E,0,test
+R L R L R I G R R,1,test
+I N L K A L A A L A K K I L,1,train
+K L L K W L L K L,1,test
+Y V V V E I P K G E R N K Y E I A K E F P G I K L D R I I Y,0,test
+R L G G G G D M G I N F D V S R P,0,test
+R W S V Y A Y V R V R G V L V R Y R R S W,1,test
+G K L N L F L S R L E I L K L F V G A L,1,test
+G Y I R E V V I A G,0,test
+R P I I Q F V E S G D D K N S N Y F S M D S M E G K R S P Y A G L Q L,0,test
+C G E S C V F I P C I T S L A G C S C K N K V C Y Y D G G S V P,1,train
+A N I W V P F C R K H A I E,0,test
+F R K L F R V Y S N F L R G K L K L,1,test
+G A I E V S M P V V Q P A D L W Q E S,0,test
+D L V E A G V V D P T K V T R T A L Q N A A S I A G L I L T T D A T V A,0,test
+T T D L T G I T D Q H V K G A K P I S Q V L Q,0,test
+D A A C A A H C L W R,1,train
+L L K K L L K K,1,test
+K S S K E Q K K K Q K V,0,test
+A L P V S A I G F E G F E K R L E I,0,train
+K A L R M G E G R Q I K K L E H V A E A V N K L E D Q M V V M S D D E L,0,test
+D R F A C H Y D,0,test
+F V Q W F S K F L G R I L,1,train
+M P Y K D K L F V G N V F,0,test
+G L F G V L A K V A A K V V P A I A K H F,1,test
+K W L N A L L K K G L N C A K G V L A,1,test
+G G L V G G D L L V F E V N L E K N S,0,test
+V F K S Y P T R V G E G P F P T E M S L Q E A E N L G V V E Y G,0,test
+I L P W K W P L L P W R R,1,test
+I L P F K F P F P F R R,1,test
+M T Q Q I T V T E H L,0,test
+Q C P K Y Q G S R C S S D A N M L G,0,test
+V N R D Y R V C D S Y P T E L Y V P K,0,test
+R G G R L C Y C R R R F C V C R,1,test
+G K T L V S R T Q G T K I A S E,0,train
+E E N V F V M T,0,test
+I D W L K L G K M V M D V L,1,test
+W L N A L L H H G L N C A K G V L A,1,test
+V R I Q G P N Y Q V,0,test
+D A T V V Y G V N Q H L L,0,train
+F L R F I G S V I H G I G H L V H H I G V A L,1,train
+R N Q L V P I N K,0,test
+A A G L A M L F L G I L S A A G S T M G A R A,1,train
+E Y D V D N I L V A G P G F A K N S F Y N,0,test
+N S M G S Q L D I L L K E I D L S N G D L A E T L L E Q E R H L N Q,0,test
+D V K G S Y S A Q,0,test
+T L M L E M Y Y M Y A N I K Y D L M P L S K F Q Q V L I G A,0,test
+K S P K P G Q D F F P L T V N Y Q E K T Y A A G K I P G G,0,test
+G I F T G R S P K D K Y I V R D A I T Q D T V W W A D Q,0,test
+T S R C I F Y R R K K C S,1,train
+S Q S S P L S L G S R G S S S G G S G S D S E P D S,0,test
+T D D P V E A I E Q M E I E L S R L T E E L T S R E Q K L V I S S R S V,0,test
+D S K K Y K D R I S A A Q,0,test
+P I V K Q F K Y G Q H T V T L E T G A I A R Q A T A A V M A S M D D T T,0,test
+L N W K A I L K H I I K,1,train
+N G Q P R V G Q W V L,0,train
+W E A K L A K A L A K A L A K H L A K A L A K A L K A C E A,1,test
+W Y S E M K R N V Q R L E R A I E E,1,test
+T D A D V R L A R R I R R D,0,test
+W K K V F K R L E K L F S K I W N W K,1,train
+G L P V C G D T C V G G T C N T P G C T C S W P V C T R N,1,test
+F A E V P K L C G H I H L P A Q S G S D A V L A R M,0,train
+H E Q H H K A Q V E Q F L A E H G D E Y Q S V K,0,test
+A I N A L Q A A S A T G D,0,train
+H D E N H P Y R T W N Y H G S Y D V K P T G S,0,test
+C G E S C V W I P C L T S A V G C S C K S K V C Y R N G I P,1,test
+F I D L S L V L K R F Y L L R D V G L E L F F K D G R S,0,test
+A L R A S L G R A P G P N,0,test
+F E F R G A K L,0,test
+G L P A L I L W I K R K R Q Q,1,train
+Q A R P D K N R D D Y D H E E D G P R K Q Q K N R S S Q N Q V R N Q,0,test
+R V P L A D K P H E K T M,0,train
+R R Q A A E M G L T V L D A,0,train
+F S E N E R L T N S I I W N S P N V S I N R Q R K S Y P L T T K V,0,test
+V E V L A Y G V C L T A E Q V F I D R R L,0,train
+R A F D H Y W P R F G V,0,train
+N I W K K I F E K V K N L V,1,test
+S S R G S A K D E T Q T S G E E P A P A K S F,0,test
+D S D P E I F G A I E K,0,test
+L R E D K V E F S L S I E A I K K,0,train
+L K K Q L A L A E G K P L E T,0,test
+H A R I V T A P Y E V T E V T G R F L K R L V R I L R E A E,0,test
+R L M A A K A E S R K,1,test
+R R S L G H P E P L S N G R P Q G N S R Q V,0,test
+S W L R D I W D W I C E L L S D F K,1,train
+A A A L R G D K Q S Q S A T,0,train
+E L S K A V R L I K,1,test
+S D K M A D V L N A S E G V I K T D N P E E A D I I L F N T C S V R E K,0,test
+K I Q E L R E A Q L Y S V D V T L D P D T A Y P S L I L,0,test
+F L S L I P H A I N A V S T L V H H F,1,test
+Q R N S L L R R L R E G S A T A A E L E L W D D Q L A P L,0,test
+K W K L F K K I P K F L H L A K K,1,train
+D Q E E A L T M S D T,0,train
+C E S C V W I P C I S S V V G C S C K S K V C Y K N G T L P,1,test
+Q A Y A D I P S I V R R T I L D I G,0,test
+G D Q K K D A N L I G Q F G V G F Y S A F I V A D Q V D V Y S,0,test
+K E K L K L K C K A P K C Y N D K L A C T,1,test
+F S L D G K G P Y D D P N V,0,train
+P S V V A W A L I V G G V L M W L L E S R K A T P D,0,train
+R L A A V Q L L Q F L A P K I R T E H I S P F F P L V S A H,0,test
+L S L R R S M Q S A M I K D D L I F W L V R E L E D P D H L,0,test
+K L K K L L K K W L K L L K K L L K,1,train
+R Q G R P F Q P W D G L D E H S Q D L S G R L R A I,0,test
+H F L L K L V N L A K K I L,1,test
+Y S H D E M H A L R R D A I N T A K S A K K W,0,test
+E L L K D A P G V E L S D I P T P L Q A A G K,0,test
+F A L S Y Y Q Q I P M I E F Y S N C V L V Q S L I L S L F L I S F,0,test
+N D A E I A A R L E R A A H Y P P F N C H T V N N D,0,train
+G P Y Y P Y L G S N T K E S T S I L Q P W E K E T K V P,0,test
+I P K P M R W A D K T V Q F I R P V H T V T M L L G D E L I E G E,0,test
+D P D D V C S Y L A A A M Q F F E G T C P E D W T S,0,test
+P V S L T S S L V F L M,0,train
+G W K D W F R K A K K V G K T V G G L A L N H Y L,1,test
+Q L Y K E Q L A K L M A T L,0,test
+I L F H Y N G H,0,test
+I I V E E K L E A P D I D L D L E L R K I I N I R A G G S L R L F V P,0,test
+V R R A L L S V S D K A G I,0,train
+S G E V M I S A L G D P R G N G K G G F V L L D G E T F E V K G T W E Q,0,test
+A P V N V S S S D L T G R Q D T S R M S T S Q N S I P F,0,test
+L E I T V D P I E I T D E E V D T E L Q S L R A R F G T L T,0,test
+L A L I L R K I V T A L,1,test
+A A A K V R E R M Y A L I A G L D A S E V T D I V S V,0,test
+A A C V L G P G R I A S L A A L D D S K K L,0,test
+K C I Q Q N I T Q Y P I R Y N E I D K,0,train
+I V E H K D A T D E Q R Q I Q E I N T G,0,test
+I I V K H N L D S F E S A S S T I Q S,0,test
+N L I H G R D G E D G K I A A L F E F Y S I K F I G P R,0,test
+R A G L Q F P V G R L L R R L L R R L L R,1,train
+G L L G K L L K I A A K V G K K L L,1,train
+G Y R Q P N N H Q T N E Q G D K R I T H R S Q G D T N D K R I E R K,0,test
+A C G Y F L N P S L M S,0,test
+G L K K L I S W I K R A A Q Q G,1,test
+R G F G A M S L A D M A E A V L R Q A P D,0,test
+Q G A K P L V T V,0,test
+I L P W K W P W W P W R R,1,test
+F F R R F F R R F F R R,1,test
+A I V F D T V R R Y F T Y R G Y D V K Y V S N F T D V D D K,0,test
+A N D K D T L V M E L S S,0,test
+K A L A K E H G I E I K D T M K Y G H I L N E F F E Q K V E,0,test
+G V T L R A A H A R P R M A E E V I T,0,test
+W K S Y V R R W R,1,test
+K L L K K P L K L K L,1,test
+Y S M G V R E Q I I F P E I D Y,0,train
+S L C R T D H L C R S R L,0,train
+F P N Q F P F V G N A R H S L T Q K C I W L V I L L T T V A S V,0,test
+A T E T S A G,0,test
+G I G K F L H S A K K F G K A W V G E I M N S,1,test
+S H I P E L I E P W F I F S L V W S V G A T G D H,0,test
+V W L K K Q G L L R R S A M I G L R P E D D R V Y D V I V V G A,0,test
+M A F K K L E K V G R N I R D G I I K A G P A V A V I G Q A T S I A R P T G K,1,test
+A P Y D L V R R M R A S V L V L G P L T A R L K K A R V S L P G G C A,0,test
+G K F S G F A K I L K S I A K F F K G V G K V R K Q F K E A S D L D K N Q,1,test
+K K A L L R A L L E P T E T L R K L E Q N G D Y T A R L A L L,0,test
+G V W T T I L G G L K K F A K G G L E A L T N P K,1,test
+P S A D L P S L Q P S R S I D E R L L G T G A T T G R D L L L P S P V,0,test
+A R N L R G K A I L Y A D K M T R S M Q A A I,0,test
+A L A I I E E S K Q S G T P V S V G L L G N A A D V Y,0,test
+L L L K L L K L L L K L L L K L L K,1,train
+A L K Q Q E P L L S K Y S D Q L V H L I R R,0,test
+L T I P N L P A D E V P V G K D E N D N V,0,test
+M N L Y L A G A H F N L V L Q K L W E C T K M K F G T S H M M V S,0,test
+P G V L S G I G G F G G L F E L P R G Y K Q P V L V,0,test
+E T I V L R H P F G Q M K V D V L L G L Q W G D E G K G K,0,test
+T V Y V S N E F N F L N,0,train
+G S I T A A Q F L Q R F V D D T P W A,0,test
+A V A E H S S V P V M L Y N I P G R T S I N L Q P E T V,0,test
+R A E T F G G F D C H Q L N A S K G G E K E E G D D G,0,test
+N E S L K L R N E I E R I R S D A E E D I Q K W K K D V H M A Q N E L K,0,test
+W K S D V R R W R S R Y,1,test
+L E A R A N Y R S A L V,0,test
+F S Q E Q Q L M K R G L K H I A G I D E A G,0,test
+L F T I G K E L G T,0,test
+L I E L E L D F A E E D V E F A N R D Q F K D,0,test
+L G R V D I H V W D G V Y I R G R,1,test
+E L D N N A E C K N G F I L D G F P R T V A Q A E R L D,0,test
+D Y R V E G D Y S Q A A F F F C A D A L S S N I V L,0,test
+A D S L Y N T P P T F A I Y M,0,test
+S C G S P C A G L C,0,test
+G K K L L K K L K K L L K K W,1,test
+D Y P E Y D D A I I M S K E L,0,test
+K L L L K,1,test
+T I D D F A K L D L R V A E V R V A E A V E G A D,0,test
+Q K A D T L G T F Q I E S R A,0,test
+I L G K L L S T A A G L L S K L,1,train
+G A G N N T I N R L Y N I G V E G A D T V A I N T D K Q H,0,test
+K M E V E W L E Q H V K H L Q D D E N Q F,0,test
+I D W S K I F E K V K N L V,1,test
+G F W G K L F K L G L H G I G L L H L H L,1,train
+R W C V Y A Y V R V R G V L V R Y R R C W,1,train
+I D S L P E K Y N T R V G D K G T Q L S G G Q K Q R I A,0,test
+K D G Y L V G N D G C K Y S C F T R P G T Y C A N E C S R V K G K D G Y C Y A W M A C Y C Y S M P N W V K T W N R A T N R C G R,1,test
+I N W K S I F E K V K N L V,1,test
+G V C G K A S L Q A V S Q V S R F A P G G D P A,0,test
+M K A R G I E M,0,test
+R H W M A N K Q Y V F T K E E V A K L A K Q Y,0,test
+F G M N L G N R R K A T R V P D L S R Y D Y H Y N G S G G N S V,0,train
+N V L I R H N E E Y E R V E G L D N G V I L H L K S G K,0,test
+L T C D L L S F E A K G F A A N H S L C A A H C L A I G R K G G A C Q N G V C V C R R,1,test
+R K R T E F A G A K F K E S K V F E A N E E A L,0,train
+T Y D Y Y K N I,0,test
+K N L N D N Y G I T K Q Q,0,test
+L N K L L G S V V I S Q G G V L P H I M A E L,0,train
+L R L E Y R R F E Y R V,1,test
+T A R K G A A,0,test
+C G E S C V W I P C I S S A I G C S C K N K V C Y R N G I P,1,train
+Y S F S L K R N N S D D E T E H T S A I,0,test
+V D L T L D E K G E N G V G E L S S E Y N R L Q E K F E E,0,train
+Y E E K N V P K I D R P F E F F M N R F R L L E A V P K Q E F E D Y T,0,test
+M H A N N R Q E V S E I V A G D I A A C V G L K D V T T G,0,test
+K W K S F L R T F K S P V R T V F H T A L K P I S S,1,test
+S W L R D I W D W L C E L L S D F K,1,train
+S W L R D I W D W L C E V L S D F K,1,train
+A E T G D A H I D D V V,0,test
+A E G T T I I E N A A R E P E I V D T A N F L I T L G A K,0,test
+L T S T V S E K E K E M E T K I V E L K T R Y E K E L S Q L G Q E N,0,test
+F V P Y F D V P I Q H A H P D I,0,test
+L C Y C F R R R C V C V,1,test
+M V H E E L N N K P Y V I N D L V G A,0,train
+T N F K S T L P,0,test
+K W K L K P L L K K L L K K L,1,test
+M G V T F C A V A P E H P L A L H A A,0,test
+G L M S L F R G V L K T A G K H I F K N V G G S L L D Q A K C K I T G E C,1,train
+T L G I I F F A I F F R E P P R I S,0,train
+A F C H T R T N D Y K S D K P S G K Y A S S T L I R K M I F E G,0,train
+G S M R K V L V W Q N L D S P R A I V,0,train
+P L S I Q M R L R G R G F L R G I L D G L V,0,test
+C V I S A G W N H K I R C K L T G N C,1,test
+S R R Y P G V Y T D V H Y V K P F I,0,test
+Y Q K I W N H E K N E S P,0,test
+K R L F K K L L F S L R K Y,1,test
+F L P V I A G A A N F L P K L F C A I S K K C,1,train
+A K E G V F L P P S Q F E G T F L S T A H T K D D I E K T I Q A,0,test
+F L P I I A G A A A K V V Q K I F C A I S K K C,1,train
+R T N V E P E W M V L R L L P V L P P E L R P I,0,train
+N G L C R I A V K E A E H G,0,test
+S M V L E E Q A E S D G S D S H V L L G K A M K R N S N T S,0,test
+N K Y R E I S S V S N C R D F Q,0,test
+R G G R L C Y C R R R F C V C W,1,train
+N E L P E P E Q D N G G A T E S V K E Q E M K W,0,train
+L R N N A C K L A K W T V E,0,test
+D C T R W I I G I N G R I C R D,1,test
+I I V D P A R E L K V L I S N L L D L L T E V G V S G Q G,0,test
+G F M K Y I K P L I P H A V K A I S K L I,1,train
+G R S R W R D V C R N F M R R Y Q S R V I Q G L V,1,test
+G R V A G V D E V G R G P L A G P V V A A A V,0,train
+F L G W L F K W A W K,1,train
+S T A G I A E H L P A V,0,train
+G F F A L I P K I I S S P L F K T L L S A V,1,train
+K G F F A L I P K I I S S P L F K T L L S A V,1,test
+Q V M L R S D A,0,test
+G R K K R R Q R R R P P Q,1,test
+K K K L L L L L L L L L K K K,1,train
+S W L R D I W D W E C E V L S D F K,1,train
+V L V K R T K T K K L Y W T K K Y,0,test
+L V L S D M A A P T,0,test
+L S Q S S L L L E H L L R S W E R I P K K T Q K S L,0,test
+K K H K F N T V P G V Q L R N V D S L K K E A Y E V E,0,test
+G I W G T L A K I G I K A V P R V I S M L K K K K Q,1,test
+T C Y C R R R F C V C V G R,1,test
+A P A V A F D H L D D M H Q A F L Q,0,train
+M N N W S I K F S E Y K F G D P Y L H N T I G S K L,0,train
+N C E Q Q V Y Q V G K R K F A R I T V A A M A S S N L I,0,test
+S S S L P E D V,0,test
+V A R N E L R A I P Y V G M,0,train
+C Y R N S C S E C M D P S G V,0,test
+G L F G V L A K V A A H V V P A I A E H F,1,test
+I Y V Y N L K N M E L I N T L,0,test
+D V T R D E P A K G V D G E V I E G G G T,0,test
+W Q E A A A P V D F Y T I K G I V D,0,test
+S G V E V G L V V G G G N I I R G V N A S K E G I I R R S S G D,0,test
+E G G F A P D L P N N E A A F,0,test
+A L L D N K R P V T Y G E I D A P H G H D A F L L E D A R Y H A,0,test
+A K K V S K R L E K L F S K I Q N D K,1,test
+L L T R D D V M D G V P E M I P D,0,train
+E T N I A E N Y K I K T R A S Y F,0,test
+C G E S C V Y I P C L T S A I G C S C K S K V C Y R N G I P,1,train
+W K L F K K I P K F L H L A K K F,1,train
+A H M G Q F L R A E I A,0,test
+K A D L Q A S R Q V E Q,0,test
+V D I H V W A G V,1,test
+D K K I E G C Q,0,test
+H A L W K N M L K G I G K L A G K A A L G A V K K L V G A E S,1,train
+I L F Q E L Q I P T T,0,test
+S D L Y N N I V R T M L Y Q,0,test
+K W K L F K K I L K F L H L A K K F,1,train
+L L P P G P V M V D V A G G Q L T E Q E,0,test
+G I M S L F K G V L K T A G K H V A G S L V D Q L K C K I T G G C,1,train
+F L S S I G K I L G N L L,1,test
+I F G A I W N G I K S,1,test
+N W N R K L G C K C Q Y K H I V D W C,0,test
+L G F G T F V L M L L G L V V E L I K,1,test
+L T A L L L L L L L Q,0,train
+V F P G T R V F L K C F K N T Y S I T G K I P L S T E L L,0,test
+S D S G T A I F L M H G,0,train
+L C Y C R R F R C V C V,1,train
+I Y A Y D A K I E I Q T L T G L F K G D K C H S L V G,0,train
+N R T G R S R E A R E K,0,test
+G C F A A G T R R P N N D Y T L,0,train
+I C G E T C V G G T C N T P G C S C S W P V C T R N G L P,1,train
+L R L K Y R R F K Y R V,1,train
+K A A C A A H C L W R,1,test
+G H K S A E V R A P K P D C K V E K K K M E L Q E K S R W,0,test
+I E G R D R T M A W T V V N S I C N T T G A E K P K F L P D L Y D,0,test
+R G I S M D A D Y V F D V R,0,train
+F L P V I L P V I G K L L S G I L,1,train
+M K A K V W S T E A K L G E K Y D V V G I P T D L,0,test
+G L K K W F K K A V H V G K K V G K V A L N A Y L,1,test
+F I G S A L K V L A G V L P S V I S W V K Q,1,test
+A V C K L I G I N M S L,0,test
+S F L M R L C K N,0,test
+C T Y D A D T L S K D P A D G R,0,train
+W R E T S Y Q E A C D L A S L C E R E Q I P F I L D R Q E V,0,test
+N N A Q G E Y Y L T D V,0,test
+F L H F L H H L F,1,test
+C F Y S C T W Q D Y P D K K S L Y E K A T,0,train
+F V P W F S K F L P R I L,1,test
+V F R Y C L D Q M V E F Y R D,0,test
+L N W G A G L K H G G K,1,test
+G I I N T L Q K Y Y Y R V R G G R Y A V L S Y L P K E E Q I G K Y S T R G R K Y Y R R K K,1,test
+P A I A I M Q P I S R F L Q L L C E N H N R E L Q H F L R N Q N,0,test
+L M F Y A N F G Q E E L S A S G T S F,0,test
+W K K I A S I G K E V L K A L,1,test
+R D V T V L Q A I E,0,test
+E A A Y C N H L D V L R L L S K T T L T C L G D F K Q L H P V G F D S H,0,test
+D A A S R F G S Q C I V V A I D A K Q V G,0,test
+K H W D Q E P D V L H D D T I F E I F N N R N C,0,test
+N M T F I F G R D Y L T L E N D C R I E F T L G T,0,test
+R Y G E V P L P P Y I K C H D P S D S E R Y Q T R,0,test
+S V D M V M K G L K I W P L,1,test
+A K Y P I K P I K L D V E N K Q V V G D L Y N G L Y R K R Q L,0,train
+S P E P S T C P S G L V P E P P E P Q G P A K,0,test
+M E S V S D A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+K D G Y I I E H R G C K Y S C F F G T N S W C N T E C T L K K G S S G Y C A W P A C W C Y G L P D N V K I F D S N N L K C,1,test
+R E K L L A Y A E K N G I D I T R K P G K S P Y S M D A N L L H I S Y E,0,test
+G F F G K R K E Y F K K F G A S F K R R F A N L K K R L,1,test
+Y D V K Q Q R L L L A Q E E Y N H L N K,0,test
+G D G K R I A L V P T M G N L H A G H I A L V E K A R Q R,0,test
+P G I L S M A N A G P N T N G S Q F F I C T A K T E,0,test
+K A A R A A T A A T A A P I S S P T T R G K,0,test
+A H K E I S E T R K L L V G S G,0,test
+F F G W L I R G A I H A G K A I H G L I H R R R H,1,train
+R K E K A I P V D V A,0,train
+A M T E P A L R E A F A A D V V F L R H,0,test
+R Q L R R R T R K E V R A V S M S N L R T L V F Y A T P E H P C S,0,test
+G F L S I L K K V L G K V M A H M K,1,test
+L Q R R Q S F A V L R G A V L G L Q D G G D S N V A S E A D S E P,0,test
+M S W V R Q A P G K G,0,train
+H E A R L H I L E Q M N T V I A Q S R S E V S D N A P,0,test
+E A A E L E V D E L K S Q L A D Y Q Q A L D V Q,0,test
+S G P D G E P T I R A H,0,test
+K V S G K L Q A L H N L L P R V D K L I I G G G M A F T F L K S L G E,0,test
+F T S N S N G T F F T E N L E H T N R N T N G H V D F E K I T G V,0,test
+I G M G E R T S H Q A I G Q V A R A L F A K G A A Q R V,0,train
+T F P D G R S L,0,test
+R F L L G G R H G E F K F L P P P G Y A,0,test
+T P A T R Q E W V K A A,0,test
+A M A K L Y Q R I N P H I,0,test
+I Q P K R A T V E G F D A Y F T S R T L,0,test
+V M Y Q S P L I Q D L H D R G L I A Q,0,test
+E A A E Q E K T V E E H W A H M V V H G S L H L L,0,test
+G V V D I L K G A A K D L A G H L A T K V M N K L,1,test
+D T A E L A G I L M S N S L V,0,test
+A W H C G E C K E I I V A R E,0,test
+K I G A K I K I G A K I K I G A K I,1,train
+S W L R D L W D W I C E L L S D F K,1,test
+Q V H S S A R A P L S R S,0,train
+H I D E V V R R I A L A R F D V,0,train
+S V I K E G K I W R S Q G V L F L E V N D N N K N I E E L S K V F G I A,0,test
+G F K L K G M A R I S C L P N G Q W S N F P P K C I R E C A M V S S,1,test
+G M W S K I K N A G K A A K A A A K A A G K A A L G A V S E A M,1,test
+G F K D L L K G A A K A L V K T V L F,1,test
+T S A V E D D G L A R A,0,test
+G W G S F F K K A A H V A K H V A K A A L T H Y L,1,train
+G V V D I L K G A A K D I A G H L A S K V M N K L,1,test
+A V G K I M K F,0,test
+M Y Q I Q Q V G R F K,0,test
+S N K M T D R E R D K V M P L I I Q G F K D A A E E A G T S V T G G Q T,0,test
+G G L R S L G R K I L R A W K K Y G P I I V P I I R I G,1,test
+Q L M R E V A A K T N D V V G D,0,test
+V D Y D Q V K I K D L K T S N N R L L N K R R K K Q A G S S,0,test
+T D I E K Y C E L M F D,0,train
+E E R H T F E K G S Y Y L C D V I P D K L A A I S I N T L Y,0,test
+G I A K F G K A A A H F G K K W V G E L M N S,1,test
+R A S G K S I G F V P T M G Y,0,test
+A G A E P L Y F L D Y I A T G K N N,0,test
+P E K G F L S G L R E L T K,0,test
+D A I R R A V P D G,0,test
+S P G N A L F H A K R G Q A F L K L K K P N A C I R D C D V A,0,test
+L N W G A I L K K I I K,1,test
+Y Q L V A I G T S T G G P V A L Q T I L T Q L P A N F P H P I L L I,0,test
+K K L L K W L L K L L,1,train
+T L S S I A R D,0,test
+T N L A S S D F A M H N V G M K D Q P G V R H,0,test
+G E P F A G G A S K N Y,0,test
+G L G K F L H S A K R F G K A F V G E A M N S,1,test
+D Y E L I V L L G L D P S V K R Y M M Y H Q G C F A G G T,0,train
+D V Q L E I L K T I P G L E K A V L L Q P G Y A I E Y D F I D P R,0,test
+G L G S L L G K A F K I G L K T V G K M M G G A P R E Q,1,test
+C G E S C V W I P C L T S A I G C S C K S K V C Y R N G I P,1,test
+Y A G K N C P N G E V L,0,train
+F L S L I P H A I N A V S A I A K H N,1,test
+I L P W K W K W W P W R R,1,train
+G W K D W L N K G K E W L K K K G P G I M K A A L K A A T Q,1,test
+N L K D P H A H,0,test
+S H P K A M T A E E I E K V,0,test
+F K T W K R P P F Q T S C S G I I K E,1,test
+K M K E I A E A K I G K K,0,test
+G A V V V P G S L P A K D G S H S L Y C A V I I K Q V,0,test
+I L P L K L P L L P L R R,1,train
+G W G S F F K K A A A V G K A V G K A A L T A Y L,1,train
+D Q V E A E L S Y,0,test
+L D F L A V A V A D L G S I A E R,0,test
+I P S I K L P I R L H P,0,train
+P G R F E V V D G G Q N Y T V I V D Y A,0,test
+P Q N K Q I G K K T I N G I V M L S D F Q A G E P L A L,0,test
+L K S G Y P L V Y P,0,test
+T D Q L Q A L G I K V F G P T K A G A E L E A S K S W,0,train
+T V T A S L G E E T A F L C E V Q Q G G I F S I A G I E G T Q M A H C L,0,test
+E L F A A V Q K I V N G R V P L I A G V G T N D T R D S I E F,0,test
+G Q A C S M G A F L L A G G A E,0,test
+L V H I L S Q M E D K G I R S A M I,0,train
+R E G R V T K R F A V L N A R F H,0,test
+K I P V V A A I H G A C L G G G L E L A L A C H Q R V,0,train
+K W K L F K K I P F L H L A K K F,1,train
+K L L L K L L L K L L K,1,test
+K L L K L L L K L L L K L L K,1,train
+F G L M E Y K T P F I A K K L G V S P K A V V R I A Q Q L,0,test
+S R S E L P D T A S L R H M I M G P S S K L I S Q F R L T Y N M I L,0,test
+C G E S C V F I P C I S T L L G C S C K N K V C Y R N G V I P,1,train
+R A V L R R Y,0,test
+G F H D I E I L N T S K G V P,0,test
+P N L S G F V S W K M A L S I S V G V L V,0,train
+G L L S G I L G A G K N I V C G L S G L C,1,test
+G L M D T V K N A A K N L A G Q M L D K L K C K I T G S C,1,test
+F Y I I G A I T L N N L L L R,0,test
+K L L G P L L K I A A K V G S N L L,1,test
+E F N Q Q A I E E T E R A L E K W G S I F I K A A S Q G S S V G C,0,test
+V A G V Y A E D P R D V,0,test
+L S L L G Q K S V P Y,0,test
+A E N S N T A K H A A E F W,0,test
+P A I C Q R A E I E A C I L L,1,test
+D A W R M H M Q E F V A Q L E T R,0,test
+R I S F K K G K G S W I K N G L I K G I K G L G K E I S L D V I R T G I D I A G C K I K G E C,1,test
+K A K L F K K I P K F L H L W K K F,1,train
+W Y L T L T L G Y G R R,1,test
+I A V V A S F V D P K D H S F L K K L,0,test
+H L A V V W N I A G V A L E D V L Q E,0,train
+V Y D D S K A V F P V,0,test
+P V G P V W L L E P Q T Y M N V S G K S V A A L A R F,0,test
+D S L T N A V G L L K E E M R R L D S I I M R N G E A H R V,0,test
+C K L L L K W L L K L L K C,1,train
+L N V K K F S A V H E F Q N L H A M Y K A R I,0,test
+C A L V S T E L L Q N R R G R G E A A A E P S,0,test
+W K E H L A N M,0,test
+G F L F G A P V A L G L G V G F V P V R K P R K L P R E T I,0,test
+I N W K K I A S I G K E V L K A L,1,test
+D H V A A L A R L K E E G H E V V L I T,0,test
+P D D L S Q V K R I L Y G K Q T R N L D L P R K A L E A A S E R N F E,0,test
+R F E H G G Q D C V Y W K G W F G A R V T N S S V W V E P M D G D G D P,0,test
+S L L N I S I G C D K K C A,0,test
+G I G A V L K V L T T G L P A L I S W I,1,train
+R V L H G L G W K V L V C D P V R,0,test
+A P A V D A I W H I L N V I D D S P V A R A S L V P Y E D Y I V G,0,test
+G H P S F V M,0,test
+M L N I M R Y C I D E L H S E E G M T L E A V L Q I N E T K L D E L I,0,test
+L Q P G L A A L T W T S L N I E A Y L E N T F A K I K D L E L L L D R,0,test
+Y M V Q V H L N F R R A E,0,test
+K W K S F I K K A K T S F L H S A K K F,1,test
+H Q A S G R S Y H I V Y N P P K V E G K D D V T G E D L,0,test
+L M I Y L K P V L P K L A N Y S E C F L N T R L T W G S L S A,0,test
+G K F S V F G K I L R S I A K V F K G V G K V R K Q F K T A S D L D K N Q,1,test
+M L D A Y G D I A K I D S A R R C G L Y H F C L K N T P H,0,test
+M P Q T R E H I L L A,0,test
+L A E W N A E,0,test
+C D Q V Q S E L D Q A N S G T K F L L E R A D V L R S Q R,0,test
+A S G F G V R L L N H L V K D Y Y E N K M A K G F Y I S K A L G I,0,test
+S E Q A F S G V S K A H E A T T V K P L H S I F H,0,test
+E V E I L E N A K T F I E S E F D C E V I V N G E D V K G K,0,test
+G I G A V L K V L S T G L P A L I S W I K R K R Q Q,1,test
+V T V L T D T,0,train
+I G Q G A S G G V Y T A Y Q H G T,0,test
+I N Q K K I A S I G K E V,1,test
+I R D L R L G E F D V L V G I N L L R E G L D M P E V S,0,test
+T V L L I F T L D D D L,0,test
+A M A A Q F A A E A T L R R V H A A Q K D D D M P P I E,0,test
+F K A M S Q Q I K L L V G L A N P G P E Y A K T R H N A G A W V V E E,0,test
+G L L G K L L K I A A K V G S N L L,1,train
+R R G W V L A L V L Y Y G R R,1,test
+A C I I Q R K E S L V S H K Q E L I D K L L I R I N G V M Q A,0,test
+F A K W A F K W L K K,1,test
+N G F K V L K K E K I H S V A A V I I L E S W F N,0,test
+Y H L S K E D A E V I N A T K K R G N K V I,0,test
+G L T R S R Q I L A K T G I N P D,0,train
+I M Y Y T I G,0,test
+A E S Y P G L T V D Q L S L E Q L Q N F,0,test
+L D V T V T R G D Q E I,0,test
+R Q I W K F E C K A T V D G K A V C S A E,0,train
+E V V Q A A K G K A L,0,train
+L T V S R S R Q I T V D G W Q R P V K I K K M S A S,0,test
+F F P L A L L C K V F K K C,1,test
+G T A L G N F G V D H I L D G I V E W A P R P Q,0,test
+I I L N M D K I L,0,test
+L Q R V L N V G L L L L A A I L I V F L V,0,train
+E P E A G M W,0,test
+E K N R Y R A E E L A E E R I L D V L I P P A K N N W G,0,train
+T G L N P K Q V E Y L V N Q,0,test
+E H H P A F P,0,test
+R G G R L C Y C R P R F C V C V G R,1,train
+A L L L K D S L R G L K K Q L N Y S D I G G A V L F G V K A P V V,0,test
+E L M E F E R,0,test
+R I V V V D L H N P S I Q G F F N I P V D,0,train
+S W K S F L K T F S S A K S T V L H T A L K A I S S,1,train
+A P H P Y G V P T P P T G A Y S R A G,0,test
+E S L Q H N S V L E K I K N A I T K R V,0,test
+D I P V I A S G,0,test
+T A K S G Y V R P V K K K S M C G I V G A V A Q R D,0,test
+I D W K K I F E K V K D L V,1,test
+E T N H T N V P I S S T G G T N N K T V P Q T S E Q E T E K R I,0,test
+D P V S K I F F E Q G T Y Q C L E N C G T V A L T I,0,test
+T I S V V G W V H R R R D H G G,0,test
+Q L R L E A E I V T D K R G I W K F A C R A L V D G N V V C S A E I L,0,test
+D S G Y D T E N Y E S P E F V L K E A H E S S E P E A F G,0,test
+I L Q Q D F C H A I K V G V K Y T Q Q I I Q G,0,test
+G V V T D L L K T A G K L L G N L V G S L S G,1,test
+V E Y D S F L D E N D W D I,0,train
+R D L P L R L Y E N G C,0,test
+S C C A L V G G E T A E M P G M Y H A G D Y D L A G F C V G V V E,0,test
+G L G S V F G R L A R I G R V I P K V,1,train
+L Q E D E I R R A A E E R R R E K A E E L A A R Q R V R E K I,0,test
+K I R V R L S A,1,test
+D E K Q F I S M V N E G A F I E H A K V F N H W Y,0,test
+S S L L E K G L D G A K K A V G G L G K L G K,1,test
+D H L V D L A D S V,0,test
+R L L M E A T L P G,0,test
+H L L Y L Y R S F T S Q T Y M D S S T V H L F V T I I S,0,train
+G S W I G F M V V Y F T A M G S I D G T R P K L S K D N K K L,0,test
+L A V M S D L A V P I I C T V I G E G G S G G A,0,test
+D A F R L H G Y T A A Q L L L T R A D F A D P A R F S N I S Q T L R E,0,test
+G F I E V P G E,0,test
+I I E G I G P R Y C P S I E D K V M R F A,0,test
+S L E V D P M T A A K V I V A V M S N E S G L T L T F E R P T E,0,test
+V G K D V T V A N A T I,0,test
+L C A Y V T H L P V D N Y Q T D A A V,0,train
+F R E R E Q A M I A E L C E,0,train
+M R I F E E V K K A F,0,test
+Q S V P V S D K Y L E I,0,test
+M G Q D N A E D I A Q T I K,0,test
+I D W K K L L D A A K Q I L,1,test
+P G L S S L S D T M I M D S I A A F L V L P N R L,0,test
+P N M F N T R Q V G K T L I N,0,test
+G D M F R A A I K,0,test
+S D D M L V A L V M A V Y L S S L P P,0,test
+G S G K T D I S T G L P F F D H M L T A L G,0,test
+G F K K L L K G A A K A L V K T V L F,1,test
+L N L K S I V S W A K K V L,1,test
+R S D F V F D G L Q M T P S,0,test
+I I S T I G K L V K W I I D T V,1,test
+I N E A H M R D G V S F I D P D T A Y I D A D V K I G N,0,test
+V D T D P G L K G D T A G T G G K P A T L S T G A V V K V,0,test
+H Y R I K P T F R R L K W K Y K G K F W,1,train
+E F T E E E E E K E K L L T Y K D I E V Q V P I R T R R,0,test
+K I S K K I M R T F L R R I L T G K K,1,test
+S N W K K I A S I G K E V L K A L,1,test
+L W Q K S G H W D N Y Q D A M F F T E S E K R T Y A,0,test
+N A H L G E L V K D P D L S R Y I L M D L,0,test
+A L W M T L L K K V L K A A A K,1,train
+I L G P V I S K I G G V L G G L L K N L,1,test
+G L P V C G E T C V G G T C N T P G C T C S W P V C T R K,1,train
+P E F T C V C,0,test
+E I R E D V N V E M F S R V I R R A W E,0,test
+L K L K S I V S W A K L V L,1,test
+R L V R E V A V F,0,test
+V A G S G T G R G S P A V T L V Q L P S G Q T V Q V Q G V I Q T P H,0,test
+F Q P P K L K D K L K W S N S F H H F V K M A L T K,0,test
+R T G T R D G E D S E Q P K K,0,test
+L N I P I F R I D F I K E Y W D E V F S D,0,test
+W K Q V A E K I P L Q P K H F R I L N P V I I K,0,test
+D G L L E P A R Q L,0,test
+E W G R R C C G W G P G R R Y C R R W C,1,test
+E E L V V A G G G G L R R F,0,test
+K V M A H M K,1,test
+E W A M K A K G I D N N N G S G E R,0,train
+N D I L P G E V E K W Q F L E Q L,0,train
+F W G A L A K G A L K L I G V S L F S S F S K K D,1,train
+F M I V P A G A P T F K E A L R W G A,0,test
+K W K L F K K I E K V G Q G I G A V L K V L T T G L,1,test
+A D E A D I I L,0,test
+F W G A L A K G A L K L I V G S L F S S F S K K D,1,train
+L L I I L R R R W R K Q A R A R S K,1,test
+I W Q D N T T E Q T W Q V L D A F G G N H Q E Q I G,0,test
+M L Q D L L S S L G D L L K S W L D T L N K F T K K,1,test
+L S Q I L D D V L D D R S S S H S V E K L K D V A,0,test
+F L S L A L A A L P K L F C L I F K K C,1,train
+R A H K L D N K D L F S K S,0,test
+E D G D Q L F A N N,0,test
+T H S D Y N T Y S A Q A C A,0,train
+M R I I G V D E S K I Y N D V,0,test
+R E I D A L L L E L D G T E N K S N V G A N A I L A,0,test
+P P S P R S V D Q V K S Q L R T A L A S G G V,0,test
+Q T D C D V L I A G N G,0,test
+F I K R I A R L L R K I F,1,train
+L L I I L K K K W K K Q A K A K S K,1,test
+D I A L L T T F R T K G E,0,train
+I L G K I W E G I K S,1,test
+A F K I A A S L A L K E,0,train
+M H L N I P F Y G L N L G S L G,0,test
+P A D L L S P D R F P V Y A A G R G G,0,test
+A K A N N E Q D M L G Y L I S K H S Q L A S L V G L I P Q R K I,0,test
+Q Q R D K F D L L Q T,0,train
+L F A S Q R L I S G K V D D A D L N S Y H S,0,test
+G D G T T T C S I L T S N M,0,test
+E L C P P S F C S N G G H C Y V Q A S G R P Q C S C E P,0,test
+M G N S E V G H L N I G A G,0,test
+E R A E R G E K T K R P M E V R R E E T T M T Q E M L R D L E,0,test
+A S F H S V S K G Y M G E C G F R G G Y V E,0,test
+G W A N T L K N V A G G L C K I T G A A,1,test
+S E E A L K A L H E S I I K A G Y K P G E D I A I A C D C A,0,test
+S I A V M P P W G A K E C R I G T N P L,0,test
+V R T Y N A V D V E G L Y T L G T V V V D Y R G Y R V T A Q S I I P,0,test
+K G L E G A K,0,test
+V R G V G K N D I R R G D V,0,test
+G I F P K I I G K G I V N G I K S L A K G V G M K V F K A G L N N I G N T G C N N R D E C,1,test
+M T D K Y K E R R F D T Y G Y E K,0,train
+K W K S F I K K L A S K F L H S A K K F,1,train
+E E I K E V L A G D I A A A I G L K D T T T G D T L C A E N S F I,0,test
+R L I K L Q K H G K T V V L K L R Y S D F T T I T K R L T L N E Y T N,0,test
+G F W K K V G S A A W G G V K A A A K G A A V G G L N A L A K H I Q,1,test
+W Q P T E L A E G I S I E W K Q V S L H G I S,0,test
+G D V L E P E Q G V M A I G S G G N Y A L A A A R A L I E,0,test
+S I I T M T K E A K L P Q L W K Q I A C R L Y N T C,1,test
+I P A F F F H T S A T V T R T L V D F F V E H R G Q L K,0,test
+K M E D I V A S I K A G Y E C G K K H N I I V L A E,0,train
+K W A S L W N W F N I T N W L W Y I K,1,test
+F E Q T G G P D L T T G S G K R T K S D R V E H K H A S Q,0,train
+F N I V E H E Y F,0,train
+A C L L V T P Y Y N K P S Q,0,test
+L F G V L A K V A A H V V P A I A E H F,1,test
+L N K M R D L Y R F R R V R Q F L F G A E N,0,test
+S R E K Y Y V L E M F P Y P S G R I H M G H V R N Y A M,0,test
+H R I A L N L R E Q G R,0,test
+S D A K P L V L K G G N I E F E N V H F S Y L P E R K,0,test
+S A T H L L H E A L R E V L,0,test
+K N W K G I A G M A K K L L G E N W E L M,1,train
+S W L R D L W D W I C E V L S D F K,1,test
+S A K A R R G G K K T F N P K K R,0,train
+N N I N P A A W T Q D N I D,0,test
+G F M K Y I G P L I P H K V K A I S D L I,1,test
+V Q S G S D R I L K A M N R R H T A A E Y L A L V E R I R A,0,test
+V I Q P L Q Q M G A K I W A R S N G K F A P L A V Q G S Q L K P I H Y,0,test
+K R A I D R G V G G A D G A N Y E E I R Y E G Y G I S,0,test
+I L G K L L S T A A K L L S N L,1,train
+A V M G V P A H D E R D F A,0,test
+N P P V E S S S K Q K Q L G E T A S I H S T N T L N,0,test
+A D V V A G K M A E V L G A E K L L M M T N T P G V L D K G G,0,test
+I N F L K L G K K I L G A L,1,test
+Q G E F L E S A E F A G N Y Y G T P R,0,test
+I R G V K V G P S P D W L Q Q R L L A A G T R P I N,0,test
+A I Q N T I N L R E R C Y F A A H P N P P M L P,0,test
+E Y A A K T E L V G K Q A M A D F E R N V M L Q A I D N Q W R E H L A A,0,test
+D G C E H V D V V E N I A,0,test
+A Y N E K M G I T P R G V V K R I K D I I D,0,test
+L T Y I I I G T K A V E D P D F V A E A C R E F A G H I I V G I D A K D,0,test
+T M M A D W A N D D V N L F G W R E E,0,train
+W M G L D I G P D A V K V F Q D A L G D C,0,train
+L N W G A K L K H I I K,1,test
+G W G S F F K K A A H V G K H V A K A A L T H Y L,1,train
+S L T F E V L D K V L G E L G K V S R K,1,test
+V K W M L E S L A I A R Y M,0,train
+K K L F K K I L K W L,1,train
+S D M L A N P R R P I A Q W H S L K P E E E V D A L L G K N K M G,0,test
+S Q L G D L G S G A G Q G G G G G G S I R A A G G A F G K L E A A R E E E F F Y K K Q K E Q L E R L K N D Q I H Q A E F H H Q Q I K E H E E A I Q R H K D F L N N L H K,1,test
+D M I T D L D F E T L Y Q Y M L S D K K N D K Q,0,test
+K W K S F I K K L T S K F L H S K K K F,1,test
+L N E T L E E R A H L C F S A V D C L E V L,0,train
+Q A E Q C R K I S A S L Q S Q S P E H L L P V L I Q A A Q L C R E K,0,test
+W F Q R F M C N T,0,test
+W R D W L A Q K D G L D,0,train
+F L P L I G R V A S G I L,1,test
+H F H F Y E A N A A L D F E R E M A Y G K H L D I P,0,test
+T I A T N M A G R G T D I K L G E G V R E L G G L,0,test
+G Y L M D E N A A M F Q E I Q L L Q E Q I N D N S Q L T Q F A,0,test
+K A Y S M P R C K G G F R A V M C W L,1,test
+N E M L Q R I Y G T A W A S K D E L Q,0,test
+S P G D S R L A V F D K T E G T W R L L C S S R S N A,0,test
+A V K Q T T L G L C S M T V S R L V Q N D G F L N I L R D E Q F T A,0,test
+E L F G N I V P V D Q C V K F F K H G A V L E,0,test
+S D C I T N E I L V R F T E A L E F N T V,0,test
+D T A G I R E T,0,test
+G Q I M L N S L H K,0,test
+G V R Y K I T L T D N S V I E V,0,train
+V A V T R H G G T M A D S G S V A Y L F E R K G V V E,0,train
+D F K D W M K T A G E W L K K K G P G I L K A A M A A A T,1,test
+A I N D L L D A E Y M A,0,train
+V Q Q C I R T V E A R G L D I D G L Y R I S G N L A T I,0,test
+K S I E T E V F L L L K I L,0,train
+S K R K I I L W F W,0,test
+Y M K E E H D Y Q I I G E,0,test
+L Q S R L S L C E K A,0,test
+E L T L T Q L Q K I I P,0,test
+T G S T A Y S L S A G G P M,0,test
+N P Y G R A Q I L R F M M K T W Q L V K K Y R V P R F I T,0,train
+Y K C P M M K R I P Q A K L Y E D,0,train
+I F N V W K P N K L I V G L P L K M N G N T Q H,0,test
+I S R V I D R S I R P,0,test
+E K I T G E K I V P H V L,0,test
+P T L I S R L A D R F G V Q A I V V G I D S W F E Q E T G,0,train
+I K R T F N V P V I T D V H E P Y Q A E P V A K V C D I I Q L P A F,0,test
+R L Y N R S G E S D V I N K R L G E A A F E I S,0,test
+Y A S G V T K D F N A F S K V Y P H S I M R P Q G Y D I I R T W L Y,0,test
+E Q N E Q A Q D I Q N E Q V E Q S N E Q,0,test
+K F P I T Q S S C V K N A L G E F L,0,test
+L S E M N M V V E G I Y T T K S V Y H L A K E K N V D M P I T N A L Y R,0,test
+L L R R L L R R L L R R L L R R,1,test
+I L P Y K Y P Y Y P Y R R,1,test
+G L L G P L L K I A A K V G S N L L,1,test
+A I D G G K K T A A F S N I E Y G G R G M S L E K D I E H S N T F Y L K,0,test
+A D L D E K K H C D G D T,0,train
+E I D S F V D G I D L S E T L T R A K F E E L N L D L F,0,test
+K I L R G V S K K I M R T F L R R I S K D I L T G K K,1,train
+A I M T R Q A K K G M Y,0,test
+G L P R K I L C A I A K K K G K C K G P L K L V C K C,1,test
+F L P L I G R V L S G I A,1,test
+K W K K P L L K K L L K K L,1,test
+E I L L A P F K D A G K K F V H L,0,train
+N Y H A T N P R Y H E,0,test
+S D A G N T E K Q W S L A D F E I G R P L G K G K F G R V Y L A R E A,0,test
+D I G E G K A V V F K A E S H N H P S A V E P Y E G A A T G V G,0,test
+F D E S L K S K D F V K L I N K R L S Q K I N A T N E D D W N L L E,0,test
+C K V A S L E G N K V T L V G E E M A G F G L P N F G Q L T E A F,0,test
+Y K R L A M K Y H P D R T Q G D K A M E E K,0,test
+N L K R L G M K A T V K Q G D G R,0,test
+N Q A L E M K R Q G K R G K A H,0,test
+L L R R L L R R L L R R,1,test
+G A A A D H H S,0,test
+E P L N S V T F E K E Q P V L Y S F R,0,test
+Q K A L E K G L E I L T D M,0,test
+D A L K T L P D E E V,0,test
+G C S A T F S V L K K R R N C S N C G N I F,0,test
+L C Y T R R R F T V C V,1,test
+I K D R Q F T I G G L L E A T E Y E F R V F A E N,0,test
+V L S A A D K G N V K A A W G K V G G H A A E,1,test
+E T Q M V K L Y G D S K P,0,test
+L N E N T S N L A I M L E D K I L R K A R D I Y I,0,test
+K K E M L K A A S N,0,test
+K W K S F I K K L T S A A K K V V T T A K P L I S S,1,train
+V L T M G K P L T A M P G L T R D G V L G K W I W Q L A E,0,test
+I N W K A I I E A A K Q A L,1,test
+K S G L I P D G N A M E N L E K Q L I C P I C L E M F,0,test
+G W L D V A K K I G K A A F N V A K N F L,1,test
+H A M P D A S K V A F V W L A R,0,test
+G R L T T F P G S S K Y Q I V I E S L E P A G A G A L M A L L E E R K R,0,test
+R N V G T E E D,0,test
+G L N C D A Q V L V W Q D M A G L S S G,0,test
+F I H H I I G G L F S V G K H I H S L I H G H,1,test
+A L W M T L L K K V L K A A A K A A L N A V L V G A N A,1,train
+G R M S T K E V D E Q M L N V Q N K,0,test
+F S A L F G M E K S I F R Q L K I Y,0,train
+V E V H A R H E E R P D E H G Y I A R,0,test
+R V Y H Y R I S E D P D G K V F V T Q E A K F N T L A E L V H,0,test
+L V E P L Q L C H E S L H A C G M G V I A D,0,train
+V E P L W R F V N D T K D K R M L V Y K S E D I K D F S R L Q S P K V C,0,test
+V F H S G A I,0,test
+F G N P L N T A A L F I I L L H L I I E S K S L T W I H M L V I T,0,test
+Y K L F K K I L K K L,1,test
+G A Y L E F P,0,test
+A G K I Q L E G,0,test
+K A V N K A G P G K P S D P T G N V,0,test
+K A I S G V D P K D L K G L A D D G K T S I G S G V V,0,test
+V D T G A M Y R A V T Y W A M Q Q H V D L A D E A A,0,test
+F K L G S F L K K A W K S K L A K K L R A K G K E M L K D Y A K G L L E G G S E E V P G Q,1,test
+V V I G V S I A T G L G L K A F,0,train
+Y Q K T E I L,0,test
+V F Q F L G K I I K K V G N F V K G F S K V F,1,train
+D K Y R V L A G N D G T V S Y L S L L D Q L,0,train
+G I G K F L H A A K K F A K A F V A E I M N S,1,train
+A R L Q N C W A K S D S E G L S Y W N D W L H A N R E,0,test
+S T L A S E G S Y G E K G V E S F T Q I S K E A G G L C I A Q S,0,train
+L L A Q V D A S I G G K T A V N H P V G K N L I G A F,0,test
+L T F G N A F H G,0,test
+V L Q L Q Q E K R Q L R Q E,0,test
+W I H L S L K L L S D V G L V G L P N A G K S T F L S V V T A A K,0,test
+E K A V H L Q E E L I A I N S K K E E L N Q S V N R V K,0,test
+K I L N S R E R V P F L,0,test
+D L L K V H S R V Q F F R K L E,0,train
+G F L G P L L K L G L K G V A K V I P H L I P S R Q Q,1,train
+Q V G L F N F R P S V R P V P L E V H I Q,0,test
+A V L S D I L G D E D H L G D M D F K V A G T R Y G V T A L Q M D I,0,test
+V F E V S R G G D V T Y H G P G Q L V G Y P I F D L A L T,0,test
+M K K V M H G D R I V A V I H T E K E R,0,test
+T V L A S A P A L A P Q V A T S Y T P S S T T H I A Q G A P H P P,0,test
+L S Q L S T L L F Q A,0,train
+F N K L D A L V F T G G I G E N A A N I R K N I I S K L,0,test
+L K K L L K W L L K L L K,1,train
+E R L R Q E L N L S R K V Y E A I R K V P,0,test
+I N W N E Q R L I A Y A E N L,0,test
+D A L D S W L A E M K Q E L G P H,0,train
+M Q I F V K T L T G K T I T L E V E P S D T I E N V K A K I Q D K E G I P P D Q Q R L I F A G K Q L E D G R T L S D Y N I Q K E S T L H L V L R L R G G,1,test
+V L A I T E P D M,0,test
+Y I K R Y F E F Y E G P F E Y N S T,0,test
+I F G A I W K G I S S L L,1,train
+S R Q T P S E F T K K E E D S S T K E S E L Q T,0,test
+L D F L S H S R P,0,test
+R T K D N N L L G K F,0,train
+F S P Q M L Q D I I E K K T K I L,1,test
+M Q F I T D L I K K A V D F F K G L F G N K,1,test
+K M E L Q V R K Q R E V,0,test
+F L N Y N F S K N N N T K I V M A F D V D E R K V G T,0,test
+Y Q N V E Q L V,0,test
+D S H L E N E S G V R M V A L F D H E E V G S D S A Q G A G,0,test
+F V R W F S R F L G R I L,1,train
+R S R M A K E D C I E M Q G T I L E T L P N T M F,0,test
+G I G K F L K K A K K F G K A F V K I L K K,1,test
+K W C F C V C Y R G I C Y C R C R G,1,test
+S H G L E F I N L S T E G E N E Y K E K Q G,0,train
+Q A V F R L L G I A E D E Q Q E K F G F L L D A L K Y G A P P,0,test
+K N C V I Q H V K Y H G K T F I I A T V G Y G K A N A A M T I,0,test
+L L F K S P T C T Q Q D V K A A E E L K D I A K V D I Q K Y G L D M L,0,test
+H Y E G I L Q E R L D E L G E M P L,0,test
+K T T L T A A I T N V L A K K Y G G I P K A,0,test
+K W K E F L K T F K E A K K E V L H T A L K A I S S,1,train
+T L D I E L R E I D E K L D M I L M S I P N I P H E S T P V,0,test
+R V W Y K G D Q K Q V Q H A C P T P L I A L I N R D N,0,test
+K V E L L P E N S E F K P I V V,0,train
+E H F D L Q S E T L M S A M A,0,test
+L L K K L L K K L L K K,1,test
+K P G K G S A F V R V K M,0,test
+P E L E R K A A F L,0,test
+F L G P I I K I A T G I L P T A I C K I L K K C,1,test
+F L S L A L A A L P K F L C L V F K K C,1,test
+K H L F T S E S V S E G H P D K V A D Q I S D A I L D A I,0,test
+V K P D V K L G E Y K G L S V T K Q N T R V Y Q K,0,test
+V G H N A H F D L N F L N A,0,train
+A I K G V N P D T D A E E E R P A S D E E P F A A L A F K I M,0,test
+G T N L S D K S A E V L L D L D A K S F P M,0,test
+F A V M K G Q I A K,0,test
+V T E H L L G Q T V S,0,test
+V T C D V L S F E A K G I A V N H S A C A L H C I A L R K K G G S C Q N G V C V C R N,1,test
+K S T V G Q K L K K K L N Q A V D K V K E V L N K S E Y M C P V V S S F C K Q H C A R L G K S G Q C D L L E C I C,1,test
+H M L E E A E K R D H R K L G K Q L D L F H I Q E,0,test
+K I K L F K K W P K F L H L A K K F,1,train
+P E E E R R K W E E G R I D Y M G K D A F,0,train
+F F R R F F R R,1,test
+H A L W M T L L K K V L K A A A K A A L N A V L V G A N A,1,test
+G T S Q E D S D,0,test
+P M I V H V L R R A L A A S I G R V A V A T D T P E I A E A V I A H,0,test
+W F G E S E A N V R E I F D K A,0,test
+L W G R P A Q E K I K M I D T T R H V I I,0,test
+R Y T Y T E T G G N A D F Y L S P,0,test
+R A A N K F P A I I Y G G K E A P L A I E L D H D K V M N M Q,0,train
+S Q S G V E P Q T E T V W R Q A T E Y G V P R I V F A N K M D K I,0,test
+S S G N E E N K K E E D S D E I,0,train
+E A K I T P R T K P F R Q M S D N Q S W N S S G S E E D P,0,test
+Q W I P D W G Q A R,0,test
+A L S A L G Q M,0,test
+M A E G K I L P Y L D,0,test
+K N W K A I L K H I I K,1,test
+L F M E C E E E E L E P W Q K I S D V I E D S V V,0,test
+K W L R R V W R W W R,1,train
+E T H I A L I G V G N L G R A L L H Y Q F Q D R N K,0,test
+E Y S A L E A C I R E D,0,test
+K T E L Y H F I G K D I V Y F H,0,test
+S F H V F P P W M C K S L K K C,1,test
+L Q P G C L R Q D G S R Q L A V A A,0,test
+E S Q F L S K Q N V Y D L A R V V D E L N V P V M A F G L K N,0,test
+E F Q S N L F N K L A A V A A L P A L K G L K N,0,test
+F T G E A I R I T L A E K K V K I T D G S D K D A P T I E,0,test
+G F F G K M K E Y F K K F G A S F K R R F A N L K K R L,1,train
+K W K K L L K K P L L K K,1,test
+R I Q E N G S L I T I L V I A G V F W V H R L I K F I Y N I C C Y,0,test
+N R D A K K L Q D Y G D I T Y H S K K H R,0,train
+I A D Y D A D L W Q A M,0,test
+N L T K K Q R Q S L R K M V I D I V L A T D M S K H M N L L,0,test
+K N L R R I T R K I I H I I K K Y G,1,train
+W L N A L L H H G L N C A K G V L A W L N A L L H H G L N C A K G V L A,1,test
+L N K G A I L K H I I K,1,test
+R G G R L A Y A R R R F A V A V G R,1,test
+Y G A K A K A A K A A K A K A A K A,1,test
+I V L I G K G L T F D S G G I S L K,0,test
+L C Y C H H H F C V C V,1,test
+A Q D I I S T I G D L V K W I I D T V N K F T K K,1,test
+T C G E T C F G G T C N T P G C T C D P W P I C T D R G L P,1,train
+L K I F N T L S R Q K E E F K P I H A G E V G M,0,test
+K W K S F L K T F K S A K K T V L H T A L K A I S S,1,test
+G R R K K R A D G K Q,0,test
+G D K I R A L H M I L E M,0,train
+I N W L K L G K K M M S A I,1,test
+L K L F K K I L K F L,1,train
+I N W K K I F E K V S N L V,1,test
+K E R T L K R L E R T L Q F L K K T M T V K T R F,0,test
+Q E R P I P V W I R A L G A A L T P,0,test
+R R W P L K P K K W P L I,1,test
+L L A T V A C L G A S P R L K V S K P S,0,test
+G E C I W D A I F H G A K H F L H R L V N P,1,test
+K W K S F L K K L T S A A K K V L T T A L K P I S S,1,train
+K K K K K K A A F A L W L A F A A,1,train
+G L P V C G E T C V G G T C N T P G C N C S W P V C T R K,1,train
+G F F A L I P K I I S S P L F K T L L S A V G S A L S S S G G Q E,1,test
+V R R F P Y Y Y P F L R R,1,test
+E A A Q I L G G N G G G R D D F A T A G G K D L S K I D E A L K Q S L,0,test
+F A S G N P I Y G L I L N G M K G L Y T R I G R H Y F A N P E A,0,test
+F L G L L F H G V H H V G K W I H G L I H G H H,1,train
+V E V P D K P M Y V K T H K G D,0,train
+R K L R R L K R K I A H K V K K Y,1,test
+L A L E G T D V G K V K A A H G L A K I A A,0,test
+M E G E R L R E E M E E I T Q Q Q L V H D K Y C K D L M,0,test
+V K R A L S A L K P K N K R F I G G I I S F I K K L F G,1,test
+H H I A G H I Y A N H,0,test
+A E G G M A D M S R L D Y V,0,test
+I G K S K V V P D D D Q A,0,test
+I S V M G G E Q A A N V L S T V Q K E K K K R E G A D W T D Q Q,0,test
+G I W S S I K N L A S K A W N S D I G Q S L R N K A A G A I N K F V A D K I G V T P S Q A A S,1,test
+L S F N S S N G L T N N D P E Y E D R E P R E M S K K F L N R R S,0,test
+D F N D E P N D Y E Y E E E T N D E V D S R L F N I D D Q S D E E L Q S,0,test
+G L P K C G E T C V G G T C N T P G C T C S W P V C T R N,1,train
+S N P L E L D K R S A E L D T A T W Q,0,train
+S M L E S E N K D N D A N,0,test
+G I H D I L K Y G K P S,1,test
+A R N E D K Q G K G A,0,train
+L D P G G A L M A H E S G L K E S P S W V T Q R A Q E M F Q K T G,0,test
+F G D F T P E S E S S G I S G D C I V P K D A D K T I T T S,0,test
+D Q N A H K K L N Y V Y D A L K L T R E K L S Q,0,test
+D I H G G G G D L V F P H H E N E I A,0,test
+P P D S A R W E W L E D K V R T L M,0,test
+E A W L I D S V E,0,test
+L I S W I K R K R Q Q G I G A V L K V L T T G L,1,test
+S W L R D L W D W L C E L L S D F K,1,train
+M V S V S V A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+N K G K E V L V L W G I H H P P T S T D Q Q S L Y,0,test
+K L L K L L L K L W L K L L K L L L,1,train
+R P P P S G I N G A P V R P E L K P,0,test
+K L K L K L K L K L K,1,test
+R N T C E I E G R F,0,test
+L L K W L K K L,1,test
+A L R G P K H G G A N E V S L E I Q Q R Y,0,test
+R V P A H V G,0,test
+V V T K H I K I V D K G F L T D R E Y Y S A F H D,0,test
+Y G K L L K Q Q V F E L P P,0,train
+L E R L L L V H G,0,test
+K N W K G I A G M A K K L L G K N W E L M E K,1,train
+E E D E M R T R V N K E M A R Y,0,test
+I L G K I W K G I K S L F,1,train
+F G N F C T E G T G F S R L F P G L T P H L L M L,0,test
+K E P A V L R N G D P R L K A,0,test
+P R V S F R D P L V S E G G,0,test
+A M K S L D I M L S H G T T T,0,test
+P T L R N K F K M P T R I Q N G,0,test
+F I G L L I S A G K A I H D L I R R R H,1,test
+G D G I R W L S H F G N M P K,0,test
+N L M S S V L P D G T T T C,0,train
+T Q F E T D A G L E T V R G D M T E D E T R,0,test
+G A F E T R F V S Q V E S D S G D R R,0,test
+C I T C E V S,0,test
+I P H A V K A I S D L I,1,test
+Q N A R P N T I G K Y L A S I V M,0,test
+M R N S K Y P Q D L V M M,0,test
+V V Y E L L W F L N G D T,0,test
+H R D I K S D N I L L S L D G N I K L T D F,0,test
+V R D R E M F G Y M K L H P E D,0,train
+K V L E V Q P E K L E L I M D E M K Q I L T P M A Q K,0,test
+R L Y R R L Y R R L Y R R L Y R R L Y R R L Y R R L Y R R L Y R,1,train
+F E V G T K P V T Q T P Q A,0,train
+I N W L R L G R R I L G A L,1,test
+R H F M P Y H P E Y S I I T N I D F D H P D Y F T G I A D V R N A F N D,0,test
+K K L L K W L K K L L,1,train
+M D F I I D I I K K I V G L F T G K,1,test
+E A N G I V P K G V V K D I T D I,0,test
+G L F G K S S V W G R K Y Y V D L A G C A K A,1,train
+L I K K H N I D I L D I P I A E I T R Q Y M Q F V D L M R E M R I,0,test
+L P K V M A H M K,1,test
+G I F S K L G R K K I K N L L I S G L K N V G K E V G M D V V R T G I D I A G C K I K G E C,1,test
+G T G T H P T T T M C I R A L E K T V Q,0,test
+K V T L G P K G,0,test
+V K G A F S M R R K T,0,test
+L L Q W L S K L L G R W L,1,train
+E A L I A L T N M T P T N,0,test
+L L K L L K W L L K L L K,1,test
+K R K V K G R S R G K,0,test
+A S G P G G G A P R G P H G G A A S G L N G C C R C,0,test
+Q I A E G M A F I E Q R N Y I H R D L R A A N I L,0,test
+V D T G D R I R L A G E G E V G E H G A P,0,test
+K F A K K F K W F A K A A F K F F K K,1,train
+Y L N R G H M L R A H T S A H Q W D L L H A G L N A,0,train
+N V F L S K Y,0,test
+K R T N V I E H P L F N K G,0,test
+S G Y T L V H Q F C R I G A H S,0,test
+A S L E Y L E G K T L P G,0,test
+R V V E K A N L T S D D I D L F I P H Q A N I R,0,test
+G K V W D W I K S A A K K I W S S E P V S Q L K G Q V L N A A K N Y V A E K I G A T P T,1,test
+K Q H I S S R R H K D R A S G K P P K P K Y,0,train
+G L Q D A V V G V E D D D V V M L I T G V T Q L R A Y L G T,0,test
+I L K K L L S T A A G L L S N L,1,train
+F P L E S F H C P S P K K M S F K K M D P S C,0,test
+D R L L S G K Q I L A L T L T Y K F K L E,0,test
+D K K I D E E T N A I L E G E K Y T,0,test
+V H V P P I C S H R E C R K,1,test
+G M A T K A G T A L G K V A K A V I G A A L,1,test
+V L K I A P R D L A Y F D V E A G R F R A D A G K Y E L I V A,0,test
+V G M H D K L F K R A R V M Y E I E R D I S,0,train
+L K K L L K W L K K L,1,train
+R P S F D S A A P P E E G R R L Y D H F V Q A V R A K G V A T A T G I F,0,test
+E K Q G V P I R L I A L G R V Y R R D L D Q T H T,0,test
+G C A S R C K A K C A G R R C K G W A S A S F R G R C Y C K C F R C,1,test
+M A S R A A R L A A R L A R L A L R A L,1,test
+S S L E L A T Q T P S T N L,0,test
+H G G N H A S I Q A A I D A V R G G E S V N S A D A E G Q R,0,test
+P K E I V L M L C Q A F G I I Y P S F H S F I,0,train
+G M A S K A G S V L G K I T K I A L G A L,1,test
+G G I I S V K S A K E K I K A G A S L I,0,test
+S I N D L S R D D L N L V L A T A A K,0,train
+L L K E L W T K I K G A G K A V L G K I K G L L,1,test
+G F M K Y I G P L I P H A V K A I K K L I,1,train
+V D N L I G S A A M T K T M L R A L,0,test
+L L D S F V T E K L D A I D V A H I A A E V Q G L G T Y,0,test
+G L P T T L N,0,test
+L L K W L K K L L K K,1,test
+L K L K S I V S W A L K V L,1,test
+N S K L L N G S Q R V V M D G V I S D H E C Q E L Q R L T N V A A,0,test
+R P S S P R L A E L L,0,test
+Q A P Q Q F K Q L I M V A G F D R Y F Q I A P C F R D E D P R A D R S,0,test
+Q I Q S L E K L L N L N Q D V N,0,test
+A G V R K P S Y Q I A G K T V R Y D V F,0,test
+K L K L K L K L K,1,test
+K I I G S E L W V T V Y Y G V P V W R D A E T V,0,test
+I S V M I E V Y G R S K E H D D C A C D G E T C T V,0,train
+S G I Q F R R L N A S K G A A V R A T R,0,test
+L V V G I T S G V W V W S S K T F Q T,0,test
+G I L K T I K S I A S K L K R K A K,1,train
+S A A S N R I P A I A G T G S N N T E E A L L M T R A A K M,0,test
+P V E R I E K A V T E V F D L R P A A I I R D L K L T R P,0,test
+L E E N S V D A V K V R S V V S C D,0,test
+M C Y H G N S S R G A A Q Y L L H Q,0,test
+V S D E C R G K Q L G K L,0,train
+K F Y A S V R I D I,0,test
+L T V A E I I G Q L W W A N K A L T E T F T S E A G R E R,0,test
+E P M P S L L D V R Q L I T L Y G I L P L G S A E V H E R A P L,0,test
+K W L K K L L K K L L,1,train
+G A T Y H K L Y N A P K V E G T C D V C G H H E F Y Q R D D D K,0,test
+M A I V G T I I K I I K A I I D I F A K,1,train
+K I K I P W G K V K D F L V G G M K A V,1,test
+I N D P V K V T R S A L Q N A A S I A G L F L T T E A,0,test
+G I I N T L Q K Y Y C R V R G G R C A V L S C L P K E E Q I G K C S T R G R K C C R R K K,1,test
+R N E G P A G F F R G C S A A V G Q I V P Y,0,test
+G L L K R I K T L L,1,test
+E L F D P R I G A,0,test
+R G T F T E A R D F N L M F K T S H G A S A E D S L,0,train
+V R P P P I N P,0,test
+A I R I T H L P T G I V V E C Q D E R S Q H K N,0,train
+I N W L K L G K Q I L G A L,1,test
+L M M G G V R I V A R Q L P C A F G E A,0,test
+S Q L E K V L D N E M M F D G S S I E G F V R I E E S D M Y,0,test
+V N S K K I S P K S I K V S K,1,train
+G L F S K F A G K G I K N L I F K G V K H I G K E V G M D V I R T G I D V A G C K I K G E C,1,test
+T Q S E Y Y N H A I D W Q T G P G,0,train
+L G A E I K L E E G Y V K A S,0,test
+T E A T G K Q C I Y L I D D F A S E L D S H R R Q L L A,0,test
+A A A L E K K N V D L N E L L Q R,0,test
+L K L F K K I L K Y L,1,train
+F L P L I G R V L A G I L,1,train
+M Q G T V L D T L P N T M,0,train
+K F K S F I K K L T S K F L H S A K K F,1,train
+S A A R S L P S A S T S K A,0,test
+S L Q S K L D R K A E L D A T N A E L W R A S S T E V S D,0,test
+L Y A E F E N Y K R R I Q K E N E I N K T Y Q A Q R V L,0,test
+K G V H C H I G S Q I E G T E A F I E T A K I,0,train
+A G Q M I E F E V F,0,test
+V K P G D T I L G M S L D A G G H L T H G,0,test
+V P H G L E D L L N P I G V T G S N P N K E T P C L,0,test
+R R L M A A K A E S R,1,test
+M Q K L E A M L,0,test
+T P I A Q I L A I R E L N I G H S L I,0,test
+R W R S F F K K A A H R G K H V G K R A R T H Y L,1,test
+S G Q D D P V V P D,0,test
+I L G I I T S L L K S L,1,train
+Q I D R L S K R R K T E E D L R E E I E S L Q E N I L,0,test
+E Q Y P A Y L,0,test
+Q P T N S E K F T E K V,0,test
+V N S K K I S G K S I K V S K,1,test
+G V P C G E S C V F I P C I T G V I G C S C S S N V C Y L N,1,train
+K W K S F L K T F K S A K K K V L H K A L K A I S K,1,test
+Y N G I R D M K K L P D V I W I V D T V R E K I,0,train
+V Q S E A V S Q G H R K E V P T R K H R V,0,test
+R N G P T L L S I A L L,0,train
+A L E D V S S S P Q S T E E V V Q S F L M A Q N V E G P S C M G I,0,test
+L R L Q Y R R F Q Y R V,1,train
+E T P M M H V I P G G A S A R P F I T H H N A L D M P M Y L R I A P E L,0,test
+M E S Q S D A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+G V A K F G K A A A H F G K G W I K E M L N S,1,test
+L R H S N I V K L Y,0,test
+V L E M V P A A L S A A L T Q A L T H C P,0,test
+I R P E M L E G E L S L A P G F P L P G N M D Y N G Y,0,test
+V I K N F V L F W V T L L P Y V K E,0,test
+A Y V E K I T G F S L E K F K A N,0,test
+F L P W F S K F L G R I L,1,train
+E D Q V S E L K S K E E,0,test
+I P P D Q K Q K G T P A M D S S Y A K L L Q Q Q Q L F,0,test
+N D R N L E G R L T C Q R V R R L L P C D L D I H P S H R L,0,test
+A T C P N A T L T T F G P D V G L P S G Q M G N S E V,0,test
+K D G G R H A L P R M I I F T D V,0,test
+L E E A V L S D R D T N A E A V P R,0,test
+W E S F S S V V P R T D W G L F F K G,0,test
+G F L S I L K K V L K K V M A H M K,1,test
+T F R Q K G T E E F V,0,train
+A G C L D Q V G L L E,0,test
+S W L R D I W D W A C E V L S D F K,1,train
+L L R R L L R R,1,test
+W K S Y V R R W R S R,1,test
+L K Q Y T T V V A D T G D F Q Q L A Q Y Q P Q D A,0,test
+N F L G T L V N L A K K I L,1,train
+A T V T K R K P T C P R E N Q T E I N K P K A K R C L N S A V,0,test
+V C G E T C V G G T C N T P G C T C S W P V C T R D G L P,1,train
+K W K L F K K I G A V L K V L,1,test
+G I G A V L K V L T T G L P A L I S W I K R K R Q Q,1,train
+Y L Y V D C S N I P S I S L D P G F R S M S D Q N Q V Q M L I N T Y K R,0,test
+F L P F L L S A L P K V F C F F S K K C,1,train
+I I N D T S H A R A D N C T G L K E E E,0,test
+I L P K K W P K L P W R R,1,train
+C G E S C V W I P C I S S A I G C S C K S K V C Y R N G I P,1,train
+E A A R A L K A A L A E E E P A,0,test
+Q P S N N N N,0,test
+P V T I L D P K C T A K T F P D Y F E Q F A R L S,0,test
+R R R R R R A A F A A W A A F A A,1,test
+I D E A R W L S N V D G T H W L E Y,0,test
+A K E L E V Q Q L R N K I Q S E V Q D R V Q Q T Q R E Y Y,0,test
+F T I Q Q G F P Y H K M K L L V A A V G R W R G G P E R A L F,0,test
+R R I E R I Y F E I S E T N R A Q W E M P Q V K E S K R Q,0,test
+R L C Y T R G R F T V C V,1,train
+G L P V T L T L P E V V,0,test
+K P M K P V S P G E A E T A E N P R A R S A H L R A A R R T A,0,test
+A M H V A A T N P,0,test
+D D Y F T I L R G R Q L A A S A N D L E A R V Y L P,0,test
+T L L S G V N,0,test
+G S N G V I N L D S V E N F D Q A Y Q,0,test
+G S I A G L E G G S Q L A L R R,0,test
+A S Q T D M L D D P D Q,0,train
+P L A P K R A N D S L G G L S P A P P P F L S S Q G P T P L P S F,0,test
+E H A A H A S,0,test
+G G T I F D C G E T C F L G T C Y T P G C S C G N Y G F C Y G T N,1,test
+N I T A R F N R Y R R M L,0,test
+K A E V N C I G G K C P E G K K N C N C M P P I A H V,0,train
+H R T F N I E L L A G E N N Y V T Q L K E N N I R V K L N Y E L I,0,test
+I F I D E L D S I A A R R L N E T T G A D R E V Q R T L M Q L L A E,0,test
+H R S V A G G,0,test
+G L K D K F K S M G E K L K Q Y I Q T W K A K F,1,test
+A A M T T T S F P I N R E L T T R L L G F S,0,test
+N A E E E K K M L S Q R,0,test
+K E E D D Y D V M,0,test
+K R L I V A Y,0,test
+A A S A G S P L G E H H P H L T P L A Q R V L E P T D A A V L,0,test
+G L M D T V K N A A K N L A G Q L L D T I K C K M T G C,1,train
+G G E I P D D P E E F E E L M T G F Y,0,train
+F F L I A D S G V Q T H R R T K,0,test
+M E S V S V A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+Y D P G R D G S E K K I R E C V I C M M D F V Y G,0,test
+S R N N S S S N S G S T,0,train
+R R S G P Q R G S D L R Y N L E V S L,0,test
+G D P V E L A R L Y Y E Q G A D E L T F L D V T A T V E D R S,0,test
+L N T D C P R C,0,test
+N D Y E C K V V T D E V G A A Y,0,test
+A S A A A T T T P G H G V H,0,test
+N L Q N K Q S L,0,test
+K V L K A A A K A A L N A V L V G A N A,1,test
+S S Y N R A N E,0,test
+H V E C N V G W L E P L L E R V Y L S R K K V,0,test
+T G R A K R R M Q Y N R R,1,test
+K W K S F L K T F K S L K K T V L H T A L K L I S S,1,train
+K W A R L W R W F R I T R W L W Y I K,1,train
+Y A K I L S E R A A V D A S Y I,0,train
+V A G P I Q A A G H P R V L V I P T N E E R Q I A,0,test
+F L P L A V S L A A N F L P K L F C K I T K K C,1,test
+V R R F P W W W P F L R R,1,train
+A V D Q P A V E A T A P I E P V Q A T P A Q R F P T L R Y L G Q V,0,train
+D S M H Q S W L P R V V A A A F Y S E G P T G S C A L L Q R T Q P Q A L,0,test
+A H F K G E A E M L F P P N T K L K I E S I V N C G S Q D F,0,test
+I R E G H V E D V Y A Y R R R Q R F S V R Y G E M L F M S K L I L A,0,test
+L N S N I D K I P F H P Y F,0,train
+H H V A G S L V K L A E G K N C G L E D L T L A E M Q A I E P,0,test
+S L E E R V R P I L F I N K V D R L V K E L K L S P,0,test
+Q Q L K E E R Q V D P L N E D V L L A M E D M G L D K E Q,0,test
+I M D Y V F N E Q G Q V R T L F L K D T H R R A L S E G L R R R F,0,test
+Y E C W E D R E A T F L I G,0,test
+V E E A F E E E E F H,0,test
+I T L Q P V R R H G V D A G I F F S D I V V P L K L A,0,test
+A K K V F K R L E K L F S K I W N W K,1,test
+S G E L H F G S L I A A L G S Y L Q A,0,test
+T A K A N N M P K D N I D A A I,0,test
+R I K R F W P V V I R T V V A G Y N L Y R A I K K K,1,train
+K F G K S T G G G N L W L D P E,0,train
+R R G W A L R L V L A Y,1,test
+L Q K K N E Q K K R P K P I L L K I A P D L T D E Q L M,0,train
+D T F D R V R F P K I H Y A G M L Q Y D G E L K L P,0,test
+S D S V L D A L L A A D P R S R V,0,test
+K K L K K L K K K W K K L K K K L K,1,test
+I W R I F R R I F R I F I R F,1,train
+S L S L A P L S P R A P S E D,0,test
+S A R D E W P G I K P D V L A G F Q Q Q L S D D F Q R T V,0,test
+S S P S K S K K E C P S P V E Q K P A E H I P L S N P A P L,0,test
+M A D V T V K Q L A Q V V G I P V E,0,test
+I L G K L L S T A W G L L S K L,1,train
+F V Q W F S K F L G K I L,1,train
+T G A P Q L N P I D G P L P E D N E P S G Y A Q T D C V L E,0,test
+I K P N F A K Y K E E,0,test
+Q R S V S N A A T R V C R T,1,test
+V Y L D G T E L D F V K E G L N E G F K F N N P N V S N E C G C,0,train
+E S E E E R M K F F R E Y G L K Y E L E K L R V D L E N,0,train
+L E K L L D S R K I E I D P E N P D V V,0,test
+V P K V G S Q,0,test
+P K R P G L S S L L S G Q F D S L A V R V S N H P G V Q A L C Q A L,0,test
+L T K F G G N I Q F I E V P F T D I Q E E I K A K A P E A,0,test
+K W K S F I K K L L S K F L H S A K K F,1,train
+K W C F R V C Y R G I C Y R R C,1,test
+V D L E P G T M D S V R A G P F G Q,0,test
+L N T D L K R E R D Q F A R F L S M V V E H K H R,0,test
+R G G R L C Y C R R R F C V C L,1,train
+L H N F N S K I Q A V V Q H S G V K,0,train
+A G Q N H W T,0,test
+R Q R S W G L P I P V F Y D E E T N E P,0,test
+D I Q F R N L P C L,0,test
+V I F S R C R D E M F M T A G N G T I R V,0,test
+Y V N E Q L A F T G D T L F S G G C G R L F E G S A E,0,train
+L E R W T R I R L R A E K L G L P,0,test
+K F G K I V G K V L K Q L K K V S A V A K V A M K K G,1,test
+G F F A L I P K I I S S P L F K T L L S A V G S A L,1,test
+F K R S Q P Y A T I I S L L D K Y S S T V Q E H L L P,0,test
+K K A K L V D E S V Y,0,test
+D Q Q H H G L I S K T I Q N K L Q,0,test
+A N S K V V V V T A G A R Q Q,0,test
+L A E H L G L V E V Q G P I L S,0,test
+S W L R D I W D W G C E V L S D F K,1,test
+K W K L F K K I P K F L H L,1,test
+Q F G G M L L A Y S G V Q S K K L T A M Q,0,test
+C F R R E G R L K R D M A T S D I Q M F H H C S I H G N,0,test
+A K K V F K R L G I G A V L W V L T W G,1,train
+E V D S Q N E M L D R I Q Y K A,0,test
+S K G H P W R H S A L E K S P S S P I V S I L P A H D V S A,0,test
+K W K S F L K T F K S A K K T V L H T L L K A I S S,1,train
+W Q T Y V D E H L M C D I D G Q G Q Q L A A S A I V G H D G S V,0,test
+L K L T G K S L P P S L P D N I,0,test
+G D E L T L A D C N L L P K L H I I K I V A K K Y R D F,0,test
+T E D Q L E Q E L T S V L D F I I S,0,test
+I N S L K L G K K I L G A L,1,test
+I K M G Q G K S R E E K G T N S T N,0,test
+L E A L E G V K D L T E,0,test
+D N H I S A L G P E T M Q S L R T I E R K A K I S R L G I,0,test
+V Y E Q Y D T L I Q G N S L Q L P G G,0,test
+Y K Y N R R T T K T Y H D L K S,0,test
+P R I V Y L N K M D R V G A D F F,0,test
+F V K L K K I A N I I N S I F K K,1,test
+V R A M R H T E I D Y I T G Y L L K R A R,0,test
+L A A C S A N E I L P M N P D F P,0,test
+S G G G G G G F G G P F S A T A V P P P P P P,0,test
+Q R S V S N A A T R V C R T G R S R W R D V C R N F M R R,1,test
+K N L R R I I R K G I H I I K K Y G,1,test
+G I P C A E S C V W I P C T V T A L V G C S C S D K V C Y N,1,train
+E K G G V N F S H V F G A G L P P,0,test
+K F T I V F P H N Q K G N W K N V P S N Y H Y C P,1,test
+N G D K R E N L L D A A R I,0,test
+L V R Y G K Q T M T G A I K D G L S A M S R Y Y L N N F Q D G V R Q,0,test
+F V P W F S K F L G R I L,1,test
+E E E V E E P E E R Q Q T P E V V P D D S G T F Y D Q T V S,0,test
+R S G P E R Y Q A L L Q L G G P K L G H L F Q M D,0,test
+A G A G S P L S P L Q A E L L P P,0,test
+L W A A A L T S W I S D R V L C S F W Q R I H F Y Y L H S I,0,test
+W T Y H G S F T T P P C E E C I V W L L L K E P M T V,0,test
+L L Q W L S K L L G R L L,1,test
+C G E S C V Y I P C L T S A V G C S C K S K V C Y R N G I P,1,test
+S D A H R S A A A E L F A A S P D G S F G D L E T T Y E A,0,test
+P E Y Q R F I Q W Q F E K,0,test
+M S K S L G N V I L P A D V V K N L,0,train
+Q Y G Q H T V,0,test
+F V K L K K I L N I I L S I F K K,1,train
+G P G E H G R L E V L F C S M,0,test
+L Q L E K A T Q R Q E R F A D R S L L E M E K R E R R,0,test
+G W G S F F K K A A H V G K H V G K A A L T H Y L,1,test
+L K L K S I V S F A K K V L,1,test
+K R D S L G T P G A A H L I I K D L G E I H S R L L D H,0,test
+I N A D K N F G H S D D L A G Y Q I,0,test
+T S T E S R G T D T E S S G E E K D S D S M E D T G H Y S I N D,0,test
+V G T I I K I I K A I I D I F A K,1,train
+Y G A A K K A A K A A K K A A K A A,1,test
+P S Q S Q S Q I E I P L Q S I E,0,test
+N K V E S L Q S R,0,test
+L R Q C L V T H N G R L L G I I T K K D,0,test
+G Y Y G D V T E K Q F R R S Y D D A S K L K G D T S Q,0,train
+A A K K G S E Q E S V K E F L A K A K E D F L K K,0,test
+G S P V I L E S L F I P E P V I S V,0,train
+L F R T V L E S G I S E V R S D R D R F V I Y,0,test
+F L P L V L G A L S G I L P K I L G K,1,test
+G L L G P L L K I A A K V G K N L L,1,train
+A L W M T L L K K V L K A A A K A A L N,1,train
+K K L F K K I L K F L,1,test
+S A T S K S T S P T L T P S P S P K G H T A E S S V S S S S S H,0,test
+L K R Y I E N T I E T H I A K M F I S G E I S E G D I L K I,0,test
+Y C T A A A D,0,test
+F R G L A K L L K I G L K S F A R V L K K V L P K A A K A G K A L A K S M A D E N A I R Q Q N Q,1,test
+E H G V K A L T,0,test
+C G E S C V W I P C I S A A L G C S C K N K V C Y R N G I P,1,test
+E E L A D L V G V R P N L,0,test
+M D P S M L Y A P P A R I E E E V A T I L A G,0,test
+L C Y C R R R F C V C V,1,train
+V V I P F H H D I W S N F Q A D P Q E I R V L W,0,test
+I G V L I E H Y A G,0,test
+G F L S I L K K V L P K V M A H M K,1,test
+N P I G G N D L S L N A,0,train
+G L K A V A A G M N P M D L K R G I,0,test
+V I P F V A S V A A E M M H H V Y C A A S K R C,1,test
+D A E Q T Q V P V S R S R T A Q L K E L L G V V M K I T L I A V G,0,test
+I L P W K W P W L P W K K,1,train
+G F L S I L K K V L,1,test
+T A F G T T S S A T V N N P F L P S E D Q,0,test
+I L G P V L G L V G N A L G G L I K K I,1,test
+T E S S E T M E A V V T S L R E L L A G H I V Y Y D S H,0,test
+G V Y P S H W R V N G Q V L Q Q I,0,train
+P K L L E T F L S K W I G,1,test
+V Q A V Q Q Q E V Y G,0,test
+L L K W L L K W L K K,1,test
+Y I M R Y F A S V Q E S N N R E G E V E M S Q I E S Q I L,0,test
+P F I N A Y R Q A I L S Q Y P Q E L Q L E A I N C K L L A V V A,0,test
+E E P Q E G G E E E E E E E E E,0,train
+K N S W T H L G A D I A S G N E R I I V E D A V D W R P H D K I V,0,test
+F R W C F R V C Y K G R C R Y K C R,1,train
+D N L D G K A L R E L A D Q V R D R L S S G V L I L G S A H E,0,test
+I L G K L L S T A A K L L S K L,1,test
+L L G D E F R K S K E K I G K E F K R I V Q R I K D F L R N L V P R T E S,1,test
+Y W H A F A R E K G V Q N V H T R,0,train
+V E A V R E A A L G G L S,0,test
+Q D M D K D I G N C Y L M,0,train
+H K T F A T P H G G G G P G A G P V A V N D K,0,train
+L Q D Q E F R,0,test
+L K D V E E A Q Q K I I N I I R R L,1,test
+N K V D L L D A A F Q G Q P D S L A I S A R G G I G L D A L R Q,0,test
+A G R E L R V E V Q I N R S A A N R A Q V N S T P T K P R E L P R,0,test
+N R I I H R D L K L G N L F,0,test
+G K E L I V F P R E E S Y L G T L V D D L C T K D L,0,test
+G S T G E A F V Q S L S E R E Q V,0,test
+A V L R G V E V G A Y A Q F F R Y G F V K K I G P D V F I Y V H D M S K,0,test
+K S S A S S S V S A A P,0,test
+V I W D F G L Q S S V T L V I P W I S N T H Y R,0,test
+I N W K K I F E S V K N L V,1,test
+F V Q W F S R F L G R I L,1,train
+P R W Y F Y Y L G T G P H A G A,0,test
+A K Q I A Q P L H L G I T E A G G A R A G S V,0,train
+N V Q L G P S L T E K L,0,test
+G V I K S V L K G V A K T V A L G M L,1,test
+T M E D G G L T A F E,0,test
+I S A S A E E L R Q R L A P L A E D V R G N L R G,0,test
+I P G S E H H L,0,test
+D G L V N I V G,0,test
+L G V T R A I S D A L G I P V I,0,test
+F K T E A N I I R A L S K I I D N G H,0,test
+L T E D E Q F L Q S L T K D E M N K V I T S Q S N T S V E I N S S Q,0,test
+H L K S L M G Y Q S N L E,0,test
+G V L D T F K D V A I G V A K G A G T G V L K A L L C K L D K S C,1,test
+G L L S G I L G A G K H I I C G L S G L C,1,train
+R A P S M I D E F P I L S,0,train
+G L F P K F N K K K V K T G I F D I I K T V G K E A G M D V L R T G I D V I G C K I K G E C,1,test
+K C V D S P V Y K E A I E T L I L L L A P,0,test
+Q G Q L W Q V R Y,0,test
+E G S R E L E A E L E A Q L V Q A E Q R N R D L Q A D N Q R,0,test
+L R P E G T A G C V R A G I Q N G L F Y N Q I Q R L W Y,0,test
+F L G A L L G P L M N L L Q,1,train
+G I G A V L K V L A L I S W I K R K R,1,train
+G V T I Q P F G A T I P Y Y F T G H E,0,test
+K L L L K L L L K,1,train
+D T G L D S E V A C E I A V E F G H R P R V V S I V K M E Q E L S,0,test
+K R M S H K T D R P L M K G E N G E,0,test
+L T L F E P D N S S H P I T L,0,test
+F S K Y E R Q K D K R P Y S Q R K N Q Y T G P Q F L Y P P E R I P P Q K V I K W N E E G L P I Y E I P G E G G H A E P A A A,1,test
+G F Y G K N C E V S A M T C A D G P C F N G G T C M E K,0,test
+M L S L S D A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+E I N R P I K M M L S Q I S P D I V,0,train
+Q D S F V R Y L S L F N,0,test
+G C E H V D V A E Q L A I D R V K K L,0,test
+D E V D K I C A R E G,0,test
+I S S T P F A E N T,0,test
+Y F M T I D N,0,test
+E G Q A L V E A I L E Q D D,0,train
+I C Y C R R R F C V C V G R,1,train
+F D L L G L V K S V V S A L,1,train
+S P K V A L L N V G I E E I K G N D Q V Q Q A G Q,0,test
+E D L L S E I,0,test
+M K L G L L V V L A V A V L V P S L S E Q D F P S C Q L K E P N Q T P V E A G N M R N K R E A D E S S E E F D L A E M,1,test
+A V A A G T V A A D K A,0,test
+C Y C R K G H C K R G E R V R G T C G I R F L Y C C P R R G L L,1,test
+R K K L Y E A N H E I N H I D G E R K Y D L I K R R F S F T K S D Y I,0,test
+T Y H E K L G S V R Q R V E R I R T L A R G,0,test
+E G T L I E H D A,0,test
+D V E T E A L A T L,0,test
+Y G I A S G I R,0,test
+P D I V A M I G A S A A L S L S G I P F N G P I G A A R V G Y I N D Q Y,0,test
+S K L K A E E G I W M T D V P L P A L G H N D I M I K I R K A A I C,0,test
+R R K M K I K,0,test
+F L P G H A C P A A S L A A F S P Y L P G D P G,0,train
+A V F R P P A A L G A V G I A R G,0,test
+L L K K L L K W L K K,1,train
+C L R L R Q T S L E P V,0,test
+R T P Q T I G E E L L D Y R N Y L E M E V E V N R G S D G,0,test
+L P R Q G T G K G E S M F H H,0,test
+F N L R D F A N I F Q G,0,test
+G A G A L A K F L A K K V A K T V A K Q A A K Q G A K Y V V N K Q M E,1,test
+E G F D V G L E,0,test
+L Y L V V K I M H T Q,0,test
+I P A T I R Q Q P P S V V A D T,0,test
+I I V L D S K R S N A I N I G L T V,0,test
+C G S T L S L L D A G V P L K D M,0,test
+Q G G R R W N W V Q S W P V W K Y F K E Y F P I C L V K T Q D,0,test
+G L P A L S S W I K R K R Q Q,1,test
+L E Q V E E K Q R Q L E E R G V A V E K A L,0,test
+L A S N D G G W V T G K V I G I D G G,0,train
+K Q L K K V S A V A K V A M K K G A A L L K K M G V K,1,test
+R F L S Q I R E K L I Q,0,test
+G K P R P Y S P R P T S H P R P I R V,1,test
+T S P G R Q L S Q Q N L T K Q A S L S K N A S S I P R S E S A S,0,test
+D F G C G Q G M I F M C Q R R C M R L Y P G S T G F C R G F R C M C D T H I P L R P P F M V G,1,test
+E D L D R F E E N G,0,test
+F I G A I A R L L S K I F,1,train
+L C Y C R R R R C V C V,1,test
+H K I G E V H D G N A V M D W,0,test
+F L A G L I G G L A K M L G K,1,test
+G I G K F I H A V K K W G K T F I G E I A K S,1,test
+T L D T P M N R K,0,test
+I L P W K W P W L P K R R,1,test
+K L L K K L L K L W K K L L K K L K,1,test
+D W N G A G A H T N Y S T K T M R N D G G Y E E I K S A I Q K,0,test
+A W K V F K R L G I G A V L W V L T W G,1,train
+A I N P K S V Q S L L,1,test
+I E K K I A A S N E E R K K I E E L R K R I E,0,test
+G V L G T V K N L L I G A G K S A A Q S V L K T L S C K L S N D C,1,train
+K W K L F K K I G A V L K K L,1,test
+G Q P L D I N M A G E P K,0,train
+T N A L T A L M K A S D L P T,0,test
+A D L T H C Y G C S L P H V C K W C V Q N R R C F L D N E P H,0,test
+S D P H P R S G S S R K N D S I A K S Y E F H L Y T M V A D T H Q R G T,0,test
+P A A L K V L,0,test
+L T R I K A M R T S Q Y L L S T L K E T P A D A E V I S H Q L M L,0,test
+R L E E F N A,0,train
+I L A Y F H K A V L L E T I D T L W R E H L V N L D H L,0,test
+Q S L L E K L S A L E K K V I V G G V D L L A K A E E Q E K L L E E S N,0,test
+F A K M K S S A I F I N A G R G P V V D E N A,0,test
+G L P V C G E T C V G G T C N T P G C T C S K P V C T R N,1,test
+K K K K K K K K K K K K K K K K K K K K G I G K F L H S A K K F G K A F V G E I M N S,1,test
+D H H H H H D G E,0,test
+E R Q V Q E L A F P G S A Q D V E R L L K K Q R,0,train
+N R S Y S R R W Q N P L P R R Q H P D Q I,0,test
+I N W K K I A S I G K E V L K,1,test
+E S F Q N A L K T P S K K F I N I G L K D E H G N F K Q L,0,train
+G F G S L L G K A L K I G T N L L,1,train
+K F F K F F K F F,1,train
+H A L S L H H V C Y P K P Y N W,0,train
+V G E D H G N G E R I A K L L R F A T T H G D T A E Q S V S L V D Y V G,0,test
+S V L Q Q K A V,0,test
+H H N D A P G T I L D V A A A P G,0,test
+F E D S S F E A R K A F V T Q,0,test
+I N W L K L G K A V I D A L,1,test
+K H F R P S F N S E I Q L F L G F V K E I Y T N L P N H,0,test
+Q K K P W E S M A K G L V L G A L F T S F L L L V Y S Y A V P P L,0,test
+C G E T C V G G T C N T P G C T C S W P V C T R N G L P V,1,train
+D V S A G A A G G V V S P R D F V N V R R V E R R R D,0,test
+G K S T L L N N I M K E K L S I V S H K P Q T T R N N I Q T I L T Q E D,0,test
+L T N Y A I K S E R V H T I N Q L L K A Y T M F E K D D,0,test
+R T Y L K K V V A A I E A G D A E T A,0,train
+Q A S K W T D R F Q V L N E E H S K E K G Q L L S,0,test
+F G V L A K V A A H V V P A I A E H F,1,test
+F S T D W Y M T W L A N I H S,0,test
+V H R S A H A N A L S F V I T R R S I S H F P K I I S K I,0,test
+Y Q V L Q A G G F T S G G T N F D S K,0,test
+S F S S A F Y V N I I Y,0,test
+A L R E K F A F P V V G V V P A,0,train
+C A K L A K F C V S Q G L E,0,test
+W K K I P K F L H L L K K F,1,test
+P A D F I A E G I D Q T R G W F N S,0,test
+K K A A A F A A A A A F A A W A A F A A A K K K K,1,test
+L N W G A V L K H V V K,1,test
+R S S S Q R S P S P G P N H T S N S S N A,0,train
+I I S A P V E A L G Y E L V G I E F I R G R Q S T L R I Y I D S,0,test
+A G S V S A D E L V T R I H K V R Q M,0,test
+I G E K R F K T F L N E F I L A K,0,test
+A G T F V C N H L F Y G L M H E L E K H D K K I K G G F I H,0,test
+K K V V F K V K F K,1,test
+F L P A I G R V L S G I L,1,train
+H A E A R E R A A A G A R E K A,0,test
+V E S F D Q F V I L L K N T V S Q M V Y K H A I S T V,0,train
+G I M R V F K G V L K T A G K S V A K N V A G S F L D R L K C K I S G G C,1,train
+F L K W L F K W L K K,1,train
+S T R Y Y R A P E I M L T W Q K Y D V A V D I W S T G C I F,0,test
+G I L K K F M L H R G T K V Y K M R T L S K R S H,1,train
+G A G L L G G P V R F V L A G S G H I A G,0,test
+A Q W Y T D I V K K A E L V D Y S S V K,0,test
+F V D L K K I A N I I N S I F,1,test
+I T E E K S Y K E A V A E G A I A L F G E K Y G D V V R V V K,0,test
+I Y K G G R W Q D I G,0,test
+M A Q D I I S T I G D L V K W I I D T V N K F P K K,1,train
+T L A I A S K A D T P D G,0,test
+F L P L L L S A L P S F L C L V F K K C,1,train
+E R E E V E R K L A M S K K R L Y E I A,0,test
+V P A G S K L R V V G,0,test
+G L L S K F G R L A R K L A R V I P K V,1,train
+H S G T F S P Q T P V P A T,0,train
+T L L I K R G I E V G H I F Q L G T K Y,0,test
+L L P A L I S W I K R K R Q Q,1,train
+Q E A P L R A A V T A A A E A S Y V F T T,0,test
+T T C R G Y G P D F G L P A L R Q K L S E D,0,train
+L P S G V H K K T L E V Y D Y I F,0,test
+A K D Y A I E G G S V L H L V L A L R G G L L M,0,test
+E V M T G F R T S,0,test
+E Y N P G D G A F Y G P K L D F V V K D A,0,train
+F E H E M K E S L K T P I K I H N L N P Q V F K E M M G F I Y T G K A,0,test
+T P G D K R E L L L E L M L L A D V G,0,test
+F M V L V T Y P A P D F T A S A I S C N G D I I N N,0,test
+D G A E L S V T F V D N E R I R E I N R D Y R D K,0,test
+I E K F G A F V E L F K G T D G L,0,test
+A L W K T L L K K V L K A A A,1,train
+E K Q F R N T F K I A R K K S G N T A E N L,0,train
+M Q G V S L A G K E L E R G R E A P E N S P W I S G Q T,0,train
+K W K L F K K I S K F L H L A K K F,1,train
+M S V S D A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+G L P V C G E T C V G G T C N T P G C T C S W P V C T R N,1,test
+C I D R A Y R R E T I D P T H T P E F E Q L E G V V M D K D M S F A D L,0,test
+G L F G K L I K K F L R K A I S Y A V K K A R G K H,1,train
+Q L H T H V N D G T E F G G S I Y Q K V N E K I E T S,0,test
+S A K N R A R T V A G V S I L S T M T G R M F H Q K C L K,0,test
+C A Y L G A A,0,test
+C F K F K F K F G S G F K F K F K F C,1,train
+G I L G K L W E G F K S I V,1,train
+F L G A L F K V A S K V L P S V K C A I T K K C,1,test
+V L E G L E F M G I Y W D P K K N E T I R G E E G F I N Y,0,test
+K W K L F K K I G K V L K V L,1,test
+K L L K W L K K L L K,1,test
+K V A F I G D S N N M C N S W L I A A A I L G F E F S I,0,test
+S K R E I K N L R E L K I P W L R I L P Y I V D,0,train
+E L A G T I I D G A S L T F E V L D K V L G E L G K V S R K,1,test
+R R W C F R V C Y R G F C Y R K C R,1,train
+R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G R L Y R K V Y G K K K K K K K,1,test
+A I H A K E I L G I K N K L N Q M L A E H T G Q P L E V V E R D T D R D,0,test
+N P Y Y G L F Q Y,0,test
+M V A W S H V T V G G K P I L Q I L E E Q K E R F G E,0,train
+H Q P E S L D W F N V L I A Q T I A Q Y R Q T A Y I L K D S P T S S,0,train
+V L E Q V V Q Q G R P M L I I A E D V E G,0,test
+L K K L L K K L L K W,1,train
+R H A P W V N N I Y L I T N G Q R P K W L N V N,0,train
+F L P L L A G L A A N F L P K I F C K I T R K C,1,train
+A A A K A A L N A V L V G A N A,1,train
+A F G N H G A,0,test
+I I P R L R E P K D L Y G S S S Q D G C,0,test
+S Q G Y R D G P G N P L R H N Y E G T,0,test
+R R K D T P Y T A E Q R E,0,train
+W L K K W,1,test
+Y L R I L T E W E K,0,test
+F V E L S T R,0,test
+Y I P D G G P D G G D G G D G G S V Y L,0,test
+E V D G V T S D D E D E Y I E E T D A L G N T,0,test
+G I I I W A M I E R I T F I D S E T K K E L L G T Y I K Q G T E I V P V,0,test
+K K I A S I G K E V L K A L,1,test
+I N W L K L G K K I L G A I,1,test
+D S N P R P S K S P R H G S H G,0,test
+G T P C G E S C V Y I P C I S G V I G C S C T D K V C Y L N,1,test
+I A I E E G L R,0,test
+R L S Y R A Q D K T L L D S D I K T I H S S I I S N I E K S F Q T K,0,test
+G L P V C G E T C T L G T C Y T Q G C T C S W P I C K R N,1,train
+G I I K K I I K K I I K K I I K K I,1,train
+G L N A L K K V F Q G I H E A I K L I N N H V Q,1,test
+S V S N I K R Q H L T E V R S M G N P P A G V R L A L E A V C T,0,test
+Q T L K K E L,0,test
+A G P L V R S S Y H A D E Q V N E,0,test
+P R Y D G H C R N Q S L P D S G I P Y V I R F R N P D A G I V S,0,test
+K A P T G T N C F L L R A P K S R E,0,test
+K R F K K F F K K L K,1,train
+A F H P L A G V D R V Q L R D A A M L A S L A D P T P E,0,test
+A L W D T L L K K V L K A A A K A A L D A V L V G A N A,1,train
+R G G R L C Y C R G W I C F C V G R,1,train
+N A I Y N G L L R E,0,test
+K V A D I S L D L M N H Y S V L N L K D G K T Y T D D E I K E A,0,test
+V A V E S A E M N V R L N K T D D V V S V G Q N S L L E,0,test
+A A T L P Q V R G L I M L A A T P C F V R R E D,0,test
+T D K K C S M Q T R R R L H Q T D Q Q D Y S,0,test
+L G E S R V V I Q D Y D N Q H E Q D R P T P S P A P,0,test
+R G K L R R R S S S H R S K D R K,0,test
+A N P N S L T G Q Y L S G V,0,test
+G G P E G L S P A C K A A A E Q S W S L,0,test
+L L T E R L G K K V Q L,0,test
+G W M S E K K V Q G I L D K K L P E G I I R N A A K A I V H K M A K M Q F G C F A N V D V K G D C K R H C K A E D K E G I C H G T K C K C G V P I S Y L,1,test
+S I L N N P N P C D Y V L L E E V L K D A A N K K S S T P K S S Q,0,test
+F L R A M P Q V V N G T K H G,0,test
+I P I P Q Y P L Y S A A L A E L,0,test
+H G D L F T P A A D L V L T S P A,0,train
+A D T A A S A I A V A L E A Q K F V V,0,test
+H L S R A D A E K F Y A V H A E R P F F K D L V D F M I S,0,test
+E K V K R F F F F Y A I N R H K Q T V L T P S Y H A E Q Y S P E,0,test
+E Q Q A R E A A E Q K A R L Q T E Q K A K A T L D A M R A A,0,test
+T M I P P S A Q P P R T Q T P P L G Q,0,test
+T L R L P T K T Q Q K T K L L L C S A L S S M A,0,test
+L L Q D G E H G L P E D T S L S H N E P I H G L L D,0,test
+K K F L H S A K K W L K A F V K L K K N W,1,train
+A V V M P Q A A S L Y A M I V E F R,0,train
+L F P E E E I V T L A E G Y A K E S G A R I L I T E D A D E A V K G A D,0,test
+I L P W K W P F F P W R R,1,train
+L N W G A I L K H I K K,1,test
+E T M K I K D D G Q G H L D L F L S F L N E K L L,0,test
+A S T H G L V I N I I H S L C T C S Q L H F S E E T K Q,0,test
+R H L N S K D V V I F A A G T G N P F F T T D,0,test
+F S V M E P Q P P D Q Q V R W F S F D P,0,test
+V I P S L C T D D K G Q L,0,test
+F L P L I A R V L S G I L,1,train
+I L P I L S L I G G L L,1,train
+Q F L Q V Q N A V I K I Q S S Y,0,test
+F G S Q C I V L S V D A R T V P V G S A P T P S G W E V,0,test
+A C G L I I L Q I T V G Y R L L L L L L L,0,train
+G F L S I L K K V L A K V M A H M K,1,test
+F H P E K S G D A G S Q L L K N W I A T L M L A K R I I P C L D,0,test
+E I D F K Y A D A V T A C,0,test
+M S T A G K V I K C K A A V L,0,test
+E Y T V K S H R V H K G,0,train
+F M L D K L Q N E I D Q E L E H N N S L,0,test
+Y K F E V T A V S D D G K S T A S T,0,train
+D L R R D S L K N K I I L R C,0,test
+V E R S L S E D E W K A V M G D S Y Q C K L C R Y N T Q L K A N F Q L H,0,test
+G I A G G L R Q V A G L T D P V G,0,train
+F L P L V T M L L G K L F,1,train
+P V H M T T A V F F D F G,0,train
+S H L K R P V F A A I F I F W R A S Y N I G I G I L,0,test
+P L L L S R M K E V G K V F L A T N S D,0,test
+G Q L A A V G G M W L P L V L F L A,0,test
+I E W E N S E E R K Q E K L R Q S D F A S V D P A P P M P E D D E K Q T,0,test
+V G I G E A P D A A D F K D E G S H T L R H T L E G,0,train
+P K V M A H M K,1,test
+Q Q N L A V S E S P V T P S A L A E L L D L L D S R T I,0,test
+R F F A S S I L H H T S E C T Q M D H L G C L H Y,0,test
+L E P T K A T F N,0,test
+R K C N F L C K L K E K L R T V I T S H I D K V L R P Q G,1,test
+Y S S G K G C N G R V V P T D G G R Y D V H L G E R M R Y A V Y W D E,0,test
+R S L Q E M D L D V A S E F I V M A A T L V E I K S R M L L P K F,0,test
+M P F N L K N R H L L S L V N H S P R E I K Y L L D L A R D L K R,0,test
+G S P T G K Q P S S E V N L G E R E A G T K N E R M M R,0,test
+F R T V S N R V V T K Q L P P P P S Q P Q I E,0,test
+L S L L K R G R S L C D Y L V L,0,train
+S Y F P F T E P S A E V D V M G K N G K W,0,test
+G L P A L I S W I K R K R Q Q G,1,test
+S A D E V S K K T G V P V E A,0,test
+G F L S I L K K V L K V M A H M K,1,test
+K W K K F K K I G A V L K V L,1,train
+N N H E H K Q P L P S L A I A A I G V V F G D,0,train
+Q A G F F L L T R I L T I P Q S,0,train
+V Y V M P L G G R D E K L V I A,0,test
+G S L L V I S Q F T L F G D C,0,test
+I V C P L I Q N D G A Y L L C K M A D D R G V F P G Q W,0,train
+G W L D V A K K I G K A A F N V A K N F L F N K A V N F A A K G I K K A V D L W G,1,test
+K R G F G C N G P W N E D D L R C H N H C K S I K G Y K G G Y C A K G G F V C K C Y,1,test
+L S M C G N S G Y E V I K I L E P Y V V N S L V Q,0,test
+V L T K I A K R N P R E I A Q A I V D H L D T S K A H V K Q V D,0,test
+R E F Q N P P Q L S S L S I D F,0,test
+K A V A A K K S P K K A K K P A T,1,test
+R A A K K G K T P F I L H D G P P Y A N G D,0,test
+K K L F K K I L K K L,1,test
+S R T V D P F I L,0,test
+E M K Y D M G G A A G V I G T M,0,test
+T Y F E A T M V N T E N A A V K N N R Y A Q L N V I H R L I S E L G,0,test
+T I I R T L D A F N V R G E R R E,0,test
+S V L H V A L R A P R N S A I C S D G K N V V P D,0,test
+E G L S S P I F E D H I Q T,0,train
+I T P I A D F H S K V I S V E F N K,0,test
+H T A D V I L P A Q T G R A L A Q T,0,train
+V N L H I G N G A S L C A V K V S K S I D T S M,0,test
+R A Q A V R Y R G I R I D K Q P A Y N V E V,0,test
+L V Q L G K L H E N V L D,0,train
+K K K K K K A L F A L W L A F A A,1,train
+G I F S K I N K K K A K T G L F N I I K T V G K E A G M D V I R A G I D T I S C K I K G E C,1,test
+L L N A L A G R E A A I V T N I A G,0,test
+A A R R A A R R A A R R,1,test
+A I S D I P F N G P I A G V Q V G Y V N G E L I I N P D Q A Q Q E A S L,0,test
+K I N K L K D K I Q N I I K A K A,0,test
+T R L E S G D L P L E E,0,train
+F W G A L A K G A L K L I P S L F S S F S K K D,1,train
+F A I T G H R N R R Q K T R N T S T L E S I P G I G P K R R K A L L Q,0,test
+T I V A R S I A V G L Q E A V R E M K R L V Q N,0,test
+G L W S T I K N V G K E A A I A A G K A A L G A L,1,test
+A V I E L V D F A E A P A A A P K A A,0,train
+G W K K W F T K G E R L S Q R H F A,1,test
+W F K K I P K F L H L L K K F,1,train
+V F Q F L G K I I H H V G N F V H G F S H V F,1,train
+F I K K L D L C E Q Q P I F Q N L W K N L D E T L G E,0,test
+Y V G R D E A E V R A K N N L G P E V,0,train
+K I L R G V C K K I M R T F L R R I S K D I L T G K K,1,test
+F L P L V T G L L S G L L,1,test
+Y H C G V C L Q R A P A S K T L T L H T,0,test
+G L G S V F G R L A R I L G R V I P K V A K K L G P K V A K V L P K V M K E A I P M A V E M A K S Q E E Q Q P Q,1,test
+K W K S F L K T F K S A A K T V L H T A L K A I S S,1,train
+R L L P V T R S K I,0,test
+L Y V T M D N Y E L L,0,test
+E L A D E A R K K R Q F T D V N R F T L R C M V C Q K G L T G,0,test
+S V S K V L W L D E I Q Q A V D D A N V D K D R A K Q W V T L V,0,test
+G I L S T F K G L A K G V A K D L A G N L L D K F K C K I T G C,1,train
+A D E R R E F A V S M L R D,0,train
+F L F S L I P H A I G G L I S A F K,1,test
+W F G E D Q A R Y I V T V H E R D L L S V F T K L K,0,test
+G R V I A R P F I G D K A G N F Q,0,test
+A I Q Q E L E K E K Q R V A Q Q K Q Q Q L E Q E Q F H A F E E M I R N,0,test
+L L H R R Q I D T L V G K I R E G N F A L V P L S L Y F A E G K V K,0,test
+N N T E Q L V F,0,test
+G K V W D W I K S T A K K L W N S E P V K E L K N T A L N A A K N L V A E K I G A T P S,1,test
+V R E A G D L A L W V P S L A A L L L T A A A F Q I P R R,0,train
+E A G L A A L R A E R A K N D R M S G R E L,0,train
+K W K K L L K K L L P L L K K L L K K L K,1,train
+R Q R L P G P P D A P G A V F V L G G E G L R A E L R A A G L R,0,test
+R Q G Q E T V A,0,test
+I T D I T P P D L E T R I A I L R K,0,test
+F E P A K R M G F T E F F S N G L V N E D L S P Y E V,0,test
+F S R L G I K L A E T H N K G Y R W Q H E A V I A L A,0,test
+E L C Y L T G L,0,test
+G I I N T L Q K Y Y A R V R G G R A A V L S A L P K E E Q I G K A S T R G R K A A R R K K,1,test
+A I V M G A E G D G M R R L T R E T C D D L I K I,0,test
+S E L A G T I I D G A S L T F E V L D K V L G E L G K V S R K,1,test
+L N P I N Y S V L A G L I P K N Y P G R V H E I V A I L I Q E,0,train
+E E G R K L A E,0,test
+I L G K L L S T A W G L L S N L,1,train
+R S V N D F L W L G A A L E G L C S A S V I Y H Y P G G T G G K A G,0,test
+F S I S P G K V L D K F G K I V G K V L K Q L K K V S A V A K V,1,train
+F D L T G I A P A P R G T P Q I E V T F E V D A N G I L N V,0,test
+L G A G L E V V D L G,0,train
+L K L K S I V S W A L L V L,1,test
+L D E A I H W V N F G I Y F N H G,0,test
+R G G R L C Y C R R R F C V C,1,test
+K P E F V K P E D V S A D V V E K E Y Q V Q L D,0,test
+Q K F S D G E V K I,0,test
+I L G K I L K G I K K L F,1,train
+I N W S S I F E K V K N L V,1,test
+G K S G H G I H C L G V R V G K Y V L,0,test
+R R G W V L R L A L A Y,1,test
+F F H H I F R G I V H V G K T I H R L V T G,1,train
+F L W W L F K W A W K,1,train
+G F G T G L N F L A V T A L F R E,0,test
+K W L L K W L,1,test
+T S R T R V R R S G I S P L H L A A E R N,0,train
+L R R L W L R A N R L,1,test
+V I S L Q K L I V R E V A N E E K A M F L,0,test
+T V A G E Y G S R P L Y K M L G Y F S I I G L L R V H C L L G,0,test
+G A D E K F L E R V E E E E L T V D G L P E,0,train
+G L V D V L G K V G G L I K K L L P,1,test
+P M L Q N I P G G A N A R P F I T,0,test
+R E E G G L S D P D A A A Y L A Q L Q R T L R F Q T E T W A M T G,0,test
+D G I S I N S P N E F N N L K N S E V K D K V,0,test
+R A T D V M V A G K I A V V A G Y G,0,test
+L D P I V A K R V R H I L T E N A R T V E A,0,test
+R K E E M I L A A R K R M E G K I,0,test
+M E S Q S N A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+E P P H F G R V N V T T W Q I P P L E T T M D G V D G,0,test
+G L L D T F K N L A L N A A K S A G V S V L N S L S C K L S K T C,1,train
+N F L N A Y V D F A P M P N A R Q,0,test
+E I I K S S A,0,test
+F D V I L A D A,0,test
+S R P N A M T V F W S K M A Q S M T S,0,test
+G F L G S L L K T G L K V G S N L L,1,test
+E D M I A L I Q R L I D K G Y A Y V V D G D V Y,0,test
+N R L A R H F R D I A G R V N Q R L,1,test
+K D Q H L N G,0,test
+N R T G N S H Y A S L L K A L G G I L G L L Q Q S P R Q Y L,0,test
+A W A S F F K K A A H V A K H V A K A A L T H Y L,1,train
+S S I L E S D E F L V I D V I H E V A H S W F G N A V T N A T W E E M,0,test
+L A E L A A A A R P A A P G P F L P R P P P R H T L A S H,0,test
+R R K I I A T K Y P T V A S K F F R E K G E D V E I I,0,test
+H Y S W Y R D F R R Y G S V P H A G F,0,test
+A R L R P G A E L K E D A H,0,test
+F L P L A G R V L S G I L,1,test
+E F P P A T A R,0,test
+Q T C P H C Q G R G T L I K D P C N K C H G H G R V,0,test
+R I S L I Q D M R H I Q N,0,test
+A L L H H G L N C A K G V L A,1,test
+I P A N T D K E E V F L,0,test
+F K C R R W Q W R M K K L G,1,test
+T D T I L N Q K G Q N V I,0,train
+E S F S Q M T,0,test
+D W W V S K H L K R P L R S T I L S L D W H P N N,0,test
+I S S R L L I G S A L Y P S P A I M,0,test
+E L A T Q I F E E A R K F T Y R S W V R P C V V Y G G A P I G N Q M,0,test
+M A R I A I I G G G S I G E A L,0,test
+L N W G A I L K H K I K,1,test
+G I S T S L P,0,test
+G F F A L I P K I I S S P L F K T L L S A V G S A L S S S G E Q E,1,test
+V V G K A E V P S,0,test
+K T A I R K A N V Y G L C Y A F S Q G I S F L A N S A A Y,0,test
+K K K L F W K I P K F L H L A K K F,1,train
+D T I L V S V M H V N N E I G T V N D I A A I G E L T R S R G V L Y H,0,test
+I N W K K I A S I G K E V L,1,test
+R G G R L C Y C R R R F C V C V,1,train
+L S L L I A Q I K N Q D P T D P I K N S D L T S Q L A Q I,0,train
+D H P L L R D A I Q C R P V R E L T H S F Q,0,test
+G I W G T A L K W G V K L L P K L V G M A Q T K K Q,1,test
+N E K K T K E N N P,0,test
+E T S V A S G,0,test
+F L P I L A G L A A K I V P K L F C L A T K K C,1,train
+R N L R I W N S,0,test
+G L M S V L K G V L K T A G K H I F K N V G G S L L D Q A K C K I T G Q C,1,train
+D M E M L L A A Q C H L G S K N L Q V H M D P Y L W,0,test
+M I G K F V D V E I,0,test
+L T K E E A I K T A M T L W K E I,0,train
+I K R F V A N N P S T L,0,test
+S W L R D L W D W L C E V L S D F K,1,train
+M W A S I T D L G D V K C S G N W M W A A K L K G E G,0,test
+G K V I G G K S T K A S L T C T S T T E A E I,0,test
+Q V I A Y A E Q R Y R I F G E T L D I A V G N C L D R F A R,0,test
+T E R A V P V C G H L G,0,train
+G L V G D A L E E S F E K E R R E I K R G T S T T S,0,test
+S R W R D V A R N F M R R Y Q S R V I Q G L V A,1,train
+I K I P A F V K D T L K K V A K G V I S A V A G A L T Q,1,train
+I L S K S I E K M Q S D T Q E A N D I V T L,0,test
+I E V V L Q V L S I S A I T T T,0,test
+V R G R I P C V V E K V L T R V T P G A S V,0,test
+I V S K E L Y K F F D K S G R E L A L R P E G T A P I M,0,test
+I F S N T A L V N C M R Q T L Q D T G H N P,0,test
+K A L A Q A K L S A E E V D F V E I I G G T,0,test
+Q P V L I G T T S I E K S E L L S T M L K K A G I P H Q,0,test
+K S F E P L P T F T P E L F M R V Q A K N V M K Q K S F Q K G I D Q,0,test
+R P E V V L E G S,0,test
+K S L Y Q N L Q V R A E G,0,test
+A L I R D E P K I C K Y L D I P L Q H I S D P,0,test
+L R A D V A L T T A S V T L P S D G E,0,train
+V H Y R E M F,0,test
+Q T Q L T V E L R F D E R Q K S R H K T Q T T C G K D L G W F,0,test
+D Y D W S L R G P P K C A T Y G Q K C R T W S P P N C C W N L R C K A F R C R P R,1,test
+L K P E M S A Y E V K D A L L E E L D K G D L D L I L L N F A N P D,0,test
+I N L K A L A A L A K A L L,1,test
+G I G K F L H K V K S F G K S W I G E I M N S,1,test
+A A T H M N H A,0,test
+I W R I F R R I F,1,train
+I N W L K L G K M V I D A L,1,test
+D D L Y V G S D L E I G Q,0,test
+T E Q I N G L R R E L F Q L R F Q Q A T R Q L A N T H,0,train
+D I K S N H G G D A T E F M N K V K N K E D G V R L M G F G H R V Y K N,0,test
+A Q G K G D Y L L C S Y H G I P Q R Y A D N G D I Y P L H,0,test
+L K N Q I S R I R E Q A N T I E T I V L M A V H C M N F K R R G G I G D,0,test
+P V I V N E K N Y T S E M A L L G S,0,test
+Q S R V I Q G L V A G E T A Q Q I C E D,1,test
+L K L I P R K I V T A L,1,test
+M T N H G G G N F K K Q,0,test
+E A M E E E L N V M M L P K,0,test
+F S S D G E D I P D A L A G L A A S A A L S V S T I P F N G P I S E V,0,test
+N P P S S P T P S F S E A K A A G T L L N G P P Q F S T,0,test
+A S A A I P E P T P H D G A C P S G S G A D E R L P,0,test
+N V F R E P N V A T E C R S N C F,0,train
+V K K A V E S M L E K L K R D A G P V Y G,0,test
+H D F L E K E Y S T A I V Y P D R E N I Y Q A F,0,test
+G F L S I L K K V L P,1,test
+C V I G N Y Q G M N P T D G F I M T,0,test
+F E D E L D V V E G M Q F D,0,test
+T L V V K K I L G T F K S V A V K A P G G G D R R K A Q L A D I A,0,test
+T E F N N G N M V M T A W S L F A A G T E T T S S T L R Q S F,0,test
+G R F K R F R K K F K K L F K K L S,1,test
+H G V A T A T V C A R F G L E C I I Y M G V Q D M E R Q K L N,0,test
+D L R N I A Q L G Y D E S E D Q E E L E M,0,train
+F L F S L I P K A I G G L I S A F K,1,test
+V D E L A K K L G L N V E K L T S,0,test
+V S L K P G A G M E E M K Y D M C,0,test
+V L D I Q K D Q V R L I S R C M D I L N P G G T L Y F S T N,0,test
+F E Q G H P V A L N G K T,0,test
+I N L D A I A L M S C N P A,0,test
+G D T L A A I D L F G I K D K,0,test
+E L V D K A G C R G L Q I G G A Q V,0,test
+H F L G T L V N L A K K I L,1,train
+R G G R L C Y C R R R F C V C V G R,1,train
+M A N N P K P S N,0,test
+I C F T C L P I K L Q,0,train
+I L P L K L P W L P L R R,1,test
+S S S F I A C M V T I I L L L S C D F W A V K N V T G R L M V G L R W,0,test
+E I Y A A R E K A E G A E G E T I Q R G D,0,test
+L Y F R T S E N I,0,test
+G R A N S R N Y Y T E F A E K L P K D T V I L T A G C A K Y K Y N K,0,test
+K L K L K F K L K Q,1,test
+D L A A G V G R S R V P V R A P Q Q Y S E,0,test
+L K L K S I V S W A K A V L,1,test
+R V Q G A L T G M M M T L K G L,0,test
+D I A E L A Q R Y R D Q G A D E L V F Y D I G A S P E,0,test
+L N L K G I F K K V A S L L T,1,train
+A K A L R D A G L A V R D V S E L T G F P,0,test
+F I H H I F R G I V H A G R S I G R F L T G,1,train
+S G A G G Q H V N K T D S A I R I T H I P T G I V V E C Q D Q R S Q H,0,test
+A G W R E T P R P G C T,0,test
+E W Q N N K Q S K Q Y I,0,test
+S L L R N A G A,0,test
+I L G K L L S W A A G L L S N L,1,test
+A Q A H I E Y A L Q H L Y P L A I G A T A V G T G L N A P A G F G D R,0,test
+V V Y P G T F D P I T N G H L D L I E,0,test
+G P E V N L G,0,test
+V R Q Y M A R L V N A L A S L A E G R L Y L A Q N T K V L R M,0,test
+N I D Q I Q I R L A N Q L S F I N R L H N L P V D E,0,test
+S W L R D I W D W I C E V L S D F K,1,test
+G L F G K I L G V G K K V L C G L S G M C,1,train
+D M V T V A Y A V S Q I T K F T G R E K P S V V T M E,0,test
+D G G L Y I T H D,0,test
+M K K V E E K R V D V N S A,0,test
+H P L V R I L I G E Q I Y R A W,0,test
+L Y C R C H I E H P G,0,test
+T D F N I L Y S M M K K H E E F R W M R L R I R R,0,test
+K W K K L L K K L L K L P K K L L K K L K K L L K,1,train
+P L L A S I A E S N P N I L A R V T H L I C,0,test
+Q R E V F I H L T D K S E T I R P E L S N A,0,test
+L T K W Q R G Y E R A I T E,0,train
+S I I T M T K E A K L P Q S W K Q I A C R L Y N T C,1,test
+G I G P E I V A Q A R N V L D,0,test
+T D I M D V W F D S G S S H A Y,0,test
+I L G K I L E G I K S L F,1,train
+P P H G G L A P G I D R M V M L L A G,0,test
+P S R E D L V,0,test
+M E L M N K L T K A P M T E A Q D R A I L D E A L,0,test
+L L G D F F R K S K E K I G K E F K R I V Q R I K D F L R N L V P R T E S,1,train
+V I T V L T A D F A Q P N G Y G R I V K D G D G F I K R I V E E,0,train
+S G S T A Y N K A L G G A I L H P S L A S,0,test
+A A K Y G D K Y V N T S E E E R R S V F,0,test
+S D T F R E Q L P M A V D M L Q H,0,train
+R R A F L L A S D E E V A,0,test
+A K K V F K R L G I G A V L W V L T T G,1,train
+V K R I I E T E H F R V E R V I G R Y D K M I K I T,0,train
+H A E H K V K I K V K Q K Y G Q F P Q G T E V T Y T C S G N Y F L M,1,train
+L L P Y I A E H W L G L P A T R V V P,0,train
+W Y T E L K K L P E V I N V C N R F Y H T H S C E C Q E K F F V Q T L,0,test
+V D I I P A W T K G F H I R V E F F G D E I E K I S T I,0,test
+K K L L P I V A N L L K S L L,1,test
+L H D F G I Q S T R Y L Q V N Y Q D S Q D W F I L V S V I A,0,test
+D S I G P S L S P E T,0,test
+L T S R G I D A E K V N L V,0,test
+I G G I I S F F K R L F,1,test
+M S S L Y S G W S S F T T G A S K F A S A A K E G A T K F G S Q A,0,test
+S P S S T E K G K E T L R S,0,train
+F K L F K K I L K F L,1,train
+V R R F K W W W K F L R R,1,test
+G L K K I F K A G L G S L K K G I A A H V A S,1,test
+R M N T G E K,0,test
+R D L K V D V R,0,test
+I L P L K L P W W P W R R,1,train
+S P V I L R H S S V R G E S V F T A H P D S H K,0,train
+I V K G G D Q S K M E E G E V Y,0,test
+L L K K L L K K L L K K L L K K,1,train
+S V S N A A T R V A R T G R S R W R D V A R N F M R,1,train
+R E T R S T T V T G L E M,0,test
+S E C E M R Y Q D C G E A S S C T A L I E E C K T S L,0,train
+G I G K F L K K A K K F G K A F V K M K K,1,train
+W L G S A L K I G A K L L P S V V G L F K K K K Q,1,test
+M L Q D W L S S L G D L L K S L L D T V N K F T K K,1,test
+F V K L K K I L N I I N S I F K K,1,train
+M A W N S Q M M L T L W I V T I V L I F S S S R C E R I L D L R K T K K S C K N G E V L G C V S G H G P P G C S E N E C G M G P R P K A C F F D C H Y G C W C T G K L Y R R K R D R K C V P K H E C L L,1,test
+F F H H I F R A I V H V P K T I H R L V T G,1,train
+E S T F K S G E K F E V P N V E N K E,0,test
+G F G T I L K A L A K I A G K V V K K L A T K P G A T Y M L K E N L K,1,test
+Y L Q T M V F Y N L,0,test
+I S D F F I A,0,test
+I Q D W C I S R,0,test
+R A N A H K L D W P L R E T V L Q L Y K P F K W T P C F L H K,0,test
+E E Y V R D V G E G L N P D I P Q N Y Y R Q D D P,0,test
+S N T N K A N N F K L L A E N R Y A K F Q Y A I S E T I E A G I E L,0,test
+M T I L F L K K Q L S G K K G K T P P S P P G L P L,0,test
+N P R E L A A R,0,test
+V Q K M K D K G E I A,0,test
+L L F L K F S E Y M L P L L G R V H L S Y H L F A L W V I N L Y I,0,test
+E L I D Q L A R T Q A S A L E T Q G L G L V P M V V E Q S G,0,test
+Y A R H S D E G S G R P S E K G I K,0,test
+G G S M G G G L Q F P S N L R G L P A L F L G L I K H V G L R K S A Q,0,test
+G I G K L F L H A A K K F A K A F V A E K M N S,1,test
+E T A L E V F A S R I H K Y I G S Y A A R M S G V D A I I F T A G,0,test
+G E Y N A E V V M T,0,test
+M K D R R G Q V I Y V G K A I N L R S,0,train
+L G L D W D E G P Y H Q S E R M H I Y Q Q Y T Q K L,0,test
+K K K K K K A A W A A W A A W A A,1,test
+K W L N A L L H H G L N C A K G V L A,1,train
+L E T E V R L M G E F P P D E L A G L D G H,0,test
+T I P Q L R G M Y,0,test
+L A L K S G G W L R L F G L K D K K H,1,test
+I E L E L E D M A D D R K A,0,test
+A V G I G A L F L G F L G A A G S T M G A R S,1,train
+G L L A L I S W I K R K R Q Q,1,train
+G L G K L F G P N S P R L P K D N M L M I D R V L K I N A D,0,test
+S E G Q K L L I G V G P E G I S I C K D D F S P I N R I A,0,test
+N K Y V G E S E A N I R K L F A D A E E E Q R R L,0,test
+M V I K K P I E V R D G N K F V R L T P T K E P,0,train
+K W C F R V C Y R G I C Y R R C R,1,train
+V K D G E A Q A C I S A G N T G A L M A V S R,0,test
+P V C T R N G L P V C G E T C V G G T C N T P G C T C S W,1,test
+N A K K I V R V I K R D L E P G W Y E,0,test
+I E S L D E V F A K K Y D E K N T I E A V E G K L F G T G I E S Y T V,0,test
+F D A V I A E V,0,test
+L I K R L D Q S E M V K L A E E A L N K S T A E E,0,test
+Q K R F A E W G,0,test
+K Y D H L K D K A V V T Y C T G G V R C E V L S S L,0,train
+T E E Q Q K W V S R L V K K I,0,test
+K P K K R T I R P T S V T S N Q N N K K D T R A A P R R E L L E,0,test
+P I V E E E L S K K,0,test
+Q D L E K K Y Y E E P R K G I Q A E E I L Q T Y L K S K E,0,test
+T L C L L S T T A T T,0,test
+K I S A A V K R H S N A G L F Y L T I L T D P T T G G V T A S F A M E G,0,test
+I L G T I L G L L K G L,1,test
+I A I A E E I A K I,0,test
+Q R S V S N A A T R V S R T G R S R W R D V S R N F M R R,1,test
+M L S V S D A V Q L M L G F G T F V L M L L G L V V E L I K N S N K K,1,test
+K W K S F L K T F K S A K K K V L H K A L K A I S S,1,test
+I F G A I A G L L K N I F,1,test
+K V G Y T P D W I F L L R N V M R I S P D Q G Q Q F,0,test
+F K R L K K L F K K I W N W K,1,train
+E E K Q E G V Y G P E S L A,0,test
+K K K K K K A A F A L W L A F L A,1,train
+A P Q L A D L R M I A E S V E I P V F A Q H I D P I K P G,0,train
+D S Y W Y L V G L A S W S,0,train
+A I A Q F E S I G R I,0,train
+V C G E T C F G G T C N T P G C S C T W P I C T R D G L P,1,train
+T E Q R N P N S M N I D Q,0,train
+C G E S C V F I P C V T A L L G C S C K S K V C Y K N S I P,1,train
+E G R R F R V V V V D S R P R L E G R H M L H S L V R A G V P T S,0,test
+I D W K K I F E K V K N L V,1,test
+Q D W R T I D P S V Y L S,0,test
+I I T N I R A D D I I N T A N K I F S G T T T L A I I G P,0,train
+I E K Y Q E V E E D Q D P S C,0,test
+G R P N P V N N K P T P H P R L,1,test
+G L L K K L L K I A A K V G K K L L,1,test
+G L W S K I K T A G K S V A K A A A K A A V K A V T N A V,1,train
+G L L G P L L K I A A K V G K K L L,1,train
+K K K K K K A A F L A W A L F A A,1,train
+I L R A L G G E P P V Y A H L P T V L N E Q G E K M S K R,0,test
+R Q I K I W F Q N R R M K W K K,1,test
+I G E N M T I R R F V R Y,0,test
+P P M I S N Q P I F K Q Q P M Y Q Q P M Y Q Q K Q Q Q P Q,0,test
+F L P I I G Q L L S G L L,1,test
+Q Q Q R P S A T P S F P R L V R N T T A N L S L S D F Q V L N P,0,test
+Y D P E L D F H Y R I F N A D G S E V A,0,test
+D G L V C L L K K P F N R P Q G V Q P K T G P,0,test
+S P S S L T S P A S Y N C S Q S I L P L E H G P I Y I P S S Y V E S R,0,test
+N W K G I A A M A K K L L,1,test
+A F T L A T A G S F V D K L P E N P,0,test
+S G G N G A G K S T T M A A F V,0,test
+R P R V E Q V L D K E E E R F A E T L E Q G M,0,test
+V G V H V I G D G A D E M L Q G F A V A V,0,train
+N E D F S A Y P R P L E K D L A L C E K L,0,test
+N A G S L L S G W G,1,test
+R P W P L G R A S S K A S T P K P P G T G P V P S F A,0,test
+P A G P A G T G K T E T T K D M G R C L G K Y V V V F N C S D Q,0,test
+M C I L L P I I G I G I,0,train
+L L G M I P L A I S A I S A L S K L,1,test
+V S E N K T L A H P A S V D S,0,test
+G L L S G T S V R G S I,1,train
+F M P Q P N V D S A V I H L K R,0,test
+A G V E Q V V I L G E S K,0,train
+F F H H I F R P I V H V A K T I H R L V T G,1,train
+L E I E G A M A L L M K D A I K P N L,0,train
+S I R G N V K E V V A R G,0,test
+A L W K T L L K K V L K A A A K A A L K A V L V G A N A,1,train
+V Y F I S I G D N S R K H A M L L S E N I R S T L P S L R L M V H H G G,0,test
+K L L L K L L K L L L K L L L K L L K,1,train
+R W R W R W R W R W,1,test
+K N N M I N N D L G P A T A Q M A L Q L F I K D Y R Y T,0,test
+V L W D L Q A,0,test
+Q D E K E R N I R A G L N Y G H T F G M L I E N E T N Y E R F L H G E,0,test
+A A K F L N L E A I T W A N T R D T L G K H A I,0,train
+S A I V N L P,0,test
+V I F Q G F T G K Q G T F H A S I S Q E Y G,0,test
+R G G G L C Y C R R R F C V C V G R,1,train
+P V R S T P H I A I L D P R T G E R V K E W S K S F T,0,test
+G I L N T I K S I A S K L K R K A K,1,train
+R W R W R W R W,1,test
+I C S L S T M Y T F L L,0,test
+C G S L A R K A L E K F F N K,0,test
+S A I S C G E T C F K F K C Y T P R C S C S Y P V C K,1,train
+I V N G G A H A D T G,0,test
+S D A I T C R D D V E A P,0,test
+F V N I L Q M R K L R E G R A F N V D E R I I A S,0,test
+K W K S F L K T F K S A V K T V L H T A L K A I S S,1,train
+R G T D A R I D K T D R V G A A E R,0,train
+R K A E Q A A A E Q A L K Q L E L E M T T M L,0,test
+Y E N G P C V D D T K F C N P V K L Q,0,test
+N Y I R R D I Y E V T R L T A S A G V S Y N K F,0,train
+F K P L H E L N P V R L G,0,train
+G I I N T L Q K Y Y S R V R G G R S A V L S S L P K E E Q I G K S S T R G R K S S R R K K,1,test
+F F E T R D E L T T T R G M D G W V E V S S P V E H K Y V Q,0,test
+G I L D T I K N A A K T V A V G L L E K I K C K M T G C,1,train
+I L P W K W P Y L P W R R,1,train
+S T I G D L V K W I I D T V N K F T K K,1,test
+V D P A G G V L E D D Y T V T,0,test
+L V N P A K T L S K A D L E A N G M A,0,train
+M I T Q T L H E L R R R G G G F,0,test
+K W K K L L K K L L K L L K K L L K,1,test
+S L Y R H E E E,0,test
+H F K G T L V N L A K K I L,1,test
+V E T L I I K,0,test
+P W G A K E C R I G T N P L I V A V P T,0,test
+Q R H P F K P K L H H I D,0,train
+Y L F C V L K K K N I N E T N K H M I H A I K N G A K I I L Y D T K,0,test
+A K L D D G Q Y D A I V L A S A G L K R L G L I S R I R H,0,train
+L Q R I Y G T A W A S,0,test
+E T G C A P G L Q C N F,0,test
+P E V Q Q R N S L D F G K A P S L L W T D N G G S N D R C E,0,test
+Q L S K K E A S R H A I M R S P Q M V S A I V R T M,0,test
+I C E Q V G D P A T S K G P,0,train
+I L P W K W P W W P L R R,1,train
+G L L S G I L G A G K Q K V C G L S G L C,1,train
+E L N Y D S I N T T T T F L G K S L Q A,0,test
+K A R I Q E L F A E A G L D A K Q A K L R S K Q V Y H,0,test
+K L A L K L A L K A L K A A L K L A,1,train
+H A D S S A N M L G K T Q S R L L I W T K N S A F E E,0,train
+H A H D H G H A H S H G D I H D H G H A H K H G,0,test
+Y Q I D Q L S K M T Y K N K S L N I H D L T A,0,train
+M G L E L G F R E L G E V,0,train
+R G G R L C Y C R R R F C V C T,1,train
+S K P G I K V T K L E K L G L R M D S C C E I T F,0,test
+A F F K A V F A E F L A T L,0,test
+S T M S I V R M T D L D L S G K R V L I R Q D L N V P I,0,test
+P P E G F N L R R D V Y I R V A S L L K T L L K T E E W V L V L P P,0,test
+A S S V D S S V L T G N N R M K Q R P I G D L V D A L T A N G,0,test
+H T N E R T H D V I R A N L,0,test
+D E K R L L K A F,0,test
+D G Q D P T E L Y E L V L S E I E H P,0,train
+M S D F V N A I S E A V K A G L S A D W V T M G T S I A D A L A K G A D F I L G F F N,1,test
+H K K S G K G T A M A Y D Q I D G A P E E R E R G I T,0,train
+N S Y L G G R F C G S S R P A P F I S S G N F,0,test
+R Y A C S K L G I N F D S F V A C M I R L E T L F K L F S L L D,0,test
+F T A K L A G T E R G I T E P T P T F S A,0,test
+G Y I A I N I S S P N T P G,0,test
+N N K P I P N F D P D G K K D R P H D L S K A G A L R F F T V M,0,test
+K N W G K I L K H I I K,1,test
+I L G K L L S T W A G L L S N L,1,train
+W R K R K P P V P L D W A E V Q S Q G E A N A D Q Q N E P Q L G L,0,test
+F P R D Q C Y V V E V A I D E N L T K N F V C L Q T A V L H T T C N G,0,test
+R G G R L C Y C R R R F C V C A,1,test
+K L L A V K Q R P W,0,test
+G S L M K R P M Q R V A G,0,test
+E T G G E F G K G V I R A E L D V K P D L W F F G C H F,0,test
+D E N G V D A E L I E R E R A V,0,train
+E R S T F R E L L K I T G I G A R M,0,train
+K K L F K K I L K V L,1,train
+G I L K T I K S I A S K V A N T V Q K L K R K A K N A V A,1,train
+D I P T G E I,0,test
+V Y N P S Y E Q L F E E E M K P E L E,0,test
+L Y E K G L A Y E A E V P V N W V E E,0,test
+T Q S T A K P Y E T,0,test
+Y E R S L A V I T A A R D Y G L V T K S N L I L G M,0,train
+E W G R R C C G W G P G R R Y C V R W C,1,test
+K R A K K F F K K L K,1,train
+E D L G I S A P K S K E M K S T K S F P R Q,0,train
+L M L Q N D E P E D F V I A T G E V H S V R E F V E K S F L H I,0,test
+V L L K V S V D M P R H I V V,0,test
+G M A T A A G T T L G K L A K F V I G A V,1,test
+L C Y C R R R F C Y C V,1,train
+G S H R R F E K V L D T E R V V L I D D Y A H H P V,0,test
+C G E S C V W I P C I S A A V G C S C K S K V C Y K N G T L P,1,train
+E I K G F T G V D D,0,test
+S S Y Y L H L I E K I R A A R,0,test
+E H D V R G Q,0,test
+T E E T L R D E V Q E Y V K T R R G K E,0,test
+L N T L G D P,0,test
+G F G A L F K F L A K K V A K T V A K Q A A K Q G A K Y V V N K Q M E,1,train
+F I I N L F D,0,test
+F H Y L S K H M G Q V M T R,0,test
+P D A E M R E S A M A T D G A S C E P D S S R A P E D,0,test
+K I I I N R Q E P L H Q,0,train
+F V D L K K I A N I I N S I F G K,1,train
+L I H Q G T K L I P A D F L I P I E S H N P I D N N K,0,test
+A L W K T L L K K V L K A A A K,1,train
+D G K V R E V S H V L E L L K D A P E P D T M D S D S D M,0,test
+K L A K K L A K L A K L A K A L,1,test
+A F V D Y F S R G L H A E Y K S K G I I V Q S V M P Y Y V A T K M,0,test
+G N T G T K N K K G L E T K E I V E P E L S I E V C E E K A S A V L P P,0,test
+S I A A A L G A A R L F L L T D V P G V L D K,0,test
+I L G T I L G L L K S L,1,test
+I L E D G P Q G,0,test
+E I E D D E S D G M H Y V D L S K N P E R Y T,0,test
+K R F K R T G N G G L K R,0,train
+Y C Y C R R R F C V C V G R,1,train
+I N W S S I F E S V S N L V,1,test
+H I M S E K E I M G E A N C Q F I V K L F K T F K D K K,0,train
+A A C S S E S R E L C F A A L C H V R Q V L,0,test
+S L H E T S T V L V E T V T,0,test
+D E P D K V F R S V D E K N I A M,0,test
+W F R K Q L K W,1,test
+Q L Q G K Q V S G E V V Q K V L Q E L I Q S V A K P,1,test
+L K L N S I V S W A K K V L,1,test
+F L P I L A S L A A K L G P K L F C L V T K K C,1,train
+V T R A K Q I V W N G P V,0,train
+I L G K L L S T A A G L L K N L,1,train
+G F L S A L K K Y L P I V L K H V,1,test
+K K K K K K A A A F A A A A A F A A W A A F A A A,1,test
+G A L R G C W T K S Y P P K P C K,1,test
+K R R K K D D I S L E E L F Q S L P R E K D Y F M M D A,0,train
+M D M F G N A V T D P T V V E Q I E I E A,0,test
+F V G A I A A A L P H V I S A I K N A L,1,test
+I D M L Q I E F K C C G N N G F R D W F E I Q W I S N R Y L D F S S,0,test
+T R Y T L S L M V L E R K L S S A K G A L N T L G D R I N G,0,test
+I L G P V I S T I G G V L G G L L K N L,1,test
+R Y P Q V A F Q S S G G,0,test
+S K M L A K V I A S A Q A,0,test
+K A M G Y I G F Q A Q D I E D S L R Q R K F N E T M A S Y,0,test
+S S L L E K G L D G A K K A V G G L G K L G K D A,1,test
+M L K A A S N L E F E Q A V K L R D,0,test
+L K L K S I V S A A K K V L,1,test
+L E D S V D H,0,test
+F L P I V G K L L S G L L,1,train
+G L F G V L A K V A A H V V A A I A E H F,1,test
+F T D S I A I G L I V L P N D L E H D,0,train
+R L L P A Y L T S T G L P M P R R N I K R K W D,0,test
+R G R I G V G H P G H,0,test
+L T V F N F A Y L K V G S N I E E I T G N Q A N L L E L,0,test
+I L D K D E K V K N N R L A Q L L K V N N L A D R M G D L,0,test
+S R W A E R C L K A H E R P Q D Q G L F G I V Q G G E Y E,0,test
+F L G W L F K W A K K,1,train
+V N W K K I L G K S I K V S K,1,test
+K N I G N S V S C L R N K G V C M P G K C A P K M K Q I G T C G M P Q V K C C K R K,1,test
+G M A S K A G S I V G K I K I A L G A L,1,test
+V E P P E N P L F V L S D H H D F T D E E,0,train
+A E E R R R K E E E E R A,0,test
+S F P F F P P G I C K R L K R C,1,test
+F C H E L P H E L G D F A V L L K A G M S,0,train
+Y G D Q K G Y L R P E T A Q G I F V N F K,0,test
+L R W E E L T K L D R D A R K R E S R H L R,0,test
+V V K D L E T A G D G P R D W P S D V A Q I E T N S P S L T P I Q,0,test
+M I N E A N K E G I T V P E L,0,test
+G S A A A H A F V,0,test
+R F G R F L R K I R R F R P K V T I T I Q G S A R F,1,test
+L L P I V G N L L K S L L,1,test
+L K D G M D L Y K T A M Q E L V L A Q,0,train
+A E M F R L K D R N G R D F C L G P T H E E I F T E T V K S V T R S Y R,0,test
+Q Q A Q K K G L R S R A W F K L D E I Q Q S,0,test
+I L S N F V G F C I P T Y Y S L K A L K T A T S T D D,0,test
+P V D L V T A S G S G,0,test
+D A G V D I D A G N R L V D L I K,0,test
+F K D E G D A I W L V G G E G T H,0,test
+T A A F I D L S G P K D E V S A A L D R V M S D E I V L D,0,train
+V C G E T C V G G T C N T P G C S C S R P V C T R N G L P,1,train
+G L M S V L K G V L K T A G K H I F K N V G G S L L D Q A K C K I S G Q C,1,train
+K A A K K A S R V A A E G I V E S Y I H G N G R I G V L V E,0,test
+L V S R E V I A D C I E A C A C G Q S M D G L L V V G,0,train
+V N W K K S L G K S I K V V K,1,train
+H S R A V L A R L G A G G R L I A F D R D P A A,0,test
+K N W G A I L K H I I K,1,test
+T Y F Q Q C G G,0,test
+D E D M D R G A M H N G G D V D G,0,test
+P G V L L I E G M A Q T A G A I C A K K E G Q T G N L,0,test
+T Q T V Y E W C G D A T Q L L A A Y I L L,1,test
+G M A S K A G A I A G K I A K V A L K A L,1,test
+F K I K P G K V L D K F G K I V G K V L K Q L K K V S A V A K V,1,train
+K Y I Q C W S Q D S T E T G Y V N I K E L,0,train
+E P D D G I A A I G S G G P Y A L A A,0,test
+I D N K I A G E R L T R L Q T R H T,0,train
+K T S L L M M I M G E L E P S E G K I,0,test
+G P P M M N A A V I K M L K D L G,0,test
+M G I I A G I I K V I K S L I E Q F T G K,1,test
+M I L P T G P T S F K E,0,test
+Y V D D L G Q I V E G Y M A T M A T Q G V P E S L R G R D R I V,0,test
+K A E W E A L E L T D H Q W,0,test
+E M A E R S G R K I P,0,test
+V A K Y N Q L I R I E E A L G D R A P F,0,test
+R D V C R N F M R R,1,test
+G I D K A V G I I I E E L K S M S,0,test
+E N L K A F K K K L A A Q Y D E F,0,test
+I N W S S I F E S V K N L V,1,test
+I L L G S S G V G K S S F I N S,0,test
+C N S S A F F F S G F F V V F L S V L P Y A L M K G I I L R K,0,test
+N N R C V R A,0,test
+R G L R R L G R K I A H G V K K Y G P T V K R I K R K A,1,test
+V T E Q I Q E A N D K N,0,test
+T I K G T V H A R G E K A I N E K L A T G,0,test
+I L P L K W P W W P W R R,1,test
+P T D T L T N,0,test
+C T G G Q H R S V Y L V E Q L A A R F E G,0,train
+R M E G R E V F K Y A V C M I T D A V D D C F A A A G I N S S Q L D W,0,test
+G R F K R F R K K F K K L F K K L S P V I P L L H L G,1,train
+N F I V C I S A Q Q N S P K I H E G W W A Y,0,train
+K Y D F F Q T M S V I G,0,test
+G I G A I L K V L A T G L P T L I S W I K N K R K Q,1,test
+Y P H L H N A E L S K T L G K,0,test
+L Q F E E A V Q S V A R E G Q P H I M C S Y L F E L A G I,0,test
+G L L D T L K G A A K N V V G S L A S K V M E K L,1,test
+H F L L T L V N L K K K I L,1,test
+P T K E N L L D Y I D P K K Y L I L P N T A G C Y T A,0,test
+N P V L V K D A T G S T Q F G P V Q A L G A Q Y S M W K L K,1,test
+S G V P G T E G W I A P E M L S,0,test
+A K K V F K R L G I G A V L K V L T T G,1,test
+I N W K K I A S I G K E V L K A I,1,test
+S L A E R W G L V,0,test
+K K K A A A F A A W A A F A K K K,1,test
+G L G S L L G K A F K F G L K T V G K M M G G A P R E Q,1,train
+T E P G I K G D T A T G A T K S A T V E T G Y T L N V P L,0,test
+I S D K I S A A M L Y V P R,0,train
+I F E T V N S V R H P F L V N L F A C F Q T K E H V C F,0,test
+V S C T Y C A Y N C G,0,train
+T T H H P D S L V T F D N S G N A P G T H Q S V H D T V N T Q D,0,test
+A Q L R T H L T S Q P R L W L D L G S G S G F P,0,test
+I L G K L L K T A A K L L S N L,1,train
+L V R G C W T K S Y P P K P C F V R,1,train
+T D S K V D G M I A G I R,0,test
+S W L R D I W D W V C E V L S D F K,1,train
+L G P S N M G N L S F S C V E P Y T V P V F F N A T S Y L,0,test
+D A L L I D D I Q F F A G K D R T,0,test
+E L G I V T D A R Y R F E R G V D P E M M V P G A E I A T K L V L E L,0,test
+F L P I I G K L L S G L L,1,train
+I W R I F R R I F R I F,1,test
+P S C K R K V G G T S G R K N S N M S D E F,0,test
+A G I E A S E I D M I I,0,test
+L A L T L A P C A Q A A E P I E G K T V Y I D A G H G G,0,train
+K G K H I I T S K,0,test
+R L Y R R L Y R R L Y R R L Y R,1,test
+L I Q A D Q N I E N I V K E S V T K T,0,test
+R R L M A A K A E S R K,1,test
+E A L I T E V K W R G A K R D G K F T A K F,0,test
+E L N E A A E T L A N F L K D D A N I H A I Q R A A V L L A D S,0,test
+S P D S E P P L Q C L V L I C E A,0,test
+G F L G P L L K L A A K G V A K V I P H L I P S R Q Q,1,train
+T Q L L W A A Q N R G E K I L C E G A Q,0,test
+G G L A I A V E G P S K A E I S F E D R K D G S,0,test
+G H D F A T F L E Q A I,0,test
+T I Q G V S G V K P T G L R K R T S S I A D E G T,0,test
+G L F G V L A K V A A H V V P A I A K H F,1,test
+K N V V L E I K G A S G G N E A N L F A,0,test
+L N W G K I L K H I I K,1,test
+S N G S G N G,0,test
+A Q D E F T L G Y T I Y F F E L A I A V S G Y M N A V N P F D Q P,0,test
+S H D V P R T L V Q I R V N D A E L T K R,0,test
+E D I A E E L I D L Y K E R E M A E G Y Q Y G E D T A E Q T,0,test
+L E I M L F G D E K K,0,train
+S S P N T P G L R T L Q Y,0,test
+R G L P V R G Q R T K T N A R T R K G P K R T V A G K K,0,train
+S L L S L I R K L I T,1,train
+Q R L F Q V K G R R,1,test
+E P T D A K Q F K Q D S K Y S H G,0,test
+I D S E S D I D D S E T D D E E E L E N P I K,0,train
+D Y M K K L V T R L E E N N P S E V E V F K T N I N K,0,train
+G L L G P L L K I A A K V G S K L L,1,train
+S W L R D I W D W K C E V L S D F K,1,train
+E G A K A V A S G M N P M D L K R G I D L A V D A V V K E L K N N A R K,0,test
+G V N H K I G E V H D G A A T M,0,test
+I D G L M E E K F K G T G F L,0,test
+G L G S L L G K A F K F G L K T V G K M M G G A P R E E,1,train
+I W V L E H P P V F T L G L A G D A G N L H S P S N Q I S L,0,test
+C K H F L T E H N Q M L A M K G R D L E E R N L E S L P L N,0,test
+F N K Q D Y D L M V F,0,test
+Y V F Q D A R L F A Y M S V K R N L T Y A R W A G H R,0,train
+A Y A E K S V Q A D L K E R F Q G L D I G D I I G V T G,0,test
+K L P I P K L,0,test
+K W K S F L K T F K S A K K K V L H T A L K A I S S,1,train
+I D L V I N L P N N N T K F V H D N Y V I R,0,test
+S V S N A A T R V C R T G R S R W R D V C R N F M R,1,train
+I N W K K G K E V L K A L,1,test
+W L L K W,1,test
+S L S R Y A K L A N R L A N P K L L E T F L S K W I G,1,test
+N R H H Q R Y D L P A L C Q A H P D L Q G Y I,0,test
+E T I E K A L M K,0,test
+Q L P K V P E M K L P K M P E M A V P E V R L P E V Q L P K V S E M K L,0,test
+E R H E S R R I D N Q L R G R A G R Q G D P G S S,0,test
+T G A G M M D C K K A L N E T S G D L T K A T E W L R Q K G I A S,0,test
+P Q G V I N P A V A D W I,0,test
+T P D L G G K A S T Q Q V V D D V L S R L M I S S E E K V E F L,0,test
+E I L K N L Q N H D V V I D E N M K A L I E E R R I A K,0,test
+F Y L V I F L K F I A S I V P T I E V D S T T S T A L M,0,test
+E A A I R S,0,train
+H S P A K L E Q L I L K L D W M C L D L N Q V L K,0,test
+G I G K F I H A A K K F G K L F I G E I M N S,1,test
+N D K T T V I A L R E I,0,train
+F G I S A R S V T V S T V G L A P A I R K L A D E R L G V T L A L S L,0,test
+A Y G A T L P L N Q L A T I T V P E P R M L V I Q P F D A N T V,0,test
+F F H H I F R A I V H V A K T I H R L V T G,1,train
+Y A Y V N Y H K Y E D G,0,test
+S A D E K A A L Q K A Q S,0,train
+G R D Y R T S L T I V Q K L K K M V D,1,test
+P K D L K E T L Q E K K P,1,test
+P H P G L V A A Q A N P M E Q G H F A S P D Q N S M L S Q L A S,0,test
+A R H F E E E S K D L A G R L Q Y,0,test
+R L R N C L F R S L V S Q E T S F F,0,test
+P K S A V Q R N V,0,test
+N P S I N S H N K P K P N E E G T D G D H Q A E Q G,0,test
+G S L G V E A S E E D R H V A L N R P,0,test
+K A G A E A A L A A S I F H Y G E Y,0,test
+F G P S L R G I L T G G S Q A P D L N K I M T A L G,0,test
+K K S S F A N V A A A T P A I K K P P S G F K,0,test
+I L P W K W P W L P Y R R,1,train
+S L P Q L G T T F E T,0,test
+F S P Q M L Q D I I E A A T A I L,1,test
+V D T N I S E R L M T L,0,test
+G P A R Y V H V A E T G G K L G,0,train
+E E L T A R P V A I E Y,0,test
+S I F V V P V K S S D M L L N E C L K I A K T,0,test
+A R C G E E A H V Q V K M S K L P S D V N L R I E,0,test
+I K V R S D R D R T H V F L N G T P Y E P V A E A L K N V F G I Q A F,0,test
+I R G V V R S A L T E G L E V M,0,test
+K Q L I R F L K R L D R N L W G L A,1,test
+R T I Q V E N S H L I L T G A G A,0,test
+L E K G L D G A K K A V G G L G K L G K D A V E D L E S V G K G A V H D V K D V L D S V L,1,test
+S Q A D V F S D I,0,test
+P L S K A F E G A S S V T,0,test
+G V V T D L L N T A G G L L G N L V G S L S G,1,test
+F L A L I G R V L S G I L,1,test
+E H L K A Q V E A L K E E M D K,0,test
+Q F Q R L G V W M,0,test
+R I L R G V S R R I M R R I L T G R R,1,test
+L M E A G F D V D V A T L S G Y P V K L E L W A M P,0,test
+I L P W K W K F F P W R R,1,train
+G P L P P S I Q T T L P T S V N L T Q L,0,test
+L K W N L A V I Q L F S A E G M D T F I R V L Q K L N S I L T Q P W R L,0,test
+L T R R D V V V V A,0,test
+I S V E D I K N T L G N T D I I K N,0,train
+G K K L L K K L K K L L K K G,1,test
+A I D L N A S G H P E F,0,train
+I N W K K I F E K V K D L V,1,test
+I L P W K L P L L P L R R,1,test
+E E R R G I H Q D A P E F A D Q S T E A E V L V,0,train
+P V V A G L V Y L L F,0,train
+D S H A K R H H G Y K R K F H E K H H S H R G Y,1,test
+G L L R A S S V W G R K Y Y V D L A G C A K A,1,test
+W A R F E V E R A Q W E V E R A,0,test
+R L P K L K G F R N R F R T E Y E I V N V G D I N R L F P Q G G S,0,train
+F T A P T R R Q V L S L Y K E F I K N A N Q F N N Y N F R,0,train
+A Y G H P F A A T G,0,test
+R I M G D K A R P L W D A W A R Y E Y T Y G D L S,0,test
+I I P L P L G Y F A K K T,1,test
+A G D G G M R V E L E R V P L R A A N M T P,0,test
+I L P L K L P L L P W R R,1,test
+S Y N D A L I G D I E V M D D T A I S L A K D N,0,test
+W A V A L G L,0,test
+C G E S C V W I P C I S A V V G C S C K S K V C Y K N G T L P,1,train
+A P F E V V F V S A D G S S Q E M L D,0,train
+D K W S L L L N G R D E E Q Y I M K E A G Q M Q N L,0,test
+G Q T Y A D L K A I N V N A V V N S L M K M L D F F T,0,test
+C K T R T S T N T D H L W I A K S K A R L S E T,1,test
+L F N L M T D G D G,0,test
+I A E D F V I F S T P N F G Y I,0,train
+K L L K L L L K L L K L L L K L L L K L L K,1,train
+H G A P E Q A Y G I I A A S G E N G A T L H Y M K N N E,0,train
+Q E M R A L A L D L G S P A A L R E W G R C R A R C Q E L E R R I Q,0,test
+D V S I L T I D N G V F E V L S T N G D T H L G G E D F D Q R I M,0,test
+L F F Q Y I D G I D T N S E P K L A V L S P,0,test
+L S L A L S Q I Y S D E,0,train
+F L G S I V G A L A S A L P S L I S K I R N,1,train
+F F H H I F R G I V H V A K T I H R L V T G,1,train
+D W G K F R E,0,test
+D G T V K Q L Q L I L A V I K,0,test
+L L L S A D L N R L A D Y L N P D L K K L Q A K G I T S V K S R,0,test
+A S G Q E Y R L R H G D I L A L,0,test
+C G E S C V W I P C I S S A V G C S C K N K V C Y K N G T P,1,train
+A V A Q M I A T L S G C N N T S S A A M V Q,0,test
+S I I T T T K E A K L P Q L W K Q I A C R L Y N T C,1,test
+K L K L K L K L K L K L K L K,1,test
+A S V A K S P Q T K E H L Y H A A,0,train
+K I A E K F S G T R R G,1,test
+R R L M A A K A E S,1,test
+C A E S C V W I P C T V T A L L G C S C S N N V C Y N G I P,1,train
+D D P R F Q I V H G G F G Q L A D Y V A E L,0,test
+K S V F Q P L R D S G,0,test
+L R E L H Q L T N I D Y W F L E K L E R I I L L Q S L L T R,0,test
+G F P E S Y D M H R L V K F V S D L K S G,0,test
+G N C N D S K L E F G S F W E L I G E A A K S V K M,0,test
+V L P K V M A H M K,1,test
+N P V A M A A G L K T L E I I S R P G F Y D E L T R K T R V M,0,train
+S I I S Y M N I D P M K S S F F L I F S L L F S M P,0,train
+L K Q E A D A K L K K E N D D K L K Q E A D A K L K K E K H D K L K Q E,0,test
+S L I R W M K A A I T A T A N Y L P P D I L S N H,0,test
+F E E V F D E N P D V M I R V I Q V I M I R L Q R V L F T A L R,0,test
+G S A Y N L I C Y F T N W A Q Y R P G L G S F K P D D,0,test
+S A N P T G P L H I G H G R G A A,0,test
+P A I C Q R A T A T L G T V G S N T S G T T E I E A A I L L,1,test
+D A L R G A M L S K D P T T G E T H,0,train
+G F F A L I A Q I I S S P L F Q T L,1,train
+K Q Y Q H E E D E D F Y P D S M E Y S,0,train
+E G A G E M F R V S T L D L E N L P R T E H G K I D Y S Q D F,0,test
+D S L V L S L K K I Y S T E T Q T I P S T Q N N N L P P I P,0,test
+I V P E E P T L P F P E K V R C I K K Y Q,0,test
+A M V V G P I G M Y F I T V N S G A S S T V A,0,train
+C V K V R V K V G S G V K V R V K V C,1,test
+L N W G A I K K H I I K,1,test
+E S L E L A I A A M T G M I R D V T I R A D R M K A A A G S G Y S T A T,0,test
+G S T A I S N P G C Y A T S I I L G,0,test
+G L V T G L L K T A G K L L G D L F G S L S G,1,test
+E G R P S E K E T L T S R L I D R P I,0,test
+L K W L L K W L K,1,train
+R K Q L L Q Y D D V L R Q Q R E V I Y K Q R F E V I D,0,test
+S G D S A D V A R D V K Q P T A T P R,0,test
+K K K K K K A L F A L W L A F L A,1,train
+L K A A K I S K G S Q,0,train
+G F K D L L K G A A K A L V K A V L F,1,train
+L H S S T V L K D V V,0,test
+D S D A T H S P M F H Q V E G,0,test
+K G I E V V L M Y D R I D E Y V,0,test
+T I Q T F G D A V K F I S E,0,train
+L T R E V G Y L H R V L S E T,0,test
+W L N A L L K K G L N C A K G V L A,1,test
+R V D I D D R E E T L S K K I R D A E T S,0,test
+T T S A K A C S A M K M S F,0,test
+Q A L S S G A T V E Q A R Q E L V A K I G E N I K L R,0,train
+Y L A D F T T H I L Q I K I P Q R G D S T I L V E M A N T N A,0,test
+D E L E K L T H N A E H L L Q K L G L P,0,test
+I L D K I S D D T H V I A L A I,0,test
+K W K K L L K K L L K L L K K L L K K L K K L L K,1,train
+Q V D P D F R S A L K R A G L L T,0,train
+I L P I L G N L L N G L L,1,test
+G Q E D A D R D G I G D A C D D D A D G D G I L,0,test
+G R W K R W R K K W K K L W K K L S,1,train
+D T D L E R S T P E M V E G I L V G M R W L G L N W D E G P Y Y Q T Q,0,test
+A K V P D D Y P I C S M T L P S G H P K S R L I K K F,0,test
+K V T I D Q G T L S R G S A I V V D P R,0,test
+S S R A L V L D R D G Q V K,0,train
+L V P G G G A S E M A V A H A L T E K S K A M T,0,test
+I S S S I V R D V L R H G G E Y E M L V P,0,test
+K V F K R L E K L F S,1,test
+F T S E S V S E G H P D K I A D Q I S D A V L D A I L E Q,0,train
+G R E P L D L,0,test
+L S N I K L K V E D F L N L S T Q L S G F H I C I D K G,0,test
+K L K E R I D T R N E L E S Y A Y S L K N Q I G D K E K L G G K L S S E,0,test
+V V F S M S F V Q,0,test
+G L K E I F K A G L G S L V K G I A A H V A S,1,train
+N F N G L E G D E K,0,test
+S P K K I L V E,0,test
+A N L I F D D F M E L H,0,test
+G W R K W I K K A T H V G K H I G K A A L D A Y I,1,test
+A P F G F D A,0,test
+K L L L K L W L K L L K,1,train
+K L K L L K L L K L L K L L K,1,test
+R W G K W F K K A T H V G K H V G K A A L T A Y L,1,test
+D Y L R Q Q A D V A I Q Q E,0,train
+W L L E Y A P S R L T G T G A C V F A E F D T E,0,train
+R G G R L C Y C R R R F C V C Y,1,train
+K L L K K L L K W L K,1,train
+D L L L P Y Q R S D F E G I F R A M D G L P V T I R L L D P P,0,test
+I K K R V G T H I R A K R K R E E L S N V L A A M R K A A A,0,test
+G F F A L I A K I I S S P L F K T L L S A V G S A L S S S G E Q E,1,test
+P K R Q L H K Y E H L A D L T E A H A D E M A A L S D K Q L Q,0,test
+D E T A V A I V N N R Q V,0,test
+P L P D Q S S C W Y E V V T H G G S Q P T G,0,test
+K R K R Q Q G I G A V L K V L T T G L P A L I S W I,1,test
+R R L A A L Q A C V E L H R I G E L D D Q,0,test
+L A P T G M F V A T A K Y M V I Q G E P G A V I R G K K G A,0,test
+G I G K F L H S A K K F G K A F V G E I M N S,1,test
+I L G K L L S T A A G L L S N L,1,train
+F I K R R D S L K D H S Y T R H,0,test
+I E A L A A N A G T G F A V A E P Q I A M F C G K L N M H V N,0,test
+Y A T Q L N P A F Y S V E V R I T V,0,train
+K S K P K F Y A L D M F,0,train
+E D Y D L A G F C V G V V E K S E I I D G S K V A T G D A L I A,0,test
+T G E L S V K V N V L R L L T K A L R P L P D K,0,test
+A L Q E Y K P S P F Y Y F D E V D A H L D,0,test
+K I A S I G K E V L K A L,1,test
+A V A V V G Q A T Q I A K K W K L F K K I E K V G Q,1,test
+A E R D R A E Q L,0,test
+T G N K D I I,0,test
+P V D L H I T G L E Q L G,0,train
+F L P I L A S L A A K F G P K L F C L V T K K C,1,train
+A A L A F K I M T D P Y V G K L T F F R V,0,test
+E V Y G P E S S G K T T L T L E L I A A A Q R E G K T C A F I,0,test
+A A K D V R Q G G A P S A L V G E,0,test
+M L I A L Y E H K V F V Q S V I W N I N P F D Q W G V E K G K Q I A,0,test
+A R A A V P S G,0,test
+F M P C N P S,0,test
+L L A G A I R C G E T R L I D H V F L M K R R,0,test
+A I P E L R Q A L F E R Q,0,test
+S I I T M T R E A K L P Q L W K Q I A C R L Y N T C,1,test
+A Q S I P H D S P A H G E G T H C E E E G F A E D D,0,train
+Q G W E A V A A A V A S K I V G L W R N E K T E L L G H E C K F T V K P Y L K R F Q V Y Y K G R M W C P G W T A I R G E A S T R S Q S G V A G K T A K D F V R K A F Q K G L L S Q Q E A N Q W L S S,1,test
+P L P M A H C A N S R L V C K I S G D V M N E N N P P M M L P N,0,test
+I E R A H R I S L L I E R A L,0,test
+A R V R G G E K V V E T D Y A I E D K F E H L,0,test
+Q G L E D S K R S K S L L P D H T S D,0,train
+G S D K D K K K L S K L F E R L G Y Q S T S Y D N L K S,0,test
+I L G P V L S M V G S A L G G L I K K I,1,test
+S A D L V K K I W D N P A L,1,test
+G I I N T L Q K Y Y W R V R G G R W A V L S W L P K E E Q I G K W S T R G R K W W R R K K,1,test
+D R D F A I E F T A A S,0,test
+Y I L L E S N E E G D L Y T T K G,0,test
+A G V P I I V A I N K I D K P G A N P,0,test
+C V H W Q T N P A R T S C I G P,1,test
+V S D V L K A L E A K I V R W N I L D D G I R,0,test
+A L I E A L E K A K A L N K A V H I L G L L S P G G V H S R D N Q,0,test
+L S E R P P N C H V A D L E T S L D,0,test
+K W K K L L K K P L K L L K K L L K,1,train
+S R N V E I E K R I L K L G T Q L A T L K N R G L P L G I A E E K M W,0,test
+G W K D W A K K A G G W L K K K G P G M A K A A L K A A M Q,1,test
+T L L D W V K H L Q K N L N A G V L D S F S V T M,0,test
+V A M S F I L L A G V S A A V Y F L F L C Y M I,0,test
+G L L S V L K G V L K T A G K H I F K N V G G S L L D Q A K C K I S G E C,1,test
+D L V A M C V N D L V V Q G A E P L F F L D Y F A T G K L D P,0,test
+L R E Q A L K A I Q Q V Q,0,test
+Q R I N R E K H L V L T A A H P S P L A A N R G G F F G C K V F S K,0,test
+P P R P V S Q D,0,test
+F W G A L A K G A L K L I V S L F S S F S K K D,1,train
+L F E H L L F S K N L D L S R K R D S Q T T N G L T N K,0,test
+T G S E P T P,0,test
+A K E N V E I Q A E N Q T L A T T T F Q N,0,test
+G F M D T A K N V A K N V A V T L L D N L K C K I T K A C,1,train
+K W K S F I K K L T S K F L H L A K K F,1,train
+N W K K I A S I G K E V L K A L,1,test
+N I W K K I A S I A K E V L K A L,1,test
+L D G G V L V H V Q K W D G K S T T I K K R R D G D K L V V,0,test
+K K I A L I G S G M I G G T L A H I I G L K E L,0,train
+I P I L K D V D A F Q T E,0,train
+M N E H S S R S H S I F L I N V K Q,0,test
+M A Q A I L E L Y P G S K L T I G P P V D D G F,0,test
+P N I L T G A I V G G P,0,test
+A D S P Q Q P N M S T L E Q K L T E M I T A P V E A L G F E L V G,0,test
+K N L R R I I R K I I H I I K K Y G,1,train
+G F K D L L K G A A K A L V K T V K F,1,test
+R G G L N F D A K V R R G S F E P E D,0,test
+I E K Y K A N L Q F K L,0,test
+G G P K S R P I E S I M A L N V K R A,0,test
+F G C P A H D E C D H E L A V K M N L S I K Q V I K A D M D V Q K T,0,test
+T K E V A K I I A N L K E C Y S I I G G G D S I A A,0,test
+K S Q D L T K T I Y S K L T P W Q V S Q V A R H P Q R,0,test
+D G K V L S A P V A K P W P N K P P K C T D C A P,0,test
+V E G A V D V I Y K T L E M T G L K H D E G P D V G G P,0,test
+G T S N S T V N A L G L G L A T M L,0,train
+V L D E M R A H Q E R L G K K K V R F S F M D D N I S F R P K Y F M E L,0,test
+G L P A S I S W I K R K R Q Q,1,test
+G S I L T H D H Y Q G G R H V,0,test
+D A Q G R F I G G L I L P G H G I M L R A L E S G T A G L H V P T G E,0,test
+G I G A V L K V L T T G L K W K L F K K I E K V G Q,1,test
+K E E P K E E P K P L S D T T Y,0,test
+F A G P L G V L Q P L A,0,train
+V R L V D L Q R Q M A E G R G S V V V E,0,test
+L P S V R K L T E D R W N K P Q K T K G H R,0,test
+N F E E A I D F L R K K G L A V A A K K A G R I A S E G L T A,0,test
+F V R W F S K F L G R I L,1,train
+V E R S R K A A Q Q A D,0,test
+Q R S V S N A A T R V C R T G R S R W,1,test
+R V V T R T I V R T D N G S E L G A S M S P T S S V E N E T S I L,0,test
+Q A L D D D P,0,test
+I V I R H L Y I E R R M V P L N,0,test
+P A H W E L L Q R A R A L D N Q,0,test
+P R Q L T H D A G L T V D D I A K R L M D Y G,0,train
+L L D E I A R S L W G K D E E E W M S T H F V D R V V V H A,0,test
+G V K Q M G K E K F H I N I V,0,test
+L L A H F G R P K G A V V P E M S L E A V C Q P,0,test
+R E V L Y R E F D E M E E C A S H L P Y I E Q G M,0,test
+K A K W R C V N Y N N N Q Y A S A S K F G Y L A T S S R N,0,test
+S G K G G V G K S T F S,0,test
+A V Q Q L S L A P G E,0,train
+Y K L V I Y M P N T Q S Q G K I D L L R L L G A E V Y P V P A V,0,test
+T Y R L F L P N T F M N N S G E A V L A I L D W Y K I N L N,0,test
+S N E S I E S L Q,0,test
+L N I P E D V P I E S K I V T R A I R S A Q T Q V E G Q N F E,0,test
+F L K W L F K W A K K,1,train
+F E S I N H V V V F,0,test
+V I L K W L Q E N Y N C E V V V F T A D I G Q E D D M S V I Q K,0,test
+I N W K K M A A T A L K M I,1,test
+E K R M H E L A E K N Y D V I,0,test
+V I T N M K F P G Y M L I V,0,test
+I N E A R S Q G K K I F P K E E D V F T A F S L T P F N N V T V V I,0,test
+V Q R C A S S V A I L Q Q Y F S N T I S R L L L P V,0,test
+D Y G N H P L P R L Q D Y Q Q Q G A Q V L H L V D L T,0,train
+G E G A H V K I V A N L P Y Y I T T P I L M Q L L R A K I S W,0,test
+H A P P G E F N E V F N D V R L L L N N,0,test
+F W G A L A K G A L K L I G V G S L F S S F S K K D,1,train
+I I S T I G D L V K W I I D T V N K F T K K,1,test
+T A R S T K T G T A Y T F F T P,0,train
+E G K R I L I E G G Q A T M L D I D F G T Y P F V T S S N,0,test
+D L T L P T N F R D L S K P I G A L N P K R A A F F A E,0,test
+N S S G I N N N N S N N N S V N S N N Y N N M N N N T M N N S V,0,test
+V V H D G F E G,0,test
+K R A K K F F K K P K,1,train
+H S F P L H P S,0,test
+G W W L C M N L E T S A Q G W A P E A Y L E P I V A K T,0,test
+K W F K K I P K F L H L L K K F,1,train
+S F I S G A D V C F V K W Y P S E Q Y,0,train
+V S W K K S L G K I I K V V K,1,train
+R R W P W W P W K W P L I,1,train
+V K I K G E E F P L T L G R D V S G V V M E C G L D V K Y F K P G,0,test
+L C Y C R R R F C V C,1,train
+N P C P I L M F S S L T H E G A T A,0,train
+S Y D V C V S K D F L S K G D R V L F,0,test
+F D W D S V L K G V E G F V R G Y F,1,test
+Y D L V K T M R A S I W A L G P L V A R F G Q G Q V S L P G G,0,test
+G P Q H T V V L K D Q D G N,0,test
+L C M D V A S S E L F Q D G K Y V L A G E G N K V L S T E Q L I D L,0,test
+R T L L L A G A D K V,0,test
+K S G Y G L E L A T E E,0,test
+I L P W K W P W W P A R R,1,test
+L P E P F D P H R P Y V D Q V E L A C A C G G T M R R V P Y V,0,test
+H V P E L K R M G A K A E I E G N T V I C G D V E R L S A A Q,0,test
+M S V V I L A A G K G T R M Y S D I P K V L H T L A G K P M V Q H V,0,test
+N E K G V N P Q S I L,0,train
+V P S S G Q N R L A S M I A,0,test
+P E D D R T L D D D E L A E Y D L D K Y D E,0,test
+Y V E M S A K E H E F A C E,0,train
+K W K S F L K T F K S L K K T V L H T L L K L I S S,1,train
+I S V Y R D K L V K C G G I S L,0,test
+A I K Q G A A R A L C E L S P D N R,0,train
+Q Q Y E A K T G I K E T F Y V C K P,0,test
+A K F M A I A A D H P L A Q A A A A K D P K V A A F,0,test
+Q G V L A N A A T R F A V G D T L K V,0,test
+D P K C R V T A L R L P G G A S M P R S K I D,0,test
+F K C R R W Q W R M K K L G A P S I T C V R R A F,1,test
+D L S N L S V Y N L N E N L F K Y D F L T R L Y L N G N N L T H L P A,0,test
+P E G E D D S E N V E V R R,0,test
+E S V V H R V F G R Q S L Y Q R G L G V,0,test
+V V E R L G D Y L L D Q G M M K Y K R I V F K V G T,0,test
+G L K K I F K A G L G S L V K G I K A H V A S,1,test
+R E A G R R G S P A F L H S P S C P A I I S C S E K T L A M K P L S E,0,test
+M F V S L F P I H L V G Q L V S L L H M S L L Y S L Y C F E Y R W F N,0,test
+A V F L M V K H P H V Q G R,0,test
+K I V V E A F D D P D V K N V T C Y V S R A K T G G I,0,train
+I T E P D I L A S L D E L I G R W A K E R E A G,0,train
+T Q T V Y E W C D D A T Q L L A A Y I L L,1,test
+K A S R V P E A G E D,0,test
+L K L A S I V S W A K K V L,1,train
+R I I K C G Y R D G D N A P M A I V,0,train
+C K K I G A V L K V L T T G L P A L I S W I K R K R Q Q K K C,1,test
+I W R I F R,1,test
+A S S I S Q K A A V A A L G L G Y A G,0,train
+C I G A V L K V L T T G L P A L I S W I K R K R Q Q,1,test
+M A G Q A L P G R V G S G V F G A D M D V S L V,0,test
+K W K S F L K T F K S P A R T V L Y T A L K P I S S,1,test
+R I A E A P N L K L C V T A G V G S D H V D L E A A N E R K I T,0,test
+E G S A G R I C G A Q P V P F V P Q V L G V M I G A G V A,0,test
+G L L S G V L G V G K K V L C G L S G L C,1,test
+L L G M I P V A I S A I S A L S K L,1,test
+K W K L F K K I P K F L H L A K K F,1,test
+V I A D D P A T T R D I P S F C Q F M E H T L L K S E I E H I,0,test
+G G E V F A E,0,test
+Y R I F S D E N D K M N L N V Q Q A G G S V L V V S Q F T L V A D,0,test
+L K L L S I V S W A K K V L,1,test
+N A P I K P V T A N G G M P M P S W F D I K V W D W,0,test
+D L I V S S P P T I P,0,test
+E L E A G G S E P Q D Y L H P S S A Q D T P E L H E I H S Q N N K,0,test
+F L S I I A K V L G S L F,1,test
+Q F E S S E N A D D D D,0,test
+Q Y R D R I Q A,0,test
+P T R G Q I D D L L G E I,0,test
+R R G W R L V L A L V Y,1,test
+V T V L L K A L G W T T E Q,0,train
+V G N W V L H E L G G L L T K S S L P W,0,test
+R G G T V G R G G G P T H L A L L S Q P P D T I N G S L R V,0,test
+D R W I L H N L N E T I A K V T E N F D K F E F G V A G H I L Y N F,0,test
+A G M S Q S L A G L F L E A H P D P D N A K C D G P C,0,test
+D I C V K N C G Y P F H F Q I A S E E F,0,test
+D V A S T T F E S D K,0,test
+A I M R E T N A P V V F D A T H S V Q L P G G Q G T S S G G Q R E F,0,test
+G L G K K E N G I L H P I P N Q G Q S N K K G F G N F L T A A I D I L,0,test
+T S N E E D F Y E I V K G L D S R I N,0,test
+P Q P A F G A,0,test
+M S G I V E A I S N A V K S G L D H D W V N M G T S I A D V V A K G A D F I A G F F S,1,test
+A N Q S M A I D P S T W E I P T L F Q W L Q T M G D V P Q A A M W D,0,test
+I L A W K W A W W A W R R,1,test
+R S A G S N I D L G V P F Y P L V A I,0,train
+Y T E A R Q L R,0,test
+R V L T P G T H G S T F G G N P L A I A I S T A A L D V L K D,0,test
+V N W G E I D F L I I D T P P G T S D E H,0,test
+R M L N T G K G P A V R A L R A Q A D K F S Y,0,test
+Y I T G Y Q R N L P V W I G L H D P Q K K Q L,0,test
+S L P R P A K S S,0,test
+P G R D Y I D Q W N K V I E Q L G T P C P E F M K K L Q P T V R T Y V E,0,test
+L K A K S I V S W A K K V L,1,train
+K W K L F K K I E K V G Q N I R D G I I K A G P G I G A V L K V L T T G L,1,test
+E K I F Q N P T D E E S T,0,train
+L F S E A S E G W K F A K N L D K S D N N K S S A L T A S G N T D E L S,0,test
+T V K S L E E A L R T A S P D G,0,test
+D S H A K R H H G Y K I K F H E K H H S L R G Y,1,test
+P A I C Q R A T A T L G T V G S N T S G T T E I A A C I L L,1,test
+E I A L A G S N P L S T Q D D V A A G L A K N G,0,test
+Y N R R A E R L R E L A E N N P L G D Y L R F A A L I A H,0,test
+L L G M I P L A I S A I S S L S K L,1,test
+K V A K Q E K K K K K T G R A K R R,1,train
+F L P K M S T K L R V P Y R R G T K D Y H,1,train
+Y L G R S A K P V,0,test
+K L F K R H L K W K I I,1,test
+G A S L S F K I L K T V L E A L G N V,1,train
+Y L P L A T L T L,0,test
+T V D N F L Q N L F S N F P S L H S L W K,0,test
+E G D L L H I V N A C R L K R S R Q L G F I A D L L E N S M V T F,0,test
+H F L K T L V N L A K K I L,1,test
+K V R S F S S D N A,0,test
+W L K K L L K K L L K,1,test
+G T V W A Q S A D F P Q F K P E E I T G I,0,test
+G R S R W R D V C R N F M R R,1,test
+P T A K G Q A L A D,0,test
+S K G A A V F F N V D H A D A K I E V Y T T R P D,0,test
+N N E Q I R R F S Q V L L D A G I V T T I R K T R G D D I D A,0,test
+Q R Q F G D P E A A N L W F N C Q G E F F,0,test
+R L V L A L A A H F K P G S S R T,0,test
+S K W V G D A E K I V R A L,0,train
+N K I I G L V P T M G N L H D G H I K L I L L A K K N V D I V I V S I,0,test
+G S L P L C M L L E R T G A S E,0,test
+D G S Q D S P I F M Y A P E F K F M,0,train
+Q M E D L S Y T L E L R K A,0,test
+I I C G L R V G L F L V P,0,test
+D G D E N Y Y F E E E E I D Y E Y D K R V P D W A K N H N L D N S,0,test
+A N A I E F D V D F D D D G V A K Y,0,train
+G N E A I G A L I Q N Y I R E I E E L R T K L L E S E,0,test
+R G L R R L G R K I A H G V K K Y G A T V L R I I R I A,1,train
+Q K W N R V H N L T A V R E P E A M L A L H V L D S,0,test
+P V T L F T K G G G Q W L E A M A E T G C D A L G L D W T T D I,0,test
+R D N M V Y E T D S R V Q R P L N F A V,0,test
+T R S S S V H S A S L P A L T K T D,0,test
+H G M E L T R T L G N L P G N V C T P T Y L G D,0,test
+T Q V N V K A T A G K C I L I S G H D L K D L Y N L L E Q T E G T G V N,0,test
+G W G S F F K K A A H V A K H V G K A A L T H Y L,1,train
+F S D E P K L M L T D V N R C Q F A H S N K D F K H D A H P,0,test
+W C Y C R R R F C V C V G R,1,train
+S E L A Q L Q S E I I E A I W P K L K H G,0,test
+F L P L I G R V L S A I L,1,train
+H T T M V S E E I I M Q F L N S,0,test
+S L V R E S P K V L V S C F K S K T G R G L K P T S T G P G P G Y Y N P,0,test
+I L P W K K P K L P W R R,1,test
+D E V S R A K N Q L K S S L L M,0,test
+R R G W V L D L V L Y Y G R R,1,test
+P N T S L F E G Q,0,test
+P S R V S K G H F Y A L P Q S P Q I T K Q L L M N A G,0,test
+S T V L T S K Y R,1,test
+S L F S L I K A G A K F L G K N L L K Q G A C Y A A C K A S K Q C,1,test
+L V E D P Y T E K E S R M H V I R M R E L V G A A G,0,test
+L K W L L K W L L,1,train
+I E V A K Q H L A S M S N K A,0,test
+I N W L K L G K A I I D A L,1,test
+N T V L Q P S T T A A,0,test
+G N F T D K D P C A I C S N P N R N K S I I C,0,train
+F F H H I F R G I V H V G K T I H K L V T G,1,train
+E D Y D V R N E E K L P C H T S D K L Q K,0,test
+A A E Q A V A R E R S S A R E R A A P A Y K E D H P Y,0,train
+A H L V Y D V R R D D A P L R K V A G I P G E F D K L R K N Y L,0,test
+T Y D N I K A M K K Q L R S I G L S L D W S R,0,train
+A L W K T L L K K V,1,test
+G L L G P L L K I A K K V G S N L L,1,test
+F L P I L G K L L S G I L,1,train
+I E D L R S K M L A A S E E M A F E R A A,0,test
+E K I Q R N F G M P R P E G Y,0,test
+N L W A G I L K H I I K,1,test
+L M A A K A E S R K,1,test
+R L Q S I A E V S Y E F I A S T L Q,0,train
+Y T Y R G L S E S P V E N K S I G D T L R K P P Q K E,0,test
+C D Q L G L T L L N F H P G S H L Q Q V S E E A C L A T,0,train
+M E D A L V M L K I V,0,test
+K W K L F K K I E K V G Q N I R D G I I K A G P A V A V V G Q A T Q I A K,1,test
+N N N N N N N N D N D N N N N,0,test
+G I G A V L I V L T T G L P A L I S W I K R K R Q Q,1,train
+F V Q W F S K F L L R I L,1,train
+K V K W Q Q V R Q E L A E E Y E Q V K S I V,0,test
+G G F N I G R K N M E F I I K N N D N Y E S L I N S A T Q L L Q T,0,test
+A D T T P I I N A V S G V S G A G R K A A I G T S F C E V S,0,test
+Q L M V T S H Q H L L E P E E G T W L N I,0,train
+I L P F K F P F F P F R R,1,test
+C I G A V L K V L T T G L P A L I S W I K R K R Q Q C,1,test
+R Q K V V S K D P V D R D V F G I A Q H Q D D A C,0,test
+A A A A A A A A A A G I G K F L H S A K K F G K A F V G E I M N S,1,test
+M G E L H L D I K,0,test
+N D F M V V D A V T Q N V,0,test
+T K I I E N L Y F A G Q I N G T S G Y E E A A A Q G L M,0,test
+E D F Q Y L L D W M S E A Q L D R V G C F Q Y S P V E G A P A N T L,0,test
+L P A Y T H L Q R A Q P V L A P H Y W L A Y I E K L E R D R Q R I,0,test
+F L P L I G A V L S G I L,1,train
+S R L K A T Q S Q V F,0,train
+E L D E E L D M L A Q E N A N Q E T S K I V N,0,test
+K I L R G V S K K I M R T F L R R I L T G K K,1,test
+L A H D L G I Q T F D I S G R G G T,0,test
+S L W E T I K N A G K G F I L N I L D K I R C K V A G G C K T,1,test
+H L I D N K K T D N T A D E I Q T T P E L S E W E L A Q D E F N A W F K,0,test
+F S G G N C R G F R R R C F C T K,1,test
+F G L I D T A E K S A Q V L V K V Y S M G G M K Q T,0,test
+P S L S D I E R T I L L L K E V G A L A V S G Q R E D E N P H,0,test
+V E K V R A T I V R R A A D Q K E V K K G P I N S L V P D P A T V,0,test
+K K L R L P A S M I I D,0,test
+A S G K R A A M L R D G L H V V I V G A P N A G K,0,test
+R G G R L C Y C R R R F C V C F,1,train
+V K E L S V I V K A D V Q G S V E A I K A S L E K L S T D D V,0,test
+T A F A S A A D L K T Y L H H I E E A K K R D H R K L G,0,test
+L L S C V L S D Q Y C P,0,train
+L K P E M L A V R R L T R Y T F L K,0,test
+F A L L G D F F R K S K E K I G K E F K R I V Q R I K D F F R K L V P R T E S,1,test
+G K T E T K P N Q S V V W T K E E,0,test
+G D G R L Q Q E F D Q L K M S L A A E G L F A Q T A K,0,test
+P K T I D N Y V K A I K D A K T I L W N G P M G V F E M D K,0,test
+F F L G T I N L S L C E E,0,train
+V F T W V F N K S V Q D D L L R M,0,test
+E N R S H V I F V L W G N A A R K K C D L L F H S S H K H A,0,test
+E E S E L A Q T L R L Q R Q G E E D F L A F S R A,0,test
+I N W L K L G K K L L S A L,1,test
+A M A R A V R,0,test
+N N K F N H F I M T K L A E A G I P T Q M E R L L S D,0,train
+V T R V Y Q S L S K P Y I S L A E,0,test
+T S P E E T T T T M T T T T C,0,test
+T K L L N T G V S P C L P L R G T I T A S G D L V P L,0,test
+A L W M T L L K K V L K A A A K A A L K A V L V G A N A,1,train
+E G P E I E D D W H N F E A L N F,0,test
+G K G A L K K F L A K K V A K T V A K Q A A K Q G A K Y V V N K Q M E,1,test
+K N V Y T E I K C N S L L P L D D I V R V V T H D D C I P,0,test
+A R R L L M S K V T F K V T L T S D P R L P Y K V L S V P E S T P F,0,test
+T Y K Q I P I S D H W S Q N L S Q,0,test
+W A L R L Y L V Y,1,test
+V D S A K I G A K T L S N,0,train
+E W R S I L A,0,test
+L D T Q M F G L Q K E V D F A V Q L,0,train
+R D M N N K D A R Q K I K E E V N T,0,test
+F C Y C R R R F C V C V G R,1,train
+Q Q N P A G E L E G F Q A Q G H P P,0,test
+K T Y D K R E S I A K K D Q E R N L,0,train
+G L A A N F L P K I F C K I T R K C,1,test
+A A A G V P T A A L A R R N S D V F Q R M Q E A L N I S F D R F I,0,test
+S N W L K L G K K M M S A L,1,test
+I N W L K L G K K V S A I L,1,test
+S R L N V P I V C T V I G E G G S G G A L A I G V G D K V N,0,test
+I R L R T T M I V G,0,test
+T E S P V L T S S C R E L L S R V F L A L V E E V E D R G T V V A,0,test
+I L P I L G N L L N S L L,1,test
+V G N H I I M G T L P T I P N T L P T S K P T M Q L,0,test
+L L Y L F L A I L L A I E E P V I S G,0,train
+R A T L H I D E I I D M V T R L L D R G H A Y V A A D G D V L F,0,test
+H I A N L C K V V A P A P S K S R P E,0,test
+F L P I L A G L A A N I L P K V F C S I T K K C,1,train
+G K T V G E H V G L M F Y T L G Q R K G L G,0,test
+L H V E R G M S A H T L D A Y R R,0,test
+Y Q D M R G G I G N M M K Q A,0,test
+R A D L A P G S K G L L L E D N P S I R A I S L G H G H I L,0,test
+H N K Q E G R D H D K S K G H F H R V V I H H K G G K A H,1,test
+R R W P L K P W K K P L I,1,train
+I N W L K L G K K I L G A L,1,test
+R T N I E S S I D F S E,0,train
+E A H A R E A R Y R A F A Q T L L P G E V L A T A Q H L D D Q C E,0,test
+G S T P L T Y M P,0,test
+F C Q K F G K D A R P V E G L P N L S C M E I,0,test
+G L P V C G E T C V G G T C N T P G C T C S W P V C T K N,1,test
+C W K W K W K W G S G W K W K W K W C,1,test
+Y K Q C H K K G G H C F P K E K I C L P P S S D F G K M D C R W R W K C C K K G S G,1,test
+A L W F T M L K K L G T M A L H A G K A A L G A A A N T I S Q G T Q,1,test
+L W E T P T L L W E A P R L G L D T,0,test
+R S T L E E I V T T I D Q L E Q G L E D V S,0,test
