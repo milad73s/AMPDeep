@@ -1,0 +1,620 @@
+text,labels
+A L W K N M L K G I A M D,1
+F V P W F S K F L G R I L A M D,1
+I K K I V S K I K K L L K A M D,1
+V R R F P W Y W P F L R R A M D,1
+I N L K A I A A L A K K L L A M D,0
+G L G S L L G K A F K I G L K T V G K M M G G A P R E Q,0
+K W K W K W K W A M D,0
+K S R Q W Q W K I R R T W P I F S I R R,0
+A C T R R W Q W R A M D,1
+L R F L K K I L K H L F A M D,1
+G L L K R I K V L L A M D,1
+S M L S V L K N L G K V G L G F V A,0
+G L W S K I K E A A K A A G K A A L N A V T G L V N Q G D Q P S,1
+I L P I R S L I K K L L A M D,1
+G F K R I V Q R I K D F L R N L V A M D,1
+G L K A L K K V F K G I H K A I K L I N K H V Q,1
+G,1
+T I A M R A I N N Y R W R S K N Q N T F L R,1
+K,0
+A C T A L K S L L K T L S A A K K K K L A T L L K A L S K A M D,1
+F L G M L L H G V G H A I H G L I H G K Q N V E,0
+I K K I W S K I K K L W K,1
+K W A S L W N W F N I T N W L W Y I K A M D,1
+W L N A L L H H G L N C A K G V L A A M D,0
+G K W M S L L K H I L K A M D,1
+A K K V F K R L G I G A V L K V L T T G,0
+A L W D T L L K K V L K A A A K A A L D A V L V G A N A,1
+H F L G T L K N L A K K I L A M D,1
+V A L T G L T V A E Y F R,0
+A Y R I P A I A G E R R Y G T I Y Q G R L W A F A M D,1
+G S K R W R K F E K K V K K A L E D A K E K L Q E E R V Q K I V E H T K E A L P V I K A V A T V V G V V G R R,1
+K K W L K K W L K A M D,0
+K N W G K I L K H I I K A M D,1
+W K S Y V R R W A M D,0
+K K L F K K I L K Y L A G P A G I G K F L H S A K K D E L,0
+K K K K A A F A K A W A K A F A A A M D,0
+F L W A L F K V A S K,1
+A C T R K K A F W A M D,0
+L K A K S I V S W A K K V L A M D,0
+I L P W E W P W W P W E E A M D,1
+G L K R I F K S G L G K L V K G I S A H V A S,0
+F P V T W K W W K W W K G A M D,1
+W K S Y V R R W R S R Y A M D,0
+G I G S A I L S A G K S I I K G L A K G L A E H F A M D,1
+G V V D I L K G A A K D I A G H L L S K V M N K L A M D,1
+A C T K W K S F L K T F K S A V K T V L H T A L K A I S S A M D,1
+I A K I A G K I A K I A G K I A A M D,1
+R L W R R W R R W L R A M D,0
+A C T K W K S F L K T F K S A K K T A L H T A L K A I S S A M D,0
+K L K K L L K K W L K L L K K L L K A M D,1
+F L P F V G N L L K G L L A M D,1
+R G L R R L G R K I A H G V K K Y G P T V L R I I R I A A M D,0
+K L L K V I K K L L A M D,1
+F S E A I K K I I D F L G E G L F D I I K K I A E S F,0
+R F R R L R K K F R K R L K K I A M D,1
+K K L F K K I L K Y L A M D,0
+G M L K R I K T L L A M D,1
+G L L K K I K T L L A M D,1
+R F R R L R K K T R K R L K K I A M D,0
+R W R W W W R W R A M D,0
+G I G A V L K V L A L I S W I K R K R A M D,1
+T R S S R A G L Q W A V G R V H R L L R K,0
+W G R A F R R G V R R L A R G G R R A M D,0
+K F W K L L K K A L R L W A K V L A M D,1
+V R R R R R P R,1
+I K K I L S K I K K L L K A M D,1
+A P K V N V N A L K K G G R V I K K G L G V I G A A G T A H E V Y N H V R N R N Q G,0
+Y K A W R W A W R W K,1
+G F G S L F K F L A K K V A K T V A K Q A A K Q G A K Y V A N K H M E A M D,1
+A C T F K L K L K F S N K L K W K W A M D,0
+L L K W L K K L A M D,0
+F L Q K I I G A L G K L F A M D,1
+L L I I L R R R I R K Q A H A H S K A M D,1
+S I L G K L W K G V K S I F A M D,0
+W L L K R W K K L L A M D,0
+A A R R A A R R A A R R A M D,1
+F R R F F K W F R R F F K F F A M D,1
+F L G A L F K V A S K V L,0
+G W G S F F K K A A H V G K H V G K A A L T H Y L,0
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+R G R G K Q G G K V R A K A K T R S S,0
+A C T F K R I V Q R I K D F L R G I G K F L H S A K K F A M D,1
+I L K K W P W W P W R R K A M D,0
+G S P A L I S W I K R K R Q Q A M D,0
+K I W F Q N K K M K W K K A M D,1
+H F L G T L V N L K K K I L A M D,1
+G L P L L I S W I K R K R Q Q A M D,0
+G F G S F L G S L F K T G L K I I P K L L P S I Q Q,1
+F L S S I G K I L G N L L A M D,1
+K F L K K A K K F G K A F V K I L A M D,0
+K K L F K K I L K Y L A G P A G I G K F L H S A K,0
+I N W K K I K S I I K A A M N A M D,0
+A C T R R K K W F W A M D,0
+A V A V V G Q A A T V V K A M D,1
+G W F D V V K H I A S A V,0
+L L Q W L S K L L G R W L A M D,1
+L P W K W P W W P W R R A M D,1
+F L K L L K K L L A M D,0
+K K L F K K I L K Y L A M D,0
+G V V D I L K G A A K D I A G H L A S A V M N K L A M D,0
+A A R I I L R W R F R A M D,0
+E N F F K E I E R A G Q R I R D A I I S A A P A V E T L A Q A Q K I I K G G D,1
+A N R L L E A Y K M L L K F L G N L R A M D,1
+A C T R G G R L C Y C R R R F C V C V G R A M D,1
+K W P W W P W R R A M D,1
+K V K V K V K V P P T K V K V K V K A M D,1
+F L R F I G S V I H G I G H L V H H I G V A L A M D,1
+F V K L K K I A N I I N S I F K K A M D,1
+A V D L A K I A N K V L S S L F A M D,1
+G L G S L L G K A F K F G L K T V G K M M G G A P R E E,1
+K W F K K I P K F L H L A K K F A M D,0
+G M A S K A G S I V G K I A K I A L G A L A M D,1
+A C T R K W L F W A M D,0
+I L P W R W P W W P W R R A M D,1
+K W K L W K K I E K W G Q G I G A V L K W L T T W L A M D,1
+K K L F K K I L K Y L A V A V V G Q A T Q I A K K D E L,0
+A L G K F W E K I K S L F A M D,1
+M K L V K T W L K V L K A M D,1
+K L L K Q W P I G K L L K K L L K K L L K,0
+R K W V A W R N R,0
+R Q I K I W F Q N R R M K W K K A M D,0
+K W K L F K K I P F L H L A K K F A M D,0
+K R R W P W W P W R L I A M D,0
+A C T R R K K W F W A M D,0
+S A V W R H W R R F W L R K H R K H,1
+A A R I I L R P R F R A M D,0
+F K I K A S K V L D K F G K I V G K V L K Q L K K V S A V A K V,1
+A L W F T M L K K L G T M A L H A G K A A L G A A A N T I S Q G T Q,1
+I I P L P L G Y F A K K K K K K D P V P L D Q,1
+F L K A L F K V A L K V L,1
+S L W S S I K D M A A A A G R A A L N A V N G I L N P A M D,0
+V K R F K K F F R K F K K S V A M D,0
+A C T K Y Y G N G V S C N K K G C S V D W G K A I G I I G N N S A A N L A T G G A A G W S K A M D,0
+R L R R I W W I R V R R A M D,0
+K V L K A A A A M D,1
+G N N R P V Y I P Q P R P P H P R L A M D,0
+F L G A L F K A L S K L L,0
+K L W K I V V I K V W K A M D,0
+K W K K W W K W I A M D,0
+W R W L R R I W A M D,1
+R A G L Q F P V G R V H R L L R K,0
+Y K L L K K L L K K L K K L L K K L A M D,1
+R W K R I V V I R K R R A M D,0
+F L K L L K K L L A M D,0
+A A R I I L R F R F R A M D,0
+A L P L I G R V L S G I L A M D,1
+W K K I W S K I K K L L K A M D,1
+A I Q R C C,0
+W F K K I P K F L H L A K K F A M D,0
+A C T R G L R R L G R K I A H G V K K Y G P T V L R I I R I A G G G G G S H V D K K V A D K V L L L K Q L R I M R L L T R L A M D,1
+V R R F P Y W Y P F L R R A M D,1
+R W K I A K K I E K V G R N V R D G I I K A A M D,0
+K K L F K K I L K Y L A G P A K K L F K K I L K Y L A G P A K K L F K K I L K Y L,1
+I R I R I R P I R I R I R P,0
+R R F H F H F P G F H F H F R R A M D,1
+K W K W K W A M D,0
+K K L F K K I L K Y L A M D,0
+A C T K W K E F L K T F K E A K K E V L H T A L K A I S S A M D,0
+G F G M A L R L L R R V L A M D,1
+A C T A E R V G A G A P V Y L A M D,0
+I H H I H H H I H H I H H H A M D,0
+I L K W K W K W W P W R R A M D,1
+W G R A F S A G V H R L A R G G R G A M D,0
+I K L S K E T K K N L K K V L K G A I K G A I A V A K M V A M D,1
+A S E E L L L R F Q A T S S G P I L R E E F E,0
+G I G A V L I V L T T G L P A L I S W I K R K R Q Q A M D,1
+F W G A L A K G A L K L I G S L F S S F S K K D,1
+R L G N F F R K A K K K I G R G L K K I G Q K I K D F L G N L V P R T E S,1
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+V R R F A W W W A F L R R,1
+R F R R L R D K T R D R L K K I A M D,0
+S W L S K T A K K L E N S A K K R I S E G I A I A I Q G G P R,0
+W K W P W W P W R R A M D,1
+A L W K T L L K K V L K A A A K A A L K A V L V G A N A,1
+A C T K W R R W V R W I A M D,0
+G W G S F F K K A A H V G K H V A K A A L T H Y L,0
+A G Y L L G K I N L K A L A A L A K K I L,1
+R W R R I V V I R V R R A M D,0
+R I W F Q N R R M R W R R A M D,1
+F F H H I F R G I V H V G K T I H K L V T G A M D,1
+G I G K A L H S A K K F G K A F V G E I M N S,1
+R R I R P R P P R L P R P R P R P L P F P R P G P R P I P R P L P F P,0
+A C T P K R K S A T K G D E P A A M D,0
+I A K I A G K I A K I A G K I A K I A G K I A K A M D,1
+G R W R W W W R W R A A M D,0
+Y R M W R W R W R W R A M D,1
+G I L S S L L K K L K K I I A K A M D,1
+P R C R R R F C R P A M D,0
+G I G K F L K K A K K F G K A F V K M K K A M D,1
+G L L K R I K W L L A M D,1
+L N W G A A L K H A A K A M D,1
+K W K L F K K I P K F L H L A K K F A M D,0
+I L P K K W P K L P W R R A M D,0
+G F K R I V Q R I K D F L A N L V A M D,1
+L L W I A L R K K A M D,0
+G V A D I L K G A A K D I A G H L A S K V M N K L A M D,0
+K R W W K W I R W A M D,0
+G I G A V V K V L T T G V P A V I S W I K R K R Q Q A M D,0
+I L G A A W N G A K S L F A M D,0
+A C T R R W W C M A M D,0
+G I M S S L M K K L A A I I A K A M D,1
+R I W K I W W K R A M D,0
+C W S C M G H S C W S C M G H S C W S C A G H S C W S C M G H S C W S C M G H S C W S C A G H C C G S C W H G G M,0
+G I W K K W I K K W L K V L K N L F A M D,1
+G L W S K I K E V G K E A A K A A A K A A G K A A L G A V S E A V A M D,1
+I L G K L L K T A A G L L S N L A M D,1
+G L L K W I K K L L A M D,1
+F K R I V Q R I K D F L R,0
+A C T F R K K W F W A M D,0
+K R R K L I K I L K L I A K L I R K K R A M D,1
+K K L F K K I L R Y L A M D,0
+F L G A L F K A V S K L L,0
+G L L R A S S K W G R K Y Y V D L A G C A K A,1
+M A S R A A R L A A R L A R L A L R A L,0
+W L G A L F K V A S K,0
+F F H H I F R P I V H V G K T I H R L V T G A M D,1
+K W K L F K K I S K F L H L A K K F A M D,1
+K N L R R I I R K G I H I I K K Y F,1
+W K K I L S K I K K L L K,1
+G F M K Y I G P L I P H A V K A I S K L I A M D,1
+A C T F K K L K K L F S K L W N W K A M D,0
+R N C T W L F S T K L K L P A,0
+Y Y H F W H R G V T K R S L S P H R P R,0
+G V I K A A K K V V N V L K N L F A M D,0
+A C T K R K K W F W A M D,0
+A C T R R W W C F A M D,0
+S L G N F F R K A R K K I G E E F K R I V Q R I K D F L Q H L I P R T E A,1
+L K L L K W L L K L L A M D,1
+L K I P G F V R D T L K K V A K E I F S A V T G A V T Q S,1
+A C T R R W W C S A M D,0
+L L L F L L K K R K K R K Y,1
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+R F R R L R K K I R K R L K K I A M D,1
+A C T R G L R R L G R K I A H G V K K Y G P T V L R I I R I A G G G G G S C A M D,1
+W L L K W A M D,0
+K R K I F A L,0
+W K S Y V R R W R A M D,0
+K R L F K K L L F S L R K Y,1
+F L G F L H H L F A M D,1
+G L S L L L S L K L K L L A M D,1
+S I G S A L K K A L P V A K K I G K I A L P I A K A A L P,1
+R L W R R W R R W R R A M D,0
+A C T K L K S L L K T L S K A K K K L L K T A L K A L S K A M D,1
+I G L R G L G R K I A L I H K K Y G,0
+S K V G R H G R R F G H R A H R K L,1
+P R P R C R R R F C R P R P A M D,0
+K W K L F K K I G A V L K V L A M D,1
+D I G K Y C G Y A H A L N A M D,0
+K I A K K I A K I A K K I A A M D,0
+G F F G K R K E Y F K K F G A S F K R R F A N L K K R L A M D,1
+G L N A F K K V F Q G I H E A I K L I N N H V Q,1
+A K V T M T C S A S,0
+A C T K W K S F A K T F K S A K K T V A H T A L K A I S S A M D,0
+W R S L G R T L L R L S H A L K P L A R R S G W A M D,1
+G V W D W L K K T A K N V W N S D I V K Q L K G K A I N A A K N Y V A E K I G A T P S A M D,1
+F L G A L F K V A W K,1
+A L G A L F K V A S K V L,0
+A C T Q R K K W F W A M D,0
+K W K K F K K I G A V L K V L,1
+K W F K I Q L Q I K K W K N K K A M D,1
+R N F F K R I R R A G K R I R K A I I S A A P A V E T L A Q A Q K I I K G G D,0
+H F L G T L V K L A K K I L A M D,1
+G A L S A L K A L G K L L A M D,1
+F R F K R F R K K G K K L F K K V S P P I L L L H L A M D,0
+I A K I A G K I A K I A G K I A K I A G K I A A M D,1
+K R F K K F F R K L K K S V K K R A K E F F K K P R V I G V S I P F,1
+I R I R I R P I R I R I R P,0
+S L R G C C,0
+G L K E I F K A G L G S L V K G I A A H V A N A M D,1
+A W L D K L K S L G K V V G K V A L G V A Q N Y L N P Q Q,1
+G W K K W L R K G A K H L G Q A A I K A M D,1
+K W K L F K K I P L K K F A M D,0
+G L L S L L S A L G K L L A M D,1
+G R W R W W W R W R A M D,0
+R R W Q W R M K K A M D,0
+K W K K L L K K P L K L L K K L L A M D,0
+K V F K R L E K L F S K I,0
+G L F G K L Q K K F G R K A I S Y A V K K A R G K H,1
+R W G K W F K K A T H V G K H V G K A A L T A Y L A M D,1
+L W G V W R R V I D W L R A M D,1
+K R K I F A L,0
+G M A S L L A K V L P H V V K L I K,1
+K W K K F K K I G A V L K K L,0
+F L F K L I P K A I K K L I S K F K,1
+G I W D T I K S M G K V F A G K I K Q N L A M D,1
+L K L K S I V S W A K K V L A M D,0
+V F R L K K W M Q K V I D R F G G,0
+G I G K F L H S A K K F G K A F A G E I M N S,1
+R I G S I L G A L A K G L P T L K S W I K N R A M D,0
+A L Q G A K E R A H Q Q,0
+R R R S V G E E D A I P S H I E V N K F F L R K P A K E H I,0
+P G,0
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+G E I L C N L C T G L I N T L E N L L T T K R K R Q Q A M D,1
+R K Y V R F L H R W V K Y F R A Y L,0
+G I W K T I K S M G K V F A G K I K Q N L A M D,1
+K W K L F K K I G I G K F L K K K A M D,0
+G L F G K L I K K F G R K A I S Y A V K K A R G K H,1
+I L P W K W A W W P W R R A M D,1
+G L N A L K K V F Q K I H E A I K K I N N H V Q A M D,0
+I L P W K W P W W P A R R A M D,1
+C F Q W K R A M R K V R,0
+G L S L L L S L L L G K L A M D,1
+A C T R R W W C R A M D,0
+K L K K I W W I K V K K A M D,0
+F F H H I F R G I V H V G K T V H R L V T G A M D,1
+R I W V I W R R A M D,0
+G F K M A L K L L K K V L A M D,1
+F K D L K K I A N I I N S I F K K A M D,1
+V R R F P A W W P F L R R A M D,1
+K I A G K I A A I A G K I A K I A G K I A K I A A M D,1
+F L G A L W N V L K S V F A M D,1
+G A K E R A H Q,0
+G I R R I L R Y G R R S A M D,0
+K L K K L L K K W L K L L K K L L K A M D,1
+L K H G L L K R I K T L L A M D,1
+K W K K L L K K L L K L L K K L L K K L K K L L K A M D,1
+G R R P R P R P R P W W W W,0
+R G S A L T H L P,0
+H F L G K L V N L A K K I L A M D,1
+R I I D L L W R V R R P Q K P K F V T V W V R A M D,0
+A A K A W L K L W A K A A A M D,0
+K W A V R I I R K F I K G F I S A M D,1
+R L W D I V R R W V G W L A M D,1
+L L Q W L S K L L G R L L A M D,1
+W L S K T A K K L W L S K T A K K L A M D,0
+K W K V F K K I E K M I R N I R N K I V K A M D,0
+R R F R I V V I R W L R A M D,0
+R A G L Q F P V G R L L R R L L R R L L R,1
+K W K L F K K I A M D,1
+K K L F K K I L K Y L A M D,0
+L L K K L L K K L L K K A M D,1
+K F A K K F K W F A K A A F K F F K K A M D,1
+S I G T A V K K A V P I A K K V G K V A I P I A K A V L S V V G Q L V G,1
+G L L R A S S V W G R K Y Y V D L A G C A K A,1
+F F H H I F R G A V H V G K T I H R L V T G A M D,1
+G F M K Y I G P L I P H A V K A I K K L I A M D,1
+A C T K W K S F L K T F K S A E K T V L H T A L K A I S S A M D,0
+G L L K R I K F L L A M D,1
+G F K L G R K L V K V F K W I I A M D,1
+I L G P V L G L V S N A L G G L L A M D,0
+F I K R I A R L L R K I F A M D,1
+G L K K I F K K G L G S L V K G I A A H V A S A M D,1
+G F L S I L K K V L P K V M A H M K A M D,1
+F A K L L A K L A K K L L A M D,1
+G M L K R I K T L M A M D,1
+G L F A I I K K I A E S F A M D,1
+G F F G K M K E Y F K K F G A S F K R R F A N L K K R L A M D,1
+K L W K K W K K W L K A M D,0
+R L V R I L V S K R P V A I K P Y F R L,0
+K K L F K K I L K Y L A M D,0
+W K K I R V R L S A A M D,0
+K K L F K K I L K Y L A G P A L Y K L I K K F L K K K D E L,1
+A L W K N M L K G I G K L A G K A M D,1
+K K L F K K I L K Y L A M D,0
+G F F A L I P K I I S S P L F K T L L S A V G S A L S S S G E Q E,1
+K D R P K K P G L C P L I W W L I I K V G A M D,0
+G L W S T I K Q K G K E A A I A A A K A A G Q A A L G A L A M D,0
+R R R R R R R R R G G G G I G K W L H S A K K F G K A F V G E I M N S,0
+I S G P V L G L V G N A L G G L I K K I A M D,0
+G F K R L V Q R L K D F L R N L V A M D,1
+S G K L W W R R K K,0
+G I G A V L L V L T T G L P A L I S W I K R K R Q Q A M D,1
+Y K L L K L L L P K L K P L L P K L A M D,1
+F F H H I A R G I V H V G K T I H R L V T G,1
+K W K L F K K I L K F L H L A K K F A M D,1
+A A R I I L R T R F R A M D,0
+L R R L W L R A N R L L R R L W L R A N R L A M D,1
+R R F P F F P F K F P L I A M D,1
+I K K I V S K I K K V L A M D,1
+F F H H I F R A I V H V G K T I H R L V T G,1
+R V R R F P W W W P F L R R R A M D,1
+F L P L I G R V L S G I L A M D,0
+R W F K I Q M Q I R R W K N K K A M D,1
+F F H H I F R G K V H V G K T I H R L V T G A M D,1
+T K P T L L G L P L G A G P A A G P G K R A M D,1
+I W K R W W W K R A M D,0
+L A L K S G G W L R L F G L K D K K H A M D,1
+L N W G A I K K H I I K A M D,1
+R L K E L I T T G G Q K I G E K I R R I G Q R I K D F F K N L Q P R E E K S,0
+F L R F I G S V K H G K G H L V H H I G V A L A M D,0
+F F H H I F R P I V H V G K T I H R L V T G,1
+G I L N T I K S I A S K L K R K A K,1
+K I A G K I A A I A G K I A K I A G K I A K A M D,1
+G M A S L L A K V L P K V V K L I K,1
+G I M S S L M K K L K K I I A K A M D,1
+G I G K F L H T L K T F G K K W V G E I M N S A M D,1
+K K L F K K I L K Y L A M D,0
+K R I V K L I L K W L R A M D,0
+G R F K R F R K K F K K L F K K L S P V I P L L H L G A M D,1
+K K I M R T F L R R A M D,0
+G V V V R V G R V V V R G V R R A M D,0
+G L K A L K K V F K G I H K A I K L I N N H V Q,1
+L K K V L K A A A A M D,1
+K V L S K V H T L L K A V L A L A M D,0
+F L G E L W N V A K S V F A M D,1
+G I H D I L K Y G K P A A M D,0
+F L P L L A S L F S R L F A M D,1
+K R F K K F F R K L K K S V K K R K K E F K K K P R V I G V S I P F,0
+G K V W D W I K S T A K K L W N S E P V K E L K N T A L N A A K N L V A E K I G A T P S,1
+Y S L Q M G A T A I K Q V K K L F K K K G G A M D,0
+I L P I L S L I G G L L A M D,1
+S M L S V L K N L K K V G L G F V A C K I N K Q C,0
+R K L R R L K R K I A H K V K K Y A M D,1
+A C T L F K K N K L W F K S K K W L A M D,0
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+I L G L V I S T I G N V L G G L L K N L A M D,1
+G L L S L L S L L G K L L A M D,1
+A C T R R W W C N A M D,0
+M R E S P S S R M E C Y E Q A E R Y G Y G G Y G G G R Y G G G Y G S G R G Q P V G Q G V E R S H D D N R N Q P R H H H H H H,1
+F W P V V I R T V V A G Y N L Y R A I K K K,1
+K L L K I V V I K V L K A M D,0
+W S P Q E E D R I I E G G I,1
+G I L D A I K A I A K A A G A M D,0
+H P L K Q Y W W R P S I,0
+A C T R K K W F W A M D,0
+K W K V F K K I E K M G R N I R N G I V K A M D,0
+A C T K W K S F A K T F K S A K K T V L H T A L K A I S S A M D,0
+R R P R P R P R P F F F F A M D,0
+I L G K L L S T A W G L L S N L A M D,1
+I L G T I L G L L K G L A M D,0
+G I G K F L H S A G K F G K A F V G E I M K S,0
+F F K L I P K L V K K L I K A F K A M D,1
+R V K R V W P L V I R T V I A G Y N L Y R A I K K K,1
+P K V T I T I Q G S A R F,0
+R L W D I V R R W V G W L A M D,1
+S I G S A L K K A L P V A K K I G K I A L P I A K A A L P V A A G L V G,1
+G I G K F I H S V K K W G K T F I G E I M N S A M D,1
+K W K L F K K I P L A K K F A M D,0
+L K K L L K W L K K L A M D,0
+A K L W L K A A K L W L K A A M D,0
+I N L K A I A A F A K K L L A M D,0
+G L L K P L L K I A A K V G S N L L A M D,1
+F V P W F S K F L G R I L A M D,1
+G G L R S L G R K I L R A W K K Y G P Q A T P A T R Q A M D,0
+K L L K W W K K L L A M D,0
+F K R W V Q R W K R F L R A M D,1
+F R R F F K W P R R F F K F F A M D,0
+I L P S K S P S S P S R R A M D,1
+G I G A V L D V L T T G L P A L I S W I K R K R Q Q A M D,1
+G I K E F A H S L G K F G K A F V G G I L N Q,1
+V V Q G A C R A I R H I P R R I R A M D,0
+A L W K T M L K K L G T M A L H A G K A A F G A A A D T I S Q,1
+A C T F K K L K K L F S K L W N W K R K K R R Q R R R A M D,0
+W R R F W H R,1
+G F K K L L K G A A K A L V K T V L F A M D,1
+G I M S S L M K K L K K I I A K A M D,1
+F K R L K K L F K K I W N W K,0
+G M A K L L A K V L P H V V K L I K,1
+W R N G R W W R N G R W A M D,0
+G L L K R I A M D,1
+A A G K G L V S N L L E K A M D,0
+A C T R R W W C V A M D,0
+R W K I F K K V V K K A A M D,0
+G F R K R F N K L V K K V K H T I K E T A N V S K D V A I V A G S G V A V G A A M A M D,0
+R G K R W W R R K K,0
+F K R I V Q R I K D F L R N L V A M D,0
+G F W S S V W D G A K N V G T A I,0
+F P V T W P T K W W K G A M D,1
+I A G K I A K I A G K I A K I A G K I A K I A G K I A A M D,1
+F Q W Q R N I R K V R A M D,0
+A L N A L K K V S Q G I H E A I K L I A N H V Q A M D,0
+G L N A L K K V F Q K I H E A I K L I N N H V Q A M D,1
+G I G K F L H S A K K F G K A W V G E I M N S A M D,1
+R R R R R R R V S R R P M R R Y R S R R P R R L V,0
+K R I V Q R I K D W L R A M D,1
+R G L R R L G R K I A H G V K K Y G,0
+F L G A L W N V W K S V F A M D,1
+I R I R P I R I R P,0
+K W K L F K K I G I G A V L K V L T T G A M D,0
+F R V T W R T K W W K G A M D,1
+G M A S K L A K V L P H V V K L I K,1
+A C T K W K S F L K T F K S L K K T V L H T L L K A I S S A M D,0
+K K F W E D D G A M D,0
+K L S P S L G P V S K G K L L A G Q R A M D,1
+A L W K T M L K K L G T A M D,1
+K I A K G A L K A L K I A K G A L K A L A M D,1
+I L G K L L K T A A K L L S N L A M D,1
+K W K K L L K K L L K L L K K,0
+I K K I W S K I K K W W K,1
+F A S G I A G M A G K L F A M D,1
+R F K I W K K I E K V G R N V R D G I I K A A M D,0
+I N W K G I A A M A K K L A A M D,0
+R R W V R R V R R W V R R V V R V V R R W V R R,0
+K W K L F K K I G K V L K K L,0
+G L L G P L L K I A A K V G K K L L A M D,1
+V A I A L K A A H Y H T H K E,0
+G S K R W R K F E K R V K K V F E H T K E A L P V I Q G V A T V V G A V G R R,0
+K K L L K W L L K L L A M D,1
+K V F K R L E K L F S,0
+G K W M S L L K H I L K A M D,1
+T H V F R L K K W M Q K V I D R F G G,0
+G L L S L S L G K L L A M D,1
+A W A S F F K K A A H V G K H V G K A A L T H Y L,0
+R R R F V A Q Q N A I H S R V S R Q V P T L S N S V,0
+L N A L K K V F Q G I H E A I K K I A M D,0
+G F M K Y I K P L I P H A V K A I K K L I A M D,0
+K R F W P L V P V A I N T V A A G I N L Y K A I R R K,1
+W R R R Y R R W R R R R R W R R R P R R A M D,1
+G V W T T I L G G L K K F A K G G L E A L T N P K,1
+A C T H R K K W F W A M D,0
+K W K L F K K I G I G K F L H S A K K F A M D,0
+G V V V R W G R V W V R G V R R A M D,0
+A K R H H G Y K R K F H A K R H H G Y K R K F H A K R H H G Y K R K F H A M D,1
+R W K I A K K I E K V G R N V R D G I I K A G P A V A V V G Q A A T V V K A M D,0
+G L K K I F K A G L G S L V K G I A A H V A S A M D,1
+F L S L I P H V I S A I P H V V N A L S N L A M D,1
+V R R F P Y Y Y P F L R R A M D,1
+R L W R R W R R W L R A M D,0
+F A K K L A K K L K K L A K K L A K,1
+R P A F R K A A F R V M R A C V A M D,0
+G F L G P L L K L G L K G V A K V I P H L I P S R Q Q,1
+D A A C A A K C L W R A M D,1
+V A R G W K R K C P L F G K G G,0
+F F K L I P K L V K G L I S A F K A M D,1
+G L P A L I S W I K R K R Q Q A M D,0
+Y K L L K W L L L K L K A L L E K L A M D,1
+A L W M T L L K K V L K A A A K A A L D A V L V G A N A,1
+I W R I F R R I F A M D,1
+G W L D V A K K I G K A A F N V A K N F I A M D,1
+W W P F L R R A M D,1
+G I G A V L K V L T T G A P A L I S W I K R K R Q Q A M D,1
+G I G K F L H S A K K F A K A F V G E I M N S,1
+A C T F K K L K K L F S K L W N W K A M D,0
+V I H R A G L Q F P V G R V H R L L R K A M D,0
+I L G K L L S T A A G L L S K L A M D,1
+I L P W K W P W W P W R R A M D,1
+G L W S K I K T A G K S V A K A A A K A A V K A V T N A V,1
+F V Q W F S K F L G R I L A M D,1
+G L F D I I K K A A E S F A M D,0
+A L W K K I L K N A G K A A L N K I N Q I V Q A M D,1
+G F G M A L K L L K K V L A M D,1
+I K I P S F F R N I L K K V G K E A V S L I A G A L K Q S,1
+K L L L K L L L K L L K,1
+G I A K F G K A A A H F G K K W V G E L M N S A M D,1
+K R I R K R I K K W K R A M D,1
+F F G K V L K L I R K I F A M D,1
+A L G D F F R K S K E K I G K E F K R I V Q R I K D F L R N L A K R H H G Y K R K F H L E Y,0
+G I G K F L H S A K K F G K A F V G E I M N S,0
+I L K W K W P W W K W R R A M D,1
+F W Q R N I R I R R A M D,0
+G I W D T I K S M G K V F A G K I L Q N L A M D,1
+G I L G K L W E G V K S I F A M D,0
+K W K L F K K I P K F L H L A K A M D,0
+V K R W K K W R W K W K K W V A M D,0
+K K L F K K I L R Y L A M D,0
+A G L Q F P V G R V H R L L R K,0
+W R R F W R R,1
+K K W K K W K K W K K A M D,0
+G I G A V L G V L T T G L P A L I S W I K R K R Q Q A M D,1
+A C T A L K S L L K T L S K A K A A K L K T L L K A L S K A M D,1
+K K K K W K L F K K I G I G K F L A M D,0
+F V P W F S K F L K R I L A M D,0
+G I R D V L K G A A K A F V K T V A G H I A N A M D,1
+G L L S L S L L G K L L A M D,1
+I L R W P W W P W R R K A M D,0
+F L P L I G R V L S G I L A M D,0
+G L K K I F K A G L G S L K K G I A A H V A S A M D,1
+L K W L K K W L K A M D,0
+G L P A L I S W I K R K R Q A M D,1
+G L V G T L L G H I G K A I L G G,0
+G V V D I L K G A A K D I A G H L A S K V M N A L A M D,0
+F F H H I F R G I K H V G K T I H R L V T G,1
+G L K D K F K S M G E K L K Q Y I Q T W K A K F A M D,0
+L W K A A A K A A A K W L A M D,0
+R R I V Q R I R D F L R A M D,1
+I L G P V I S T I G N A L G G L L K N L A M D,1
+F L G A L W N V F K S V F A M D,1
+F P V G R V H R L L R K,1
+R W K I F K K I E K V G A M D,0
+G L V G T L L G H I G K A I L S A M D,1
+S K K L F K K I L K Y L A G P A K F L H S A K,0
+G L L G L L G S V V S H V V P A I V G H F A M D,1
+K R L F K E L K F S L R K Y,1
+G L G K F L H S A K R F G K A F V G E A M N S A M D,0
+A L W K T M L K K L G T M A L H A G K A A L G A A A D T I S Q G T Q,1
+I K I P P I V K D T L K K V A K G V L S T V A D A L S K S,1
+G G A R S L G R K I L R A W K K Y G P I I V P I I R I A M D,1
+G I M S S L M K K L K K H I A K A M D,1
+I L G K I W E G I K S I F A M D,1
+M D S F Q K I E K I G E G T Y G V V Y K A K D K V S G R L V A L K K I R L E N E S E G V P S T A A M D,0
+G L P A L I S L I K R K R Q Q A M D,0
+L V I R T V I A G Y N L Y R A I K K K,1
+K L K K L L K K W L K L L K K L L K A M D,1
+W L L K R W K K L L A M D,0
+I L K W K W K W W K W R R A M D,1
+W F W K L L W K A L R L W W K V L A M D,1
+F L G A L W R V A K S V F A M D,1
+K C R R W Q W R M K K A M D,0
+G I G A V L A V L T T G L P A L I S W I K R K R Q Q A M D,1
+R R L F R R I L R Y L A M D,1
+G G H R A G L Q F P V G R V H R L L R K A M D,0
+K A L K K F L K A W A K L F K A L A M D,1
+L L L L L K K K K K K L L L L A M D,0
+G K W M S L L K H I L K A M D,1
+W W R L R R I W A M D,1
+I L G K I W E G K K S L F A M D,0
+G I G K F L H S A K K F G K A F V G E I M N S K K K K K K K K K K,0
+I S L N P P R S T I A M R A I N N Y R W R S K N Q N T F L R,1
+G L F E V I K K V A S V I G G L A M D,1
+R L T Y K P R T V T Y T R G R A M D,0
+I N L K A I A A L A K K L L A M D,0
+L K K L L K K L L K W A M D,0
+L A F I K R K,0
+A C T E W E S F L E T F E S A K E T V L H T A L E A I S S A M D,0
+G L W S K I K E A A K T A G L M A M G F V N D M V,1
+F W Q R N I R K W R A M D,0
+L K L F K K I L K F L A M D,1
+K E F K R I V Q R I K D F L R N L V,0
+L I A G L A A N F L P Q I L C K I A R K C A M D,1
+F L K L L K K L L A M D,0
+F F H H I F R G V V H V G K T I H R L V T G A M D,1
+K R F W Q L V P L A I K I Y R A W K R R,1
+G K G R W L E R I G K A G G I I I G G A L D H L A M D,1
+R G W R R W G R K W A H G W K K Y G A M D,1
+F L G A L W K V A S K,0
+A A R I I L R I R F R A M D,0
+G M A S K A G S V L G K I T K I A L G A L A M D,1
+K I W F Q N R R M K W K K A M D,1
