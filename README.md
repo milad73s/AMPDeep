@@ -7,11 +7,17 @@ Three different benchmarks for hemolysis activity prediction of therapeutic and 
 
 # Requirements
 transformers==4.8.1
+
 rdkit==2019.09.03
+
 torch==1.9.0
+
 pandas==1.1.5
+
 numpy
+
 scikit-learn
+
 matplotlib
 
 # UniProt Keyword Analysis (optional)
