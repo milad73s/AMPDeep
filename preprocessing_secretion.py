@@ -154,7 +154,7 @@ df_secreted_all_cleaned_shuffled_test.to_csv('data/swissprot/secreted_all_cleane
 
 
 for dirs in ['data/swissprot/secreted_all_cleaned_all_train.csv',
-             'data/swissprot/secreted_all_cleaned_all_test.csv',
+             'data/swissprot/secreted_all_cleaned_all_test_cdhit.csv',
 'data/hemolythic/hemolythic_train.csv',
 'data/hemolythic/hemolythic_test.csv',
 'data/hlppredfuse/hlppredfuse_train.csv',
@@ -164,3 +164,40 @@ for dirs in ['data/swissprot/secreted_all_cleaned_all_train.csv',
              ]:
     df = pd.read_csv(dirs)
     print(dirs, len(df), len(df[df['labels'] == 1]), len(df[df['labels'] == 0]))
+
+# save as fasta for cd-hit analysis
+df_secreted_all_cleaned_shuffled_train = pd.read_csv('data/swissprot/secreted_all_cleaned_all_train.csv')
+df_secreted_all_cleaned_shuffled_test = pd.read_csv('data/swissprot/secreted_all_cleaned_all_test.csv')
+
+train_seqs = [s.replace(" ", "") for s in list(df_secreted_all_cleaned_shuffled_train['text'])]
+test_seqs = [s.replace(" ", "") for s in list(df_secreted_all_cleaned_shuffled_test['text'])]
+
+train_fasta = []
+test_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+for i in range(len(test_seqs)):
+    test_fasta.append('>seq'+str(i)+'\n')
+    test_fasta.append(test_seqs[i]+'\n')
+
+with open('data/swissprot/secreted_all_cleaned_all_train.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+with open('data/swissprot/secreted_all_cleaned_all_test.fasta', 'w+') as f:
+    for line in test_fasta:
+        f.write(line)
+
+test_cdhit = []
+with open('data/swissprot/cdhit_results', 'r') as f:
+    for line in f:
+        test_cdhit.append(line)
+
+remaining_idx = []
+for i in test_cdhit:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_test_df = df_secreted_all_cleaned_shuffled_test.iloc[remaining_idx]
+remaining_test_df.to_csv('data/swissprot/secreted_all_cleaned_all_test_cdhit.csv', header=True, index=False)

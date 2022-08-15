@@ -226,3 +226,304 @@ print(len(hem_df_train), len(hem_df_test), len(hem_df_train[hem_df_train['labels
 
 hem_df_train.to_csv('data/rnnamp/rnnamp_train.csv', index=False)
 hem_df_test.to_csv('data/rnnamp/rnnamp_test.csv', index=False)
+
+
+# find overlap between datasets
+df_rnn = pd.read_csv('data/rnnamp/rnnamp.csv')
+df_hlp = pd.read_csv('data/hlppredfuse/hlppredfuse.csv')
+df_hem = pd.read_csv('data/hemolythic/hemolythic.csv')
+
+
+def intersection(lst1, lst2):
+    lst3 = [value for value in lst1 if value in lst2]
+    return lst3
+
+
+for df1 in [df_rnn, df_hlp, df_hem]:
+    for df2 in [df_rnn, df_hlp, df_hem]:
+        seq1 = list(df1['text'])
+        seq2 = list(df2['text'])
+        intersect = intersection(seq1, seq2)
+        print(len(intersect), len(seq1), len(seq2))
+
+
+# save as fasta for cd-hit analysis
+df_train = pd.read_csv('data/hlppredfuse/hlppredfuse_train.csv')
+df_test = pd.read_csv('data/hlppredfuse/hlppredfuse_test.csv')
+
+train_seqs = [s.replace(" ", "") for s in list(df_train['text'])]
+test_seqs = [s.replace(" ", "") for s in list(df_test['text'])]
+
+train_fasta = []
+test_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+for i in range(len(test_seqs)):
+    test_fasta.append('>seq'+str(i)+'\n')
+    test_fasta.append(test_seqs[i]+'\n')
+
+with open('data/hlppredfuse/hlppredfuse_train.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+with open('data/hlppredfuse/hlppredfuse_test.fasta', 'w+') as f:
+    for line in test_fasta:
+        f.write(line)
+# cd-hit-2d -i ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_train.fasta -i2 ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_test.fasta -o ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_cdhit_results -c 0.4 -n 2
+# cd-hit-2d -i ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_test.fasta -i2 ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_train.fasta -o ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_cdhit_results -c 0.4 -n 2
+
+test_cdhit = []
+with open('data/hlppredfuse/hlppredfuse_cdhit_results', 'r') as f:
+    for line in f:
+        test_cdhit.append(line)
+
+remaining_idx = []
+for i in test_cdhit:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_test_df = df_test.iloc[remaining_idx]
+print(len(df_test), len(remaining_test_df))
+
+remaining_train_df = df_train.iloc[remaining_idx]
+print(len(df_train), len(remaining_train_df))
+
+
+df = pd.read_csv('data/hlppredfuse/hlppredfuse.csv')
+train_seqs = [s.replace(" ", "") for s in list(df['text'])]
+train_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+
+with open('data/hlppredfuse/hlppredfuse.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+
+# cd-hit -i ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse.fasta -o ../../PycharmProjects/ampdeep/data/hlppredfuse/hlppredfuse_cdhit_results -c 0.4 -n 2
+
+cdhit_results = []
+with open('data/hlppredfuse/hlppredfuse_cdhit_results', 'r') as f:
+    for line in f:
+        cdhit_results.append(line)
+
+remaining_idx = []
+for i in cdhit_results:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_df = df.iloc[remaining_idx]
+print(len(df), len(remaining_df))
+
+# hlpprefuse 3518 1141
+# rnnhem 2557 140
+# XGBC 1104 357
+
+
+df = pd.read_csv('data/rnnamp/rnnamp.csv')
+train_seqs = [s.replace(" ", "") for s in list(df['text'])]
+train_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+
+with open('data/rnnamp/rnnamp.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+
+# cd-hit -i ../../PycharmProjects/ampdeep/data/rnnamp/rnnamp.fasta -o ../../PycharmProjects/ampdeep/data/rnnamp/rnnamp_cdhit_results -c 0.4 -n 2
+
+cdhit_results = []
+with open('data/rnnamp/rnnamp_cdhit_results', 'r') as f:
+    for line in f:
+        cdhit_results.append(line)
+
+remaining_idx = []
+for i in cdhit_results:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_df = df.iloc[remaining_idx]
+print(len(df), len(remaining_df))
+
+
+
+df = pd.read_csv('data/hemolythic/hemolythic.csv')
+train_seqs = [s.replace(" ", "") for s in list(df['text'])]
+train_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+
+with open('data/hemolythic/hemolythic.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+
+# cd-hit -i ../../PycharmProjects/ampdeep/data/hemolythic/hemolythic.fasta -o ../../PycharmProjects/ampdeep/data/hemolythic/hemolythic_cdhit_results -c 0.4 -n 2
+
+cdhit_results = []
+with open('data/hemolythic/hemolythic_cdhit_results', 'r') as f:
+    for line in f:
+        cdhit_results.append(line)
+
+remaining_idx = []
+for i in cdhit_results:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_df = df.iloc[remaining_idx]
+print(len(df), len(remaining_df))
+
+# combine all hemolythic datasets
+df_rnn = pd.read_csv('data/rnnamp/rnnamp.csv')
+df_hlp = pd.read_csv('data/hlppredfuse/hlppredfuse.csv')
+df_hem = pd.read_csv('data/hemolythic/hemolythic.csv')
+
+all_dfs = [df_rnn, df_hlp, df_hem]
+
+seqs = []
+labels = []
+for df in all_dfs:
+    seqs.extend(list(np.array(df['text'])))
+    labels.extend(list(np.array(df['labels'])))
+
+merged = pd.DataFrame(data=zip(seqs, labels), columns=['text', 'labels'])
+merged = merged.sample(frac=1, random_state=42)
+merged.to_csv('data/combined/combined.csv', header=True, index=False)
+
+train_seqs = [s.replace(" ", "") for s in list(merged['text'])]
+train_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+
+with open('data/combined/combined.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+
+# cd-hit -i ../../PycharmProjects/ampdeep/data/combined/combined.fasta -o ../../PycharmProjects/ampdeep/data/combined/combined_cdhit_results -c 0.4 -n 2
+
+cdhit_results = []
+with open('data/combined/combined_cdhit_results', 'r') as f:
+    for line in f:
+        cdhit_results.append(line)
+
+remaining_idx = []
+for i in cdhit_results:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_merged = merged.iloc[remaining_idx]
+print(len(merged), len(remaining_merged))
+print(np.sum(remaining_merged['labels']))
+
+
+ind_test_pos = remaining_merged[remaining_merged['labels'] == 1].sample(n=50, random_state=42)
+ind_test_neg = remaining_merged[remaining_merged['labels'] == 0].sample(n=50, random_state=42)
+
+ind_test = pd.concat([ind_test_pos, ind_test_neg])
+ind_test = ind_test.sample(frac=1, random_state=42)
+ind_test.reset_index(drop=True, inplace=True)
+
+ind_test.to_csv('data/combined/combined_test.csv', header=True, index=False)
+
+# create fasta file from indepent test set
+train_seqs = [s.replace(" ", "") for s in list(ind_test['text'])]
+train_fasta = []
+
+for i in range(len(train_seqs)):
+    train_fasta.append('>seq'+str(i)+'\n')
+    train_fasta.append(train_seqs[i]+'\n')
+
+with open('data/combined/combined_test.fasta', 'w+') as f:
+    for line in train_fasta:
+        f.write(line)
+
+# cd-hit-2d -i ../../PycharmProjects/ampdeep/data/combined/combined_test.fasta -i2 ../../PycharmProjects/ampdeep/data/combined/combined.fasta -o ../../PycharmProjects/ampdeep/data/combined/combined_cdhit_results -c 0.4 -n 2
+
+test_cdhit = []
+with open('data/combined/combined_cdhit_results', 'r') as f:
+    for line in f:
+        test_cdhit.append(line)
+
+remaining_idx = []
+for i in test_cdhit:
+    if '>' in i:
+        remaining_idx.append(int(i.lstrip('>seq').rstrip('\n')))
+
+remaining_merged = merged.iloc[remaining_idx]
+print(len(merged), len(remaining_merged))
+print(np.sum(remaining_merged[remaining_merged['labels'] == 1]))
+
+
+ind_train_pos = remaining_merged[remaining_merged['labels'] == 1]
+ind_train_neg = remaining_merged[remaining_merged['labels'] == 0].sample(n=len(ind_train_pos), random_state=42)
+
+ind_train = pd.concat([ind_train_pos, ind_train_neg])
+ind_train = ind_train.sample(frac=1, random_state=42)
+ind_train.reset_index(drop=True, inplace=True)
+
+ind_train.to_csv('data/combined/combined_train.csv', header=True, index=False)
+
+ind_train = pd.read_csv('data/combined/combined_train.csv')
+ind_test = pd.read_csv('data/combined/combined_test.csv')
+print(len(ind_train), len(ind_train[ind_train['labels'] == 1]), len(ind_train[ind_train['labels'] == 0]))
+print(len(ind_test), len(ind_test[ind_test['labels'] == 1]), len(ind_test[ind_test['labels'] == 0]))
+
+
+# hlpprefuse 3518 1141
+# rnnhem 2557 140
+# XGBC 1104 357
+
+
+
+# plot a Stacked Bar Chart using matplotlib
+import matplotlib.pyplot as plt
+similarity_df = pd.DataFrame(data=[['RNN-Hem', 140, 2557-140],
+                                   ['HLPpred-Fuse', 1141, 3518-1141],
+                                   ['XGBC-Hem', 357, 1104-357]],
+                             columns=['Dataset', 'representative', 'redundant'])
+similarity_df['total'] = similarity_df["representative"] + similarity_df["redundant"]
+similarity_df['Redundant'] = similarity_df['redundant']/similarity_df['total']*100
+similarity_df['Non-Redundant'] = similarity_df['representative']/similarity_df['total']*100
+
+
+similarity_df_total = similarity_df['total']
+similarity_df.drop(['total', 'redundant', 'representative'], axis=1, inplace=True)
+similarity_df_rel = similarity_df[similarity_df.columns[1:]]
+
+fontsize = 15
+# fig = plt.figure(dpi=300)
+similarity_df.plot(
+    x='Dataset',
+    kind='barh',
+    stacked=True,
+    # title='Percentage Stacked Bar Graph',
+    mark_right=True)
+for n in similarity_df_rel:
+    for i, (cs, ab, pc) in enumerate(zip(similarity_df.iloc[:, 1:].cumsum(1)[n],
+                                         similarity_df[n], similarity_df_rel[n])):
+        print(cs, ab, pc)
+        plt.text(cs - ab / 2, i, str(np.round(pc, 1)) + '%',
+                 va='center', ha='center', fontsize=fontsize)
+plt.ylabel('Dataset', fontsize=fontsize+2)
+plt.xlabel('Percentage', fontsize=fontsize+2)
+plt.xticks(fontsize=fontsize)
+plt.yticks(fontsize=fontsize)
+plt.ylim(-0.5, 2.7)
+plt.legend(fontsize=fontsize-2, ncol=2)
+plt.tight_layout()
+plt.savefig('results/similarity.png', format='png', dpi=300)
+plt.show()
+
+
+
+
+
+
+
